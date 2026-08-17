@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_qualquer_gato_viralata_2011",
+  "title": "Qualquer Gato Vira-Lata",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q281809",
+    "imdb": "tt1730133",
+    "tmdb": 74053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-10",
+  "runtime_minutes": 95
+}

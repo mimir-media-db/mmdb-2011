@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quest_for_zhu_2011",
+  "title": "Quest for Zhu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7271481",
+    "imdb": "tt2073154",
+    "tmdb": 75421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-27",
+  "runtime_minutes": 72
+}

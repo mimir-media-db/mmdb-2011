@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_days_of_our_lives_2011",
+  "title": "Queen: Days of Our Lives",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61001506",
+    "imdb": "tt1977894",
+    "tmdb": 74406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 60
+}
