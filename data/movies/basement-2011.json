@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_basement_2011",
+  "title": "The Basement",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125603174",
+    "imdb": "tt2005367",
+    "tmdb": 89695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-13",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_sheep_2011",
+  "title": "Black Sheep",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17416347",
+    "imdb": "tt1699164",
+    "tmdb": 55612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-21",
+  "runtime_minutes": 90
+}

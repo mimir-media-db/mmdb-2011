@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boris_godunov_2011",
+  "title": "Boris Godunov",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4093746",
+    "imdb": "tt3240014",
+    "tmdb": 77869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-12",
+  "runtime_minutes": 124
+}

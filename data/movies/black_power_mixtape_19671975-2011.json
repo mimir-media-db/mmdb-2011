@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_power_mixtape_19671975_2011",
+  "title": "The Black Power Mixtape 1967-1975",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14955193",
+    "imdb": "tt1592527",
+    "tmdb": 75000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

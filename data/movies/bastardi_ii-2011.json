@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bastardi_ii_2011",
+  "title": "Bastardi II",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56649478",
+    "imdb": "tt1972600",
+    "tmdb": 110355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-27",
+  "runtime_minutes": 95
+}

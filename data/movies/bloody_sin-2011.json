@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_sin_2011",
+  "title": "Bloody Sin",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20804154",
+    "imdb": "tt1669564",
+    "tmdb": 500255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

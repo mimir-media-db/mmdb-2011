@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_broadway_2011",
+  "title": "Broadway",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16534145",
+    "imdb": "tt1870344",
+    "tmdb": 619410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_screen_2011",
+  "title": "Behind the Screen",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15427480",
+    "imdb": "tt2056531",
+    "tmdb": 954591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 60
+}

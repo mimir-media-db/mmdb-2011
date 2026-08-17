@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bernie_2011",
+  "title": "Bernie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1029212",
+    "imdb": "tt1704573",
+    "tmdb": 92591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-16",
+  "runtime_minutes": 104
+}

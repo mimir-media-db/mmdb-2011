@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barzakh_2011",
+  "title": "Barzakh",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12650488",
+    "imdb": "tt1813175",
+    "tmdb": 275829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 59
+}

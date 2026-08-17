@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_to_race_2011",
+  "title": "Born to Race",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q893934",
+    "imdb": "tt1781781",
+    "tmdb": 74523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-06",
+  "runtime_minutes": 95
+}

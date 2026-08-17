@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_of_the_queens_2011",
+  "title": "Battle of the Queens",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718723",
+    "imdb": "tt1786533",
+    "tmdb": 320083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bucksville_2011",
+  "title": "Bucksville",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17063263",
+    "imdb": "tt1544577",
+    "tmdb": 141951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

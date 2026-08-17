@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bittenii_premonition_2011",
+  "title": "Bittenii (Premonition)",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72881991"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 13
+}

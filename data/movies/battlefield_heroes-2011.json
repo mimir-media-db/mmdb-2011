@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battlefield_heroes_2011",
+  "title": "Battlefield Heroes",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16184282",
+    "imdb": "tt1832438",
+    "tmdb": 65881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-27",
+  "runtime_minutes": 118
+}

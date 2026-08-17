@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_smuggler_2011",
+  "title": "Book Smuggler",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63498599",
+    "imdb": "tt1877675",
+    "tmdb": 272413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 36
+}

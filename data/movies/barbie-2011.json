@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbie_2011",
+  "title": "Barbie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20444599",
+    "imdb": "tt2074334",
+    "tmdb": 139588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-07",
+  "runtime_minutes": 97
+}

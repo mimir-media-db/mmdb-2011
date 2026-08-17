@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brief_reunion_2011",
+  "title": "Brief Reunion",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4967026",
+    "imdb": "tt1697887",
+    "tmdb": 158227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-10",
+  "runtime_minutes": 88
+}

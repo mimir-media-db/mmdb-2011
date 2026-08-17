@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boronia_boys_2011",
+  "title": "Boronia Boys",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112869277",
+    "imdb": "tt1485686",
+    "tmdb": 270283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

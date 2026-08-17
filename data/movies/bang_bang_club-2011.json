@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bang_bang_club_2011",
+  "title": "The Bang Bang Club",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1891712",
+    "imdb": "tt1173687",
+    "tmdb": 60011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-23",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bloodlust_zombies_2011",
+  "title": "Bloodlust Zombies",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110606966",
+    "imdb": "tt1904850",
+    "tmdb": 67655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

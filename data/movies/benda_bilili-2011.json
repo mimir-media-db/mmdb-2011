@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_benda_bilili_2011",
+  "title": "Benda Bilili!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q586538",
+    "imdb": "tt1625857",
+    "tmdb": 55003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-19"
+}

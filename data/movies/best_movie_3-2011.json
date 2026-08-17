@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_movie_3_2011",
+  "title": "The Best Movie 3",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4407200",
+    "imdb": "tt1796603",
+    "tmdb": 57889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-20",
+  "runtime_minutes": 97
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_cornflower_2011",
+  "title": "The Blue Cornflower",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15936499",
+    "imdb": "tt2471308",
+    "tmdb": 916092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

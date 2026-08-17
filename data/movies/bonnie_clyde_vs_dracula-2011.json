@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bonnie_clyde_vs_dracula_2011",
+  "title": "Bonnie & Clyde vs. Dracula",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112525306",
+    "imdb": "tt1117379",
+    "tmdb": 67892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-13",
+  "runtime_minutes": 91
+}

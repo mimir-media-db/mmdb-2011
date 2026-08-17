@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_birth_of_a_warrior_2011",
+  "title": "Birth Of A Warrior",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543658",
+    "imdb": "tt1826616",
+    "tmdb": 323725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

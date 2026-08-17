@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_but_life_goes_on_2011",
+  "title": "But Life Goes On",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19884037",
+    "imdb": "tt1939646",
+    "tmdb": 262687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-05"
+}

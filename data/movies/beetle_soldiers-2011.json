@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beetle_soldiers_2011",
+  "title": "The Beetle Soldiers",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19733188",
+    "imdb": "tt2062636",
+    "tmdb": 380936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-16",
+  "runtime_minutes": 106
+}

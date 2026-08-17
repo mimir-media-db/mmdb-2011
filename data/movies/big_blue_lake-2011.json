@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_blue_lake_2011",
+  "title": "Big Blue Lake",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4905157",
+    "imdb": "tt2066857",
+    "tmdb": 96817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-04"
+}

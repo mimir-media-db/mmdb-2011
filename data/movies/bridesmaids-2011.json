@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bridesmaids_2011",
+  "title": "Bridesmaids",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q837264",
+    "imdb": "tt1478338",
+    "tmdb": 55721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-28",
+  "runtime_minutes": 125
+}

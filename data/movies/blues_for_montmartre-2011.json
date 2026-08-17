@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_blues_for_montmartre_2011",
+  "title": "Blues for Montmartre",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20728219"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-05",
+  "runtime_minutes": 83
+}

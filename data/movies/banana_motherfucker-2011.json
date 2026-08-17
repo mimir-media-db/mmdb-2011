@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_banana_motherfucker_2011",
+  "title": "Banana Motherfucker",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18760874",
+    "imdb": "tt2165625",
+    "tmdb": 177055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-31",
+  "runtime_minutes": 16
+}

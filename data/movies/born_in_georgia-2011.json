@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_born_in_georgia_2011",
+  "title": "Born in Georgia",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16844739",
+    "imdb": "tt1887713",
+    "tmdb": 632006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

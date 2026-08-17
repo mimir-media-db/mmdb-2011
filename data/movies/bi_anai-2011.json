@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bi_anai_2011",
+  "title": "Bi anai",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16516602",
+    "imdb": "tt2072059",
+    "tmdb": 80550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-11",
+  "runtime_minutes": 104
+}

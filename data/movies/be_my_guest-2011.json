@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_be_my_guest_2011",
+  "title": "Be My Guest",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16189259",
+    "imdb": "tt1519632",
+    "tmdb": 79125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-20"
+}
