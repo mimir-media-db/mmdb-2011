@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rescue_dina_foxx_2011",
+  "title": "Rescue Dina Foxx!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15854005",
+    "imdb": "tt1881106",
+    "tmdb": 529890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 58
+}

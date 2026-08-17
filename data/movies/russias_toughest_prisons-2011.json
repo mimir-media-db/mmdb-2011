@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_russias_toughest_prisons_2011",
+  "title": "Russia's Toughest Prisons",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50312815",
+    "imdb": "tt2193698",
+    "tmdb": 262765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

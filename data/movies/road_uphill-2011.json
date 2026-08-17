@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_road_uphill_2011",
+  "title": "The Road Uphill",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13105205",
+    "imdb": "tt1891956",
+    "tmdb": 196079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reverend_2011",
+  "title": "The Reverend",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17015332",
+    "imdb": "tt1073240",
+    "tmdb": 124873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

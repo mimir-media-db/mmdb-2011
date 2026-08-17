@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rejection_2011",
+  "title": "Rejection",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4340181",
+    "imdb": "tt1822279",
+    "tmdb": 220557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-10",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rose_valley_2011",
+  "title": "[Rose Valley]",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19615080",
+    "imdb": "tt2066131",
+    "tmdb": 964326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 118
+}

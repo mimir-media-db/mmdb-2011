@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rengo_kantai_shirei_chokan_yamamoto_isoroku_2011",
+  "title": "Rengō Kantai Shirei Chōkan: Yamamoto Isoroku",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9026967",
+    "imdb": "tt1932695",
+    "tmdb": 131739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 140
+}

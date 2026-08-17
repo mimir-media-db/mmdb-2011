@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rocky_xxx_a_parody_thriller_2011",
+  "title": "Rocky XXX: A Parody Thriller",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50412785",
+    "imdb": "tt2334789",
+    "tmdb": 464792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_dirt_rising_2011",
+  "title": "Red Dirt Rising",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16984034",
+    "imdb": "tt1103274",
+    "tmdb": 48839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

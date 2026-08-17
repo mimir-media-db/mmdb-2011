@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ranger_2011",
+  "title": "Ranger",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11125196",
+    "imdb": "tt4673908",
+    "tmdb": 1374046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

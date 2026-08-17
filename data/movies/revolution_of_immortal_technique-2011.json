@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_revolution_of_immortal_technique_2011",
+  "title": "The (R)evolution of Immortal Technique",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140654739",
+    "imdb": "tt1982854",
+    "tmdb": 124386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 60
+}

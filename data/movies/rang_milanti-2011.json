@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rang_milanti_2011",
+  "title": "Rang Milanti",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7292579",
+    "imdb": "tt4192214",
+    "tmdb": 420782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-09"
+}

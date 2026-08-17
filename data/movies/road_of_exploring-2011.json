@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_road_of_exploring_2011",
+  "title": "The Road of Exploring",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15914747",
+    "tmdb": 792447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

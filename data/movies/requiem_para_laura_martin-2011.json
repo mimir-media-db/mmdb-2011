@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_requiem_para_laura_martin_2011",
+  "title": "Réquiem para Laura Martin",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17081759",
+    "imdb": "tt2078717",
+    "tmdb": 275620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_radici_2011",
+  "title": "Radici",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115663299",
+    "imdb": "tt23622888"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 60
+}

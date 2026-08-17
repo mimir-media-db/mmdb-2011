@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ricky_the_movie_2011",
+  "title": "Ricky! The Movie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600325",
+    "imdb": "tt1720209",
+    "tmdb": 1502031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

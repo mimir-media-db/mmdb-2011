@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_bike_2011",
+  "title": "The Red Bike",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50280773",
+    "imdb": "tt1843298",
+    "tmdb": 325773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 12
+}

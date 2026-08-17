@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rough_hands_2011",
+  "title": "Rough Hands",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12181326",
+    "imdb": "tt2043781",
+    "tmdb": 226010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-11"
+}

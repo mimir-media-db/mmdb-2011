@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_recorder_exam_2011",
+  "title": "The Recorder Exam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85978098",
+    "tmdb": 558432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-25"
+}

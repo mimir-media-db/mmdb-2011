@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reconstruction_of_asa_carter_2011",
+  "title": "The Reconstruction of Asa Carter",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123956244",
+    "imdb": "tt1540120",
+    "tmdb": 784754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 57
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rain_2011",
+  "title": "Rain",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65770121",
+    "imdb": "tt1194615",
+    "tmdb": 127445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-05",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rehab_2011",
+  "title": "Rehab",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16595306",
+    "imdb": "tt1686089"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

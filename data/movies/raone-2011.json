@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raone_2011",
+  "title": "Ra.One",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q284184",
+    "imdb": "tt1562871",
+    "tmdb": 41517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-26",
+  "runtime_minutes": 156
+}
