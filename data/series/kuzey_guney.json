@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kuzey_guney",
+  "title": "Kuzey Güney",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q484842",
+    "imdb": "tt2050064",
+    "tmdb": 42099
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 80
+}

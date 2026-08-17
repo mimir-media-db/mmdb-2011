@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_keeping_up_with_the_joneses",
+  "title": "Keeping Up with the Joneses",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123900985",
+    "imdb": "tt3562146",
+    "tmdb": 37294
+  },
+  "last_updated": "2026-08-17"
+}

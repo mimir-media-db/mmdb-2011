@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_knallerfrauen",
+  "title": "Knallerfrauen",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1776844",
+    "imdb": "tt2119785",
+    "tmdb": 53130
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 37
+}

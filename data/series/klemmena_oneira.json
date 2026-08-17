@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_klemmena_oneira",
+  "title": "Klemmena Oneira",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q12879135",
+    "imdb": "tt2132844",
+    "tmdb": 50913
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 526
+}

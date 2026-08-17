@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kris_tv",
+  "title": "Kris TV",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q12966771",
+    "tmdb": 39669
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 1258
+}

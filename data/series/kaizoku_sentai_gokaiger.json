@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kaizoku_sentai_gokaiger",
+  "title": "Kaizoku Sentai Gokaiger",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1192644",
+    "imdb": "tt1806294",
+    "tmdb": 95707
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 51
+}

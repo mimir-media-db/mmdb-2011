@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_kitchen_whiz",
+  "title": "Kitchen Whiz",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6417996",
+    "imdb": "tt1952497"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 585
+}
