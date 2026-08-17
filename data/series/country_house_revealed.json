@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_country_house_revealed",
+  "title": "The Country House Revealed",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7727793",
+    "imdb": "tt1974915",
+    "tmdb": 59588
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

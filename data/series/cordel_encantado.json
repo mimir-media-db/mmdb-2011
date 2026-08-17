@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cordel_encantado",
+  "title": "Cordel Encantado",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q8350955",
+    "imdb": "tt1901871",
+    "tmdb": 45818
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 143
+}

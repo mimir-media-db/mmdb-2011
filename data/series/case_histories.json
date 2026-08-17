@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_case_histories",
+  "title": "Case Histories",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q582611",
+    "imdb": "tt1748888",
+    "tmdb": 39546
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}

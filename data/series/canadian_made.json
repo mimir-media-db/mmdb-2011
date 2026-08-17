@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_canadian_made",
+  "title": "Canadian Made",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5030300",
+    "imdb": "tt1983081"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

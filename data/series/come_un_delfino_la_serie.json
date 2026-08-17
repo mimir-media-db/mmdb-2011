@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_come_un_delfino_la_serie",
+  "title": "Come un delfino - La serie",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3684210",
+    "imdb": "tt2336707"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

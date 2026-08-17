@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chef_roble_co",
+  "title": "Chef Roblé & Co.",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5089502",
+    "imdb": "tt1879801",
+    "tmdb": 42232
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

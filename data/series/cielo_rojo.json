@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cielo_rojo",
+  "title": "Cielo Rojo",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q422583",
+    "imdb": "tt1925717",
+    "tmdb": 38174
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 165
+}

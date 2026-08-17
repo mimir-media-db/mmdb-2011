@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cuddlies",
+  "title": "Cuddlies",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q51885162",
+    "imdb": "tt6964616"
+  },
+  "last_updated": "2026-08-17"
+}
