@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_livid_2011",
+  "title": "Livid",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3257139",
+    "imdb": "tt1727516",
+    "tmdb": 83900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

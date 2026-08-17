@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lena_will_es_endlich_wissen_2011",
+  "title": "Lena will es endlich wissen",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1817366",
+    "imdb": "tt1814768",
+    "tmdb": 276607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

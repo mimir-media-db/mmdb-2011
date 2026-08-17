@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_croisiere_2011",
+  "title": "La Croisière",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3207956",
+    "imdb": "tt1793929",
+    "tmdb": 73579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

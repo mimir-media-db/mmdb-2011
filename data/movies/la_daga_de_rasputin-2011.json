@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_daga_de_rasputin_2011",
+  "title": "La daga de Rasputín",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5966416",
+    "imdb": "tt0484828",
+    "tmdb": 83286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 108
+}

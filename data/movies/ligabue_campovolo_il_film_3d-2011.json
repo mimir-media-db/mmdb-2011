@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ligabue_campovolo_il_film_3d_2011",
+  "title": "Ligabue Campovolo - il film 3D",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3832245",
+    "imdb": "tt2122397",
+    "tmdb": 80442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 108
+}

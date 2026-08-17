@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leleve_ducobu_2011",
+  "title": "L'Élève Ducobu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3205298",
+    "imdb": "tt1810864",
+    "tmdb": 68637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

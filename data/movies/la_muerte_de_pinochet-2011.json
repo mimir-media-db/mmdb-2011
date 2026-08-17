@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_muerte_de_pinochet_2011",
+  "title": "La muerte de Pinochet",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5967432",
+    "imdb": "tt1817190",
+    "tmdb": 117127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 67
+}

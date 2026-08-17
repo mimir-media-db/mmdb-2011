@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_ride_2011",
+  "title": "The Last Ride",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4373868",
+    "imdb": "tt1605803",
+    "tmdb": 75300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 102
+}

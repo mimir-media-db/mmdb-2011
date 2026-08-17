@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_landscape_of_lies_2011",
+  "title": "A Landscape of Lies",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657631",
+    "imdb": "tt2015422",
+    "tmdb": 101098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

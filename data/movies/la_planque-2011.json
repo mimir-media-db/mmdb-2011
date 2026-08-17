@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_planque_2011",
+  "title": "La planque",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3211711",
+    "imdb": "tt1730701",
+    "tmdb": 71191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lowenzahn_das_kinoabenteuer_2011",
+  "title": "Löwenzahn - Das Kinoabenteuer",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1879990",
+    "imdb": "tt1803187",
+    "tmdb": 200277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

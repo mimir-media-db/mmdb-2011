@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_clef_des_terroirs_2011",
+  "title": "La Clef des terroirs",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3207511",
+    "imdb": "tt2056624",
+    "tmdb": 375652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_strada_di_paolo_2011",
+  "title": "La strada di Paolo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3824481",
+    "imdb": "tt2731260",
+    "tmdb": 133609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_the_only_answer_2011",
+  "title": "Love Is the Only Answer",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6690863",
+    "imdb": "tt1964887",
+    "tmdb": 78069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 94
+}

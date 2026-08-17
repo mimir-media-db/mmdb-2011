@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loxoro_2011",
+  "title": "Loxoro",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5981712",
+    "imdb": "tt2199473",
+    "tmdb": 328744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 28
+}

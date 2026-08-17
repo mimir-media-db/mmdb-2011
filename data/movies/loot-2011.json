@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loot_2011",
+  "title": "Loot",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6676043",
+    "imdb": "tt0847180",
+    "tmdb": 79407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

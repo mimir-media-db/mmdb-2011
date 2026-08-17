@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laicite_inchallah_2011",
+  "title": "Laïcité, Inch'Allah!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3220110",
+    "imdb": "tt1987601",
+    "tmdb": 226296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 72
+}

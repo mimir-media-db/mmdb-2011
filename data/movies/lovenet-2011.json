@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lovenet_2011",
+  "title": "Love.net",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6153894",
+    "imdb": "tt1705120",
+    "tmdb": 70713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_actually_sucks_2011",
+  "title": "Love Actually... Sucks!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6690296",
+    "imdb": "tt2229592",
+    "tmdb": 116005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 83
+}

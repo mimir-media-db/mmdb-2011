@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_low_cost_2011",
+  "title": "Low Cost",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3264361",
+    "imdb": "tt1717158",
+    "tmdb": 66122
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

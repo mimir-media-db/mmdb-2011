@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lanka_2011",
+  "title": "Lanka",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6487146",
+    "imdb": "tt2137064",
+    "tmdb": 83316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_man_on_earth_2011",
+  "title": "The Last Man on Earth",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3819907",
+    "imdb": "tt2006781",
+    "tmdb": 73869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

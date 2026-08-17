@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_screening_2011",
+  "title": "Last Screening",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3023928",
+    "imdb": "tt2050492",
+    "tmdb": 86810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_go_2011",
+  "title": "Let's Go!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6532388",
+    "imdb": "tt2072155",
+    "tmdb": 87257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

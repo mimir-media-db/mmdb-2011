@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_in_a_day_2011",
+  "title": "Life in a Day",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2075458",
+    "imdb": "tt1687247",
+    "tmdb": 66150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_tribulations_dune_caissiere_2011",
+  "title": "Les Tribulations d'une caissière",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3235821",
+    "imdb": "tt1754787",
+    "tmdb": 87558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 102
+}
