@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_x_factor_india",
+  "title": "X Factor India",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8042723",
+    "imdb": "tt6081966",
+    "tmdb": 37612
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_x_factor",
+  "title": "X Factor",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1074538"
+  },
+  "last_updated": "2026-08-17"
+}
