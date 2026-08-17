@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tron_legacy_2011",
+  "title": "Tron: Legacy",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18954",
+    "imdb": "tt1104001",
+    "tmdb": 20526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-27",
+  "runtime_minutes": 127
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_minutes_2137_2011",
+  "title": "Three minutes. 21:37",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9362355",
+    "imdb": "tt1808617",
+    "tmdb": 75213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-01"
+}

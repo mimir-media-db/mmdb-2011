@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_disappearances_of_soad_hosni_2011",
+  "title": "The Three Disappearances of Soad Hosni",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115474255",
+    "imdb": "tt2007418",
+    "tmdb": 228655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-10",
+  "runtime_minutes": 70
+}

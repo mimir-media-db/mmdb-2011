@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teza_2011",
+  "title": "Teza",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1453226",
+    "imdb": "tt1284592",
+    "tmdb": 12427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-05",
+  "runtime_minutes": 140
+}

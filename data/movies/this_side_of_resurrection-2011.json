@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_this_side_of_resurrection_2011",
+  "title": "This Side of Resurrection",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7786260",
+    "imdb": "tt1714617",
+    "tmdb": 98524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-08"
+}

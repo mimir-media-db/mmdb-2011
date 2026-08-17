@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tungsten_2011",
+  "title": "Tungsten",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23043638",
+    "imdb": "tt1701186",
+    "tmdb": 300940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

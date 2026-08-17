@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tarix_jabrix_3_2011",
+  "title": "The Tarix Jabrix 3",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12521313",
+    "imdb": "tt2062681",
+    "tmdb": 484531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

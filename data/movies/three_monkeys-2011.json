@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_monkeys_2011",
+  "title": "Three Monkeys",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2352649",
+    "imdb": "tt1233381",
+    "tmdb": 8905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-10",
+  "runtime_minutes": 109
+}

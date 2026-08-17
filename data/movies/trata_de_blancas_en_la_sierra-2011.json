@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trata_de_blancas_en_la_sierra_2011",
+  "title": "Trata de blancas en la sierra",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123377180",
+    "tmdb": 793676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

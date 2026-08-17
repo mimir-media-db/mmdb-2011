@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thing_2011",
+  "title": "The Thing",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q909749",
+    "imdb": "tt0905372",
+    "tmdb": 60935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-10",
+  "runtime_minutes": 99
+}

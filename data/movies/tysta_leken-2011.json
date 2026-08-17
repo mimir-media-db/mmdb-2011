@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tysta_leken_2011",
+  "title": "Tysta leken",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10707855",
+    "imdb": "tt1772412",
+    "tmdb": 98345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

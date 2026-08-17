@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_truetaste_show_2011",
+  "title": "The True-taste Show",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12621341",
+    "imdb": "tt4227402",
+    "tmdb": 125939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-02"
+}

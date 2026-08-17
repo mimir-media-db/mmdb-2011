@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tres_millones_2011",
+  "title": "Tres millones",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22809996",
+    "imdb": "tt3379746",
+    "tmdb": 240910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 142
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toast_2011",
+  "title": "Toast",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q730164",
+    "imdb": "tt1658851",
+    "tmdb": 52850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-11",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ticket_to_paradise_2011",
+  "title": "Ticket to Paradise",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7800666",
+    "imdb": "tt1787664",
+    "tmdb": 92407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 88
+}

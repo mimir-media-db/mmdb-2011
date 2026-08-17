@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teste_de_elenco_2011",
+  "title": "Teste de Elenco",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14956292",
+    "imdb": "tt2937910",
+    "tmdb": 347987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 83
+}

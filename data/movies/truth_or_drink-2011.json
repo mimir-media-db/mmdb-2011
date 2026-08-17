@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_truth_or_drink_2011",
+  "title": "Truth or Drink",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56301670",
+    "imdb": "tt3963146",
+    "tmdb": 601537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

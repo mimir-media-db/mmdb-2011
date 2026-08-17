@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thief_of_the_mind_2011",
+  "title": "Thief of the Mind",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17152239",
+    "imdb": "tt3644664",
+    "tmdb": 1030855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

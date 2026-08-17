@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_park_2011",
+  "title": "Tokyo Park",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1056260",
+    "imdb": "tt1783792",
+    "tmdb": 202885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-18",
+  "runtime_minutes": 119
+}

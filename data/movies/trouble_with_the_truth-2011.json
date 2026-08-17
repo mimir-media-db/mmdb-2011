@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trouble_with_the_truth_2011",
+  "title": "The Trouble with the Truth",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17184029",
+    "imdb": "tt1727381",
+    "tmdb": 91311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

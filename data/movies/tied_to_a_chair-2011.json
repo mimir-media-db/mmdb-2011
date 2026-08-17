@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tied_to_a_chair_2011",
+  "title": "Tied to a Chair",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116769359",
+    "imdb": "tt1029385",
+    "tmdb": 226281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-27",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_to_love_or_not_2011",
+  "title": "To Love or Not",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10863878",
+    "imdb": "tt2473706",
+    "tmdb": 923618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

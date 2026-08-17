@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thrive_what_on_earth_will_it_take_2011",
+  "title": "Thrive: What on Earth Will it Take?",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12742262",
+    "imdb": "tt2063834",
+    "tmdb": 80169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
