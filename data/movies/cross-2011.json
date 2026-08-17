@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cross_2011",
+  "title": "Cross",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2927201",
+    "imdb": "tt1046245",
+    "tmdb": 64325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

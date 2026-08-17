@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_citizen_usa_a_50_state_road_trip_2011",
+  "title": "Citizen USA: A 50 State Road Trip",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5122589",
+    "imdb": "tt2009450",
+    "tmdb": 82325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

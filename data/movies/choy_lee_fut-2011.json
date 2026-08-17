@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_choy_lee_fut_2011",
+  "title": "Choy Lee Fut",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5105590",
+    "imdb": "tt1851871",
+    "tmdb": 65852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

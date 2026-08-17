@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captains_2011",
+  "title": "The Captains",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7721295",
+    "imdb": "tt1946421",
+    "tmdb": 70703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 97
+}

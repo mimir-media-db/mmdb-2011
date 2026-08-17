@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cornerstore_2011",
+  "title": "CornerStore",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5171594",
+    "imdb": "tt1670389",
+    "tmdb": 288274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

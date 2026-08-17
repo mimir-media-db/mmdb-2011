@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cube_of_sugar_2011",
+  "title": "A Cube of Sugar",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4656206",
+    "imdb": "tt1846445",
+    "tmdb": 102851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 116
+}

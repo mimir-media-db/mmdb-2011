@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cell_213_2011",
+  "title": "Cell 213",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5058144",
+    "imdb": "tt1288636",
+    "tmdb": 289097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 109
+}

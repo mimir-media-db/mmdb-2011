@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_code_blue_2011",
+  "title": "Code Blue",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1185737",
+    "imdb": "tt1843880",
+    "tmdb": 88844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captain_of_nakara_2011",
+  "title": "The Captain of Nakara",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2410126",
+    "imdb": "tt1579251",
+    "tmdb": 192921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

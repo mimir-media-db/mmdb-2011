@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_copiad_malditos_2011",
+  "title": "¡Copiad, malditos!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6172075",
+    "imdb": "tt1943878",
+    "tmdb": 74174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

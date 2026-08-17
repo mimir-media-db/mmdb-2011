@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cheerfu11y_2011",
+  "title": "Cheerfu11y",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5089343",
+    "imdb": "tt2051842",
+    "tmdb": 420544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

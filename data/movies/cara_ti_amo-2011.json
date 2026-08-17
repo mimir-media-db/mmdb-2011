@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cara_ti_amo_2011",
+  "title": "Cara, ti amo...",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3658089",
+    "imdb": "tt1773329",
+    "tmdb": 270761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

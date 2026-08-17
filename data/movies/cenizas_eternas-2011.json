@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cenizas_eternas_2011",
+  "title": "Cenizas eternas",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5760442",
+    "imdb": "tt1734417",
+    "tmdb": 288164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 120
+}
