@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_50_documentaries_to_see_before_you_die",
+  "title": "50 Documentaries to See Before You Die",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4639859",
+    "imdb": "tt1991264",
+    "tmdb": 40406
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}
