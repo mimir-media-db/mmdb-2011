@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zookeeper_2011",
+  "title": "Zookeeper",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q477070",
+    "imdb": "tt1222817",
+    "tmdb": 38317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 102
+}
