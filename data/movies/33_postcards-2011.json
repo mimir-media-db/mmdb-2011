@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_33_postcards_2011",
+  "title": "33 Postcards",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4635211",
+    "imdb": "tt1704161",
+    "tmdb": 118984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 97
+}
