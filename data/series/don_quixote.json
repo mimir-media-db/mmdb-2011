@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_don_quixote",
+  "title": "Don Quixote",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2758633",
+    "imdb": "tt1942009",
+    "tmdb": 41764
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

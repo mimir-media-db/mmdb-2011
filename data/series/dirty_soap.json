@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dirty_soap",
+  "title": "Dirty Soap",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5281091",
+    "imdb": "tt2006389",
+    "tmdb": 40892
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

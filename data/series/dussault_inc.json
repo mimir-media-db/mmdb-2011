@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dussault_inc",
+  "title": "Dussault Inc.",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5316950",
+    "imdb": "tt1719785",
+    "tmdb": 41936
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

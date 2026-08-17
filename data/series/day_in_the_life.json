@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_day_in_the_life",
+  "title": "A Day in the Life",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4656314",
+    "imdb": "tt2057511",
+    "tmdb": 40488
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

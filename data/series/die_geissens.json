@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_geissens",
+  "title": "Die Geissens",
+  "start_year": 2011,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q1212884",
+    "imdb": "tt1802898",
+    "tmdb": 46001
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 23,
+  "total_episodes": 444
+}

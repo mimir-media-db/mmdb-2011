@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_day_zero_the_series",
+  "title": "Day Zero: The Series",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18712185",
+    "imdb": "tt2062778",
+    "tmdb": 124605
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

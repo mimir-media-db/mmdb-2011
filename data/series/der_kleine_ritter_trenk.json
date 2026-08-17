@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_der_kleine_ritter_trenk",
+  "title": "Der kleine Ritter Trenk",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1199266",
+    "imdb": "tt2102640",
+    "tmdb": 40989
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

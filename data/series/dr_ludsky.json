@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_ludsky",
+  "title": "Dr. Ludsky",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q13407181",
+    "imdb": "tt1860489",
+    "tmdb": 55306
+  },
+  "last_updated": "2026-08-17"
+}

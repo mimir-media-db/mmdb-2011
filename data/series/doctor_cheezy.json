@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_cheezy",
+  "title": "Doctor Cheezy",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2208513",
+    "imdb": "tt2192227"
+  },
+  "last_updated": "2026-08-17"
+}

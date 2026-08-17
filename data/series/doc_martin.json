@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_doc_martin",
+  "title": "Doc Martin",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q25393837",
+    "imdb": "tt1745066",
+    "tmdb": 97939
+  },
+  "last_updated": "2026-08-17"
+}
