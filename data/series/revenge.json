@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_revenge",
+  "title": "Revenge",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q663759",
+    "imdb": "tt1837642",
+    "tmdb": 39358
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 89
+}

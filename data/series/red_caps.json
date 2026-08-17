@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_red_caps",
+  "title": "Red Caps",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3931419",
+    "imdb": "tt2396788",
+    "tmdb": 55077
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

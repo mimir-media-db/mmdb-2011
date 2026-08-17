@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_roccos_dinner_party",
+  "title": "Rocco's Dinner Party",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q17152750",
+    "imdb": "tt1771755",
+    "tmdb": 39581
+  },
+  "last_updated": "2026-08-17"
+}

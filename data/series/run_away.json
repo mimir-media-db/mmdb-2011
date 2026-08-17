@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_run_away",
+  "title": "Run Away",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11347598",
+    "imdb": "tt2003874",
+    "tmdb": 63216
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

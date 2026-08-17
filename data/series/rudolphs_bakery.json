@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_rudolphs_bakery",
+  "title": "Rudolph's Bakery",
+  "start_year": 2010,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q14942396",
+    "imdb": "tt9053172",
+    "tmdb": 158161
+  },
+  "last_updated": "2026-08-17"
+}

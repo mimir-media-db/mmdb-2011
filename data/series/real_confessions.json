@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_real_confessions",
+  "title": "Real Confessions",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7300874",
+    "tmdb": 42286
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 14
+}
