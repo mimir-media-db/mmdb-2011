@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_office_girls",
+  "title": "Office Girls",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5759839",
+    "imdb": "tt4381290",
+    "tmdb": 40480
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 25
+}

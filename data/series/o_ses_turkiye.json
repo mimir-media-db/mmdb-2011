@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_o_ses_turkiye",
+  "title": "O Ses Türkiye",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1279825",
+    "imdb": "tt8960548",
+    "tmdb": 49128
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 19
+}

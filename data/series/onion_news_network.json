@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_onion_news_network",
+  "title": "Onion News Network",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7093920",
+    "imdb": "tt1717499",
+    "tmdb": 111476
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oprahs_lifeclass",
+  "title": "Oprah's Lifeclass",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7098671",
+    "imdb": "tt2007210",
+    "tmdb": 42020
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 63
+}
