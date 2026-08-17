@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_may_be_love_but_it_doesnt_show_2011",
+  "title": "It May Be Love But It Doesn't Show",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3615192",
+    "imdb": "tt2109087",
+    "tmdb": 79643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-23",
+  "runtime_minutes": 96
+}

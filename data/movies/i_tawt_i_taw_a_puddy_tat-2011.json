@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_tawt_i_taw_a_puddy_tat_2011",
+  "title": "I Tawt I Taw a Puddy Tat",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251694",
+    "imdb": "tt2116900",
+    "tmdb": 113736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-18",
+  "runtime_minutes": 4
+}

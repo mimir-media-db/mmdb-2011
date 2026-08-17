@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_footsteps_of_marie_curie_2011",
+  "title": "In the footsteps of Marie Curie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28494947",
+    "imdb": "tt3826264",
+    "tmdb": 350223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

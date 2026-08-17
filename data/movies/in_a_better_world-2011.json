@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_a_better_world_2011",
+  "title": "In a Better World",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q954182",
+    "imdb": "tt1340107",
+    "tmdb": 44716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-17",
+  "runtime_minutes": 113
+}

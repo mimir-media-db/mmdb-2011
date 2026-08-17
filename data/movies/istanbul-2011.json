@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_istanbul_2011",
+  "title": "Istanbul",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46029509",
+    "imdb": "tt1677557",
+    "tmdb": 201236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

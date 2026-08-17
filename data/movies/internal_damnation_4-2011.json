@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_internal_damnation_4_2011",
+  "title": "Internal Damnation 4",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140310384",
+    "imdb": "tt1840341",
+    "tmdb": 1123366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-17",
+  "runtime_minutes": 183
+}

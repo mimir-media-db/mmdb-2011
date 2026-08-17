@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_imagining_emanuel_2011",
+  "title": "Imagining Emanuel",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19375516",
+    "imdb": "tt2660730",
+    "tmdb": 346410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 52
+}

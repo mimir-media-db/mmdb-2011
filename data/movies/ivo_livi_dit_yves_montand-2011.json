@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ivo_livi_dit_yves_montand_2011",
+  "title": "Ivo Livi dit Yves Montand",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123685507",
+    "imdb": "tt2106474",
+    "tmdb": 1027877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-08",
+  "runtime_minutes": 114
+}

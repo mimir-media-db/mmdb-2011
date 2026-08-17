@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_if_you_die_ill_kill_you_2011",
+  "title": "If You Die, I'll Kill You",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3482860",
+    "imdb": "tt1671482",
+    "tmdb": 145361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-23"
+}

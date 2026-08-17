@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_integration_trip_2011",
+  "title": "Integration Trip",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9379797",
+    "imdb": "tt2095008",
+    "tmdb": 79247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-04",
+  "runtime_minutes": 86
+}

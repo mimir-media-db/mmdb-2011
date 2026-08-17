@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_giorno_in_piu_2011",
+  "title": "Il giorno in più",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3794226",
+    "imdb": "tt1815753",
+    "tmdb": 79836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-28",
+  "runtime_minutes": 111
+}

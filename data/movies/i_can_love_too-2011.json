@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_can_love_too_2011",
+  "title": "I Can Love Too",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39087717",
+    "imdb": "tt2258646",
+    "tmdb": 221482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

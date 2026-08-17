@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_time_2011",
+  "title": "In Time",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q628082",
+    "imdb": "tt1637688",
+    "tmdb": 49530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-26",
+  "runtime_minutes": 109
+}

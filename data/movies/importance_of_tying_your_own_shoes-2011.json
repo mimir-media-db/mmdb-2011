@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_importance_of_tying_your_own_shoes_2011",
+  "title": "The Importance of Tying Your Own Shoes",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10527257",
+    "imdb": "tt1699491",
+    "tmdb": 60592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-18",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inconscio_italiano_2011",
+  "title": "Inconscio italiano",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48807451",
+    "imdb": "tt1994533",
+    "tmdb": 558407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

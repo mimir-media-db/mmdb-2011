@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_a_strangers_skin_2011",
+  "title": "In a Stranger's Skin",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109317889",
+    "imdb": "tt2076829",
+    "tmdb": 164195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-05"
+}

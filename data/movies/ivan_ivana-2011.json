@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ivan_ivana_2011",
+  "title": "Ivan & Ivana",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16850650",
+    "imdb": "tt1798640",
+    "tmdb": 323545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
