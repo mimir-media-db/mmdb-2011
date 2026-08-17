@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_meravigliosa_avventura_di_antonio_franconi_2011",
+  "title": "La meravigliosa avventura di Antonio Franconi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56523770",
+    "imdb": "tt2121307",
+    "tmdb": 342151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

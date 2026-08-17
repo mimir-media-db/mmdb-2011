@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_locked_in_limbo_2011",
+  "title": "Locked in Limbo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123581571",
+    "imdb": "tt2100688",
+    "tmdb": 331340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

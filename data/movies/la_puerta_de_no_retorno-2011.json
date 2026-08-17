@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_puerta_de_no_retorno_2011",
+  "title": "La puerta de no retorno",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5675778",
+    "imdb": "tt1883240",
+    "tmdb": 80119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-25",
+  "runtime_minutes": 72
+}

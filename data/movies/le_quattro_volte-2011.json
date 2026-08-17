@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_quattro_volte_2011",
+  "title": "Le Quattro Volte",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2016798",
+    "imdb": "tt1646975",
+    "tmdb": 57389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-30",
+  "runtime_minutes": 85
+}

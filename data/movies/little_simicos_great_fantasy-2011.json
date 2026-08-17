@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_simicos_great_fantasy_2011",
+  "title": "Little Simico's Great Fantasy",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52837197",
+    "imdb": "tt2072985",
+    "tmdb": 81491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

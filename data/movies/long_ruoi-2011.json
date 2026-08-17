@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_long_ruoi_2011",
+  "title": "Long ruồi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10786893",
+    "imdb": "tt2006174",
+    "tmdb": 390390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-26"
+}

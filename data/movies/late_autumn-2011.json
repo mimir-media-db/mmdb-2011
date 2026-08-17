@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_late_autumn_2011",
+  "title": "Late Autumn",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q492697",
+    "imdb": "tt1542482",
+    "tmdb": 91073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-17",
+  "runtime_minutes": 116
+}

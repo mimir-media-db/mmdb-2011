@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_eclats_ma_gueule_ma_revolte_mon_nom_2011",
+  "title": "Les éclats (Ma gueule, ma révolte, mon nom)",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18214619",
+    "imdb": "tt2550140",
+    "tmdb": 147826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

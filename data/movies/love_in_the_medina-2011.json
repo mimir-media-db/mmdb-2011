@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_in_the_medina_2011",
+  "title": "Love in the Medina",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60572947",
+    "imdb": "tt1835979",
+    "tmdb": 438386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

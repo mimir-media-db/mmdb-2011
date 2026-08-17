@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leaving_2011",
+  "title": "Leaving",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6510710",
+    "imdb": "tt1464251",
+    "tmdb": 76598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-24",
+  "runtime_minutes": 97
+}

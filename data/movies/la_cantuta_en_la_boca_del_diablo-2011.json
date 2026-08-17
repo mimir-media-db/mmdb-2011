@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_cantuta_en_la_boca_del_diablo_2011",
+  "title": "La Cantuta en la boca del diablo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123377165",
+    "imdb": "tt5810726",
+    "tmdb": 715623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

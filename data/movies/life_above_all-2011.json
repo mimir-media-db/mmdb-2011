@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_above_all_2011",
+  "title": "Life, Above All",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3226996",
+    "imdb": "tt1646111",
+    "tmdb": 45244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-12",
+  "runtime_minutes": 105
+}

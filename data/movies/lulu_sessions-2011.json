@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lulu_sessions_2011",
+  "title": "The LuLu Sessions",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252798",
+    "imdb": "tt1351185",
+    "tmdb": 322864
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

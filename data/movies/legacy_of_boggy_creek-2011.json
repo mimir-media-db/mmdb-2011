@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legacy_of_boggy_creek_2011",
+  "title": "The Legacy of Boggy Creek",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123581664",
+    "imdb": "tt2004395",
+    "tmdb": 232789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luxury_nurse_2011",
+  "title": "Luxury Nurse",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138000808",
+    "imdb": "tt1249173",
+    "tmdb": 791805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-01",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_link_2011",
+  "title": "Link",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18815462",
+    "imdb": "tt1707238",
+    "tmdb": 415516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-28"
+}

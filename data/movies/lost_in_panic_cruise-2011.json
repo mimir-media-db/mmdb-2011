@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_in_panic_cruise_2011",
+  "title": "Lost in Panic Cruise",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10952778",
+    "imdb": "tt2062978",
+    "tmdb": 333334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

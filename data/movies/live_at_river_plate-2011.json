@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_live_at_river_plate_2011",
+  "title": "Live at River Plate",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1866381",
+    "imdb": "tt1933535",
+    "tmdb": 63973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-10",
+  "runtime_minutes": 120
+}

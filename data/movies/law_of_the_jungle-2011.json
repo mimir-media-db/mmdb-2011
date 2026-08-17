@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_law_of_the_jungle_2011",
+  "title": "Law of the Jungle",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729232",
+    "imdb": "tt2124833",
+    "tmdb": 748782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-28",
+  "runtime_minutes": 86
+}

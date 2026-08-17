@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ligo_na_u_lapit_na_me_2011",
+  "title": "Ligo na Ü, Lapit na Me",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17076005",
+    "imdb": "tt1961395",
+    "tmdb": 106797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

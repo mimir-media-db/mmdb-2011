@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_legend_of_ngong_hills_2011",
+  "title": "The Legend of Ngong Hills",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170152",
+    "imdb": "tt13472260",
+    "tmdb": 515777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

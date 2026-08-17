@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_laikinai_2011",
+  "title": "Laikinai",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16457932",
+    "imdb": "tt4744498",
+    "tmdb": 585941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

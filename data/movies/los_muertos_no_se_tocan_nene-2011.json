@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_muertos_no_se_tocan_nene_2011",
+  "title": "Los muertos no se tocan, nene",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5981014",
+    "imdb": "tt1863318",
+    "tmdb": 80116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-18",
+  "runtime_minutes": 90
+}

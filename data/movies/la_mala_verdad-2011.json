@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_mala_verdad_2011",
+  "title": "La mala verdad",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110101648",
+    "imdb": "tt1725021",
+    "tmdb": 245734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 94
+}

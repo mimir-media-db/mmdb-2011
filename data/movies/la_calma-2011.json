@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_calma_2011",
+  "title": "La calma",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140299485",
+    "imdb": "tt1878967",
+    "tmdb": 1276286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 20
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_language_of_a_broken_heart_2011",
+  "title": "Language of a Broken Heart",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27430114",
+    "imdb": "tt1609488",
+    "tmdb": 174400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-22",
+  "runtime_minutes": 100
+}

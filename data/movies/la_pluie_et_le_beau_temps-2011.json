@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_pluie_et_le_beau_temps_2011",
+  "title": "La Pluie et le Beau Temps",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98108903",
+    "imdb": "tt1986887",
+    "tmdb": 600528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
