@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_bill_2011",
+  "title": "Wild Bill",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2813808",
+    "imdb": "tt1795702",
+    "tmdb": 86593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

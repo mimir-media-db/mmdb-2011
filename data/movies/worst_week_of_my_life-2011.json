@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_worst_week_of_my_life_2011",
+  "title": "The Worst Week of My Life",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3823522",
+    "imdb": "tt2076251",
+    "tmdb": 77944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

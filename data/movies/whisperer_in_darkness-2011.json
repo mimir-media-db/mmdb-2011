@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whisperer_in_darkness_2011",
+  "title": "The Whisperer in Darkness",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7774434",
+    "imdb": "tt1498878",
+    "tmdb": 87178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_of_the_buttons_2011",
+  "title": "War of the Buttons",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3209665",
+    "imdb": "tt1861375",
+    "tmdb": 74944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_turn_4_bloody_beginnings_2011",
+  "title": "Wrong Turn 4: Bloody Beginnings",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1497155",
+    "imdb": "tt1865567",
+    "tmdb": 71672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

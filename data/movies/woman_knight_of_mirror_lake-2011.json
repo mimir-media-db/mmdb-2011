@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_knight_of_mirror_lake_2011",
+  "title": "The Woman Knight of Mirror Lake",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7775496",
+    "imdb": "tt1993428",
+    "tmdb": 79992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 115
+}
