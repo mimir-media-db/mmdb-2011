@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_weeks_to_daytona_2011",
+  "title": "3 Weeks to Daytona",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42947695",
+    "imdb": "tt1857605",
+    "tmdb": 181152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-01"
+}
