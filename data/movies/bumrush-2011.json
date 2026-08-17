@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bumrush_2011",
+  "title": "BumRush",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2928135",
+    "imdb": "tt1880940",
+    "tmdb": 71558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

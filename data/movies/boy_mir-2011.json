@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_mir_2011",
+  "title": "The Boy Mir",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7719614",
+    "imdb": "tt1632726",
+    "tmdb": 77815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

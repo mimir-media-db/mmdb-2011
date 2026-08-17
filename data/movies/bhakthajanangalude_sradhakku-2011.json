@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhakthajanangalude_sradhakku_2011",
+  "title": "Bhakthajanangalude Sradhakku",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4900877",
+    "imdb": "tt4888008",
+    "tmdb": 215020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

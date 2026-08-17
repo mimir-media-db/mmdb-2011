@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_byari_2011",
+  "title": "Byari",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5003938",
+    "imdb": "tt2146054",
+    "tmdb": 327562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

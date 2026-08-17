@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_balls_to_the_wall_2011",
+  "title": "Balls to the Wall",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4851942",
+    "imdb": "tt1626135",
+    "tmdb": 77585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 97
+}

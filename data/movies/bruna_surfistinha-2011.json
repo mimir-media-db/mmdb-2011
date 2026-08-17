@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bruna_surfistinha_2011",
+  "title": "Bruna Surfistinha",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3284552",
+    "imdb": "tt1587828",
+    "tmdb": 58235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 109
+}

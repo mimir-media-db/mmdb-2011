@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_butter_2011",
+  "title": "Butter",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1018042",
+    "imdb": "tt1349451",
+    "tmdb": 79697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 120
+}

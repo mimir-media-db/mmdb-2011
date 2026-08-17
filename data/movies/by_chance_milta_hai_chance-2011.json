@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_by_chance_milta_hai_chance_2011",
+  "title": "By Chance Milta Hai Chance",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5003777",
+    "imdb": "tt2308829",
+    "tmdb": 244322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhindi_baazaar_inc_2011",
+  "title": "Bhindi Baazaar Inc.",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4901806",
+    "imdb": "tt1667823",
+    "tmdb": 71069
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

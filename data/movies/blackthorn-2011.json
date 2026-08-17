@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blackthorn_2011",
+  "title": "Blackthorn",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q593718",
+    "imdb": "tt1629705",
+    "tmdb": 68818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

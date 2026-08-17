@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burnout_2011",
+  "title": "Burnout",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q320202",
+    "imdb": "tt1801801",
+    "tmdb": 110187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 103
+}

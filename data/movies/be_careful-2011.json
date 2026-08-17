@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_be_careful_2011",
+  "title": "Be Careful",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2892662",
+    "imdb": "tt1725798",
+    "tmdb": 240304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

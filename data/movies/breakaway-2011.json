@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_breakaway_2011",
+  "title": "Breakaway",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4959370",
+    "imdb": "tt1736552",
+    "tmdb": 81867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

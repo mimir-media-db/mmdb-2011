@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_billionaire_2011",
+  "title": "The Billionaire",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6578840",
+    "imdb": "tt2292955",
+    "tmdb": 77094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

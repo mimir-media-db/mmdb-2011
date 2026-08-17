@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_for_the_city_2011",
+  "title": "Battle for the City",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4870181",
+    "imdb": "tt1673431",
+    "tmdb": 415912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

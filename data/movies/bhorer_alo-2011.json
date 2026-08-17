@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bhorer_alo_2011",
+  "title": "Bhorer Alo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4902050",
+    "imdb": "tt7104944"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
