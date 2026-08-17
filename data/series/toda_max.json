@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_toda_max",
+  "title": "Toda Max",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7812112",
+    "imdb": "tt2103948",
+    "tmdb": 41911
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 105
+}

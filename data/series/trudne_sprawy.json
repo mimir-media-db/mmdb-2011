@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_trudne_sprawy",
+  "title": "Trudne sprawy",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q80336763",
+    "imdb": "tt5732752"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 18,
+  "total_episodes": 911
+}

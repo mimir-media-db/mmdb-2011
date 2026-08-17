@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_top_model_porusski",
+  "title": "Top Model po-russki",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q972939",
+    "imdb": "tt31189998",
+    "tmdb": 38866
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 54
+}

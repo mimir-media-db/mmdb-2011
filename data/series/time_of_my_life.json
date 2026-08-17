@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_time_of_my_life",
+  "title": "Time of My Life",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7805391",
+    "imdb": "tt2026602",
+    "tmdb": 39300
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

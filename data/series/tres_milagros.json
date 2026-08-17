@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_tres_milagros",
+  "title": "Tres Milagros",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2881814",
+    "imdb": "tt2066179",
+    "tmdb": 248331
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tapas_beijos",
+  "title": "Tapas & Beijos",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q10378133",
+    "imdb": "tt1974895",
+    "tmdb": 46021
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 57
+}

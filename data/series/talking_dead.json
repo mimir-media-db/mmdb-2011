@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_talking_dead",
+  "title": "Talking Dead",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q39370",
+    "imdb": "tt2089467",
+    "tmdb": 42021
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 77
+}

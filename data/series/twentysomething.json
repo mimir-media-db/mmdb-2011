@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_twentysomething",
+  "title": "Twentysomething",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7857848",
+    "imdb": "tt1984988",
+    "tmdb": 40287
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

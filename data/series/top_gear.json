@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_top_gear",
+  "title": "Top Gear",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q56274496",
+    "imdb": "tt8771744"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_three_inches",
+  "title": "Three Inches",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7797541",
+    "imdb": "tt2151885",
+    "tmdb": 38132
+  },
+  "last_updated": "2026-08-17"
+}

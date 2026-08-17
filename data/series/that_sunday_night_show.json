@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_that_sunday_night_show",
+  "title": "That Sunday Night Show",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7711294",
+    "imdb": "tt2165111"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

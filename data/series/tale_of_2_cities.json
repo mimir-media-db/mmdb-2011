@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tale_of_2_cities",
+  "title": "A Tale of 2 Cities",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4659946",
+    "tmdb": 42172
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 21
+}
