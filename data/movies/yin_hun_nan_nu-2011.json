@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yin_hun_nan_nu_2011",
+  "title": "Yin hun nan nü",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15903971",
+    "imdb": "tt1887955",
+    "tmdb": 98555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

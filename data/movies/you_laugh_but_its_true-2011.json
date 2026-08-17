@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_laugh_but_its_true_2011",
+  "title": "You Laugh But It's True",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50448079",
+    "imdb": "tt1671547",
+    "tmdb": 169721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

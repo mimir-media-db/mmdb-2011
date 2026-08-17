@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yuddham_sei_2011",
+  "title": "Yuddham Sei",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8060222",
+    "imdb": "tt1843335",
+    "tmdb": 70988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

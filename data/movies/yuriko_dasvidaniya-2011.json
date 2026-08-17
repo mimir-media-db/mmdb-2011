@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yuriko_dasvidaniya_2011",
+  "title": "Yuriko, Dasvidaniya",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8061660",
+    "imdb": "tt1757937",
+    "tmdb": 256204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-18"
+}
