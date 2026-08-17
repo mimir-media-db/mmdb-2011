@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desde_el_sonido_2011",
+  "title": "Desde el sonido",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123377182",
+    "imdb": "tt14074010",
+    "tmdb": 596781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

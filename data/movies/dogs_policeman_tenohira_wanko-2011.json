@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dogs_policeman_tenohira_wanko_2011",
+  "title": "The Dog's Policeman: Tenohira Wanko",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11571134",
+    "tmdb": 1320722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

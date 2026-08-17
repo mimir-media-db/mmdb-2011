@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_letzte_angestellte_2011",
+  "title": "Der letzte Angestellte",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15805280",
+    "imdb": "tt1543004",
+    "tmdb": 114880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 88
+}

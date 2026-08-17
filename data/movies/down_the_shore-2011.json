@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_down_the_shore_2011",
+  "title": "Down the Shore",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16976824",
+    "imdb": "tt1155060",
+    "tmdb": 180607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_double_2011",
+  "title": "The Devil's Double",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2226293",
+    "imdb": "tt1270262",
+    "tmdb": 62630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-22",
+  "runtime_minutes": 108
+}

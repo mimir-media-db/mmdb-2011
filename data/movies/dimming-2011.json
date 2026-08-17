@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dimming_2011",
+  "title": "The Dimming",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72881948",
+    "imdb": "tt5181124",
+    "tmdb": 720413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desastres_2011",
+  "title": "Desastre(s)",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17566655",
+    "imdb": "tt1873546"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 12
+}

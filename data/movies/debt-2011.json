@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_debt_2011",
+  "title": "The Debt",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1306837",
+    "imdb": "tt1226753",
+    "tmdb": 48289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-22",
+  "runtime_minutes": 113
+}

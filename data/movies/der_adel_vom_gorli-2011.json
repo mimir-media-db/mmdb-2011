@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_der_adel_vom_gorli_2011",
+  "title": "Der Adel vom Görli",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718704",
+    "imdb": "tt1823680",
+    "tmdb": 92234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-20"
+}

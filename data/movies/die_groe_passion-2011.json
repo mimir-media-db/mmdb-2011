@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_groe_passion_2011",
+  "title": "Die große Passion",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61486854",
+    "imdb": "tt1957889",
+    "tmdb": 502977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-26",
+  "runtime_minutes": 145
+}

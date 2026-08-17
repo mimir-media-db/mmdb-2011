@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_degenerate_art_2011",
+  "title": "Degenerate Art",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16939356",
+    "imdb": "tt2123927",
+    "tmdb": 120734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

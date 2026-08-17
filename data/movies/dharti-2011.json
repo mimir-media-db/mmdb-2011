@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dharti_2011",
+  "title": "Dharti",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5269397",
+    "imdb": "tt1904875",
+    "tmdb": 74303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-21"
+}

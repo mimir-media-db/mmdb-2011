@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_chaplin_2011",
+  "title": "Dancing Chaplin",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18337295",
+    "imdb": "tt1697894",
+    "tmdb": 536786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

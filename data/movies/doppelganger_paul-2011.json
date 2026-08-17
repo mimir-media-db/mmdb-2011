@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doppelganger_paul_2011",
+  "title": "Doppelgänger Paul",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96376563",
+    "imdb": "tt2043832",
+    "tmdb": 137222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

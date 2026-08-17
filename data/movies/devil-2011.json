@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devil_2011",
+  "title": "Devil",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1206820",
+    "imdb": "tt1314655",
+    "tmdb": 44040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-13",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_bite_2011",
+  "title": "Dead Bite",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124317176",
+    "imdb": "tt2375045",
+    "tmdb": 71951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-21",
+  "runtime_minutes": 94
+}

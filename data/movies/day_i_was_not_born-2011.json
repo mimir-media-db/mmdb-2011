@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_i_was_not_born_2011",
+  "title": "The Day I Was Not Born",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1169665",
+    "imdb": "tt1398029",
+    "tmdb": 73889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-10",
+  "runtime_minutes": 92
+}

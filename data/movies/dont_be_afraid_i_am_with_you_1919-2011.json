@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_be_afraid_i_am_with_you_1919_2011",
+  "title": "Don't Be Afraid, I Am with You! 1919",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16514608",
+    "imdb": "tt4259404",
+    "tmdb": 435213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 110
+}

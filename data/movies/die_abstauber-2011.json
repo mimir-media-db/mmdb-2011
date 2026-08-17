@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_abstauber_2011",
+  "title": "Die Abstauber",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44861916",
+    "imdb": "tt1784414",
+    "tmdb": 135853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

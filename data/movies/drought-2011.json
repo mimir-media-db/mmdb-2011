@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drought_2011",
+  "title": "Drought",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135719305",
+    "imdb": "tt2097844",
+    "tmdb": 125023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

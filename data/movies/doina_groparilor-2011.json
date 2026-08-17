@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doina_groparilor_2011",
+  "title": "Doina groparilor",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44863633",
+    "imdb": "tt1986816",
+    "tmdb": 745630
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_decent_arrangement_2011",
+  "title": "A Decent Arrangement",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18208829",
+    "imdb": "tt1704680",
+    "tmdb": 404994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

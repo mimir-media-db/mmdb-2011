@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_mann_der_uber_autos_sprang_2011",
+  "title": "Der Mann der über Autos sprang",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1195544",
+    "imdb": "tt1731693",
+    "tmdb": 70836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-09",
+  "runtime_minutes": 105
+}
