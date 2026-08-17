@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_prada_to_nada_2011",
+  "title": "From Prada to Nada",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2587881",
+    "imdb": "tt0893412",
+    "tmdb": 50217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 107
+}

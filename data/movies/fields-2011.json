@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fields_2011",
+  "title": "The Fields",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7733728",
+    "imdb": "tt1401236",
+    "tmdb": 88537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

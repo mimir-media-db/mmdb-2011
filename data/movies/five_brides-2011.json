@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_brides_2011",
+  "title": "Five Brides",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4386089",
+    "imdb": "tt1937292",
+    "tmdb": 77186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_future_lasts_forever_2011",
+  "title": "Future Lasts Forever",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5510699",
+    "imdb": "tt2033997",
+    "tmdb": 79682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 108
+}

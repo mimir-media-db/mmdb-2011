@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_frontier_boys_2011",
+  "title": "The Frontier Boys",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7735367",
+    "imdb": "tt1613056",
+    "tmdb": 95524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

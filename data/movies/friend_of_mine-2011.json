@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friend_of_mine_2011",
+  "title": "A Friend of Mine",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4656875",
+    "imdb": "tt1820369",
+    "tmdb": 76959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fortunate_son_2011",
+  "title": "Fortunate Son",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5472814",
+    "imdb": "tt1975162",
+    "tmdb": 137674
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

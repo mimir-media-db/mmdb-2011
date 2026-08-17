@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_kind_2011",
+  "title": "Finding Kind",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5449948",
+    "imdb": "tt1539991",
+    "tmdb": 123166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

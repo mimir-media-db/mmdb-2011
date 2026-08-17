@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_square_meters_2011",
+  "title": "Five Square Meters",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q627636",
+    "imdb": "tt1666742",
+    "tmdb": 79749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

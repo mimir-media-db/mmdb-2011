@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forks_over_knives_2011",
+  "title": "Forks over Knives",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5469844",
+    "imdb": "tt1567233",
+    "tmdb": 64288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

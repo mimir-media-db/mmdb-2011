@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_me_truth_2011",
+  "title": "Finding Me: Truth",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5449954",
+    "imdb": "tt1924266",
+    "tmdb": 311613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

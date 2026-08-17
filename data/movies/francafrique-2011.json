@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_francafrique_2011",
+  "title": "Françafrique",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3083179",
+    "imdb": "tt2126757"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

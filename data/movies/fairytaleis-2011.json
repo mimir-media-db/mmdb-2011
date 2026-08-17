@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fairytaleis_2011",
+  "title": "Fairytale.Is",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4421364",
+    "imdb": "tt2349098",
+    "tmdb": 136771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}
