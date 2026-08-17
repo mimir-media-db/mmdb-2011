@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_avargalum_ivargalum_2011",
+  "title": "Avargalum Ivargalum",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101244989",
+    "imdb": "tt13439410",
+    "tmdb": 1590965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_that_i_love_2011",
+  "title": "All That I Love",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2740166",
+    "imdb": "tt1442584",
+    "tmdb": 39936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-14",
+  "runtime_minutes": 95
+}

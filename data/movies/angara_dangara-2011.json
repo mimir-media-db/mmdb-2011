@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_angara_dangara_2011",
+  "title": "Angara Dangara",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29830839",
+    "imdb": "tt9828810"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-19"
+}

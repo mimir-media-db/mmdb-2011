@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aain_kanoon_2011",
+  "title": "Aain Kanoon",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21468148",
+    "imdb": "tt2154621",
+    "tmdb": 1095121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

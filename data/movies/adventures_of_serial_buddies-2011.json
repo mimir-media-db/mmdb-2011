@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_serial_buddies_2011",
+  "title": "Adventures of Serial Buddies",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18353193",
+    "imdb": "tt2056692",
+    "tmdb": 179809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

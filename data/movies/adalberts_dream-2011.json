@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adalberts_dream_2011",
+  "title": "Adalbert's Dream",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44876865",
+    "imdb": "tt2128599",
+    "tmdb": 173154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 101
+}

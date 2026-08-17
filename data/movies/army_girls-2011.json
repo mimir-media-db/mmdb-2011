@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_army_girls_2011",
+  "title": "Army Girls",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139237340",
+    "imdb": "tt2742696",
+    "tmdb": 421117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_stars_2_old_stars_2011",
+  "title": "All Stars 2: Old Stars",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2356703",
+    "imdb": "tt1307859",
+    "tmdb": 76784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-13"
+}

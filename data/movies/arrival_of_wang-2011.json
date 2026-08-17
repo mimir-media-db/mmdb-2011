@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arrival_of_wang_2011",
+  "title": "The Arrival of Wang",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3818753",
+    "imdb": "tt1712502",
+    "tmdb": 91929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-04",
+  "runtime_minutes": 80
+}

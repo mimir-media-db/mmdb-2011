@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anny_volga_rock_n_roll_2011",
+  "title": "Anny. 'Volga'. Rock 'n' Roll",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575606",
+    "imdb": "tt2321189",
+    "tmdb": 1113970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-13"
+}

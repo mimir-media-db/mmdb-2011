@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alhijab_2011",
+  "title": "Al-Hijab",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31187034",
+    "imdb": "tt2127252",
+    "tmdb": 77858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

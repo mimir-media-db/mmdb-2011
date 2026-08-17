@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alarm_am_hauptbahnhof_auf_den_straen_von_stuttgart_21_2011",
+  "title": "Alarm am Hauptbahnhof – Auf den Straßen von Stuttgart 21",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21684272",
+    "imdb": "tt2093939",
+    "tmdb": 386725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-17"
+}

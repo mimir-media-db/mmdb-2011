@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_you_need_is_klaus_2011",
+  "title": "All You Need Is Klaus",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43383788",
+    "imdb": "tt1757663",
+    "tmdb": 70762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-30"
+}

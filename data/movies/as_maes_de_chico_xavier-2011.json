@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_maes_de_chico_xavier_2011",
+  "title": "As Mães de Chico Xavier",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9632495",
+    "imdb": "tt1882041",
+    "tmdb": 69885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 110
+}

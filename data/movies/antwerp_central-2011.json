@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_antwerp_central_2011",
+  "title": "Antwerp Central",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23708206",
+    "imdb": "tt1931381",
+    "tmdb": 136191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-17"
+}

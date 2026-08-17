@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alvin_and_the_chipmunks_chipwrecked_2011",
+  "title": "Alvin and the Chipmunks: Chipwrecked",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q303678",
+    "imdb": "tt1615918",
+    "tmdb": 55301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-16",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agency_of_vengeance_dark_rising_2011",
+  "title": "Agency of Vengeance: Dark Rising",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124484744",
+    "imdb": "tt1753658",
+    "tmdb": 79722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amen_2011",
+  "title": "Amen",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q462025",
+    "imdb": "tt2086799",
+    "tmdb": 155096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-17",
+  "runtime_minutes": 72
+}

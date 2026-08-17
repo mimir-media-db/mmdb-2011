@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_armed_and_deadly_2011",
+  "title": "Armed and Deadly",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32803966",
+    "imdb": "tt1595637",
+    "tmdb": 82592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

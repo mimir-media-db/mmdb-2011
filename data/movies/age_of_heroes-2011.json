@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_age_of_heroes_2011",
+  "title": "Age of Heroes",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q392287",
+    "imdb": "tt1590950",
+    "tmdb": 38540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-20",
+  "runtime_minutes": 90
+}

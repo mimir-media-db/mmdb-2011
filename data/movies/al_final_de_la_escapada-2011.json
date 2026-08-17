@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_al_final_de_la_escapada_2011",
+  "title": "Al final de la escapada",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11904702",
+    "imdb": "tt1757660",
+    "tmdb": 129029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 79
+}

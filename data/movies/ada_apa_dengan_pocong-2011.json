@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ada_apa_dengan_pocong_2011",
+  "title": "Ada Apa dengan Pocong?",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12470669",
+    "imdb": "tt2062472",
+    "tmdb": 384508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

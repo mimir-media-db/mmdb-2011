@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_arjun_2011",
+  "title": "Arjun",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18109782",
+    "imdb": "tt3758104"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
