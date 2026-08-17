@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apartment_143_2011",
+  "title": "Apartment 143",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4779165",
+    "imdb": "tt1757742",
+    "tmdb": 97795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 79
+}

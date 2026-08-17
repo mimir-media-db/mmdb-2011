@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anamorphosis_2011",
+  "title": "Anamorphosis",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5674403",
+    "imdb": "tt1785289"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 75
+}

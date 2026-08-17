@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_agha_yousef_2011",
+  "title": "Agha Yousef",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q393449",
+    "imdb": "tt2083135",
+    "tmdb": 387087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 97
+}

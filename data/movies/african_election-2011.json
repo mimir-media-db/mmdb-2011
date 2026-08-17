@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_african_election_2011",
+  "title": "An African Election",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4749738",
+    "imdb": "tt1674131",
+    "tmdb": 95742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 89
+}

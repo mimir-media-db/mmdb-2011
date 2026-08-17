@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_appalam_2011",
+  "title": "Appalam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1424768",
+    "imdb": "tt32377220",
+    "tmdb": 525692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

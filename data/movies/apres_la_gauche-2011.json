@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_apres_la_gauche_2011",
+  "title": "Après la gauche",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2859020",
+    "imdb": "tt1945041",
+    "tmdb": 470007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

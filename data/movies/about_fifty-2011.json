@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_fifty_2011",
+  "title": "About Fifty",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4668582",
+    "imdb": "tt1477118",
+    "tmdb": 79780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 119
+}

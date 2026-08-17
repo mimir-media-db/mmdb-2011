@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_after_the_revolution_2011",
+  "title": "After the Revolution",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6094265",
+    "imdb": "tt1915551",
+    "tmdb": 114553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arjunan_saakshi_2011",
+  "title": "Arjunan Saakshi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4791603",
+    "imdb": "tt1821329",
+    "tmdb": 194962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adaminte_makan_abu_2011",
+  "title": "Adaminte Makan Abu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3525225",
+    "imdb": "tt1945039",
+    "tmdb": 132189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 101
+}

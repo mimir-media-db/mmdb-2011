@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_arthur_christmas_2011",
+  "title": "Arthur Christmas",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q711918",
+    "imdb": "tt1430607",
+    "tmdb": 51052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 97
+}

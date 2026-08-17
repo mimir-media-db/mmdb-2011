@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assalto_ao_banco_central_2011",
+  "title": "Assalto ao Banco Central",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4808366",
+    "imdb": "tt1579223",
+    "tmdb": 72560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 104
+}

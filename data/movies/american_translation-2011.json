@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_translation_2011",
+  "title": "American Translation",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2843039",
+    "imdb": "tt1692227",
+    "tmdb": 83388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 109
+}
