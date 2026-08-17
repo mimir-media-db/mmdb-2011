@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nightmare_2011",
+  "title": "Nightmare",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7033881",
+    "imdb": "tt2473516",
+    "tmdb": 108613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

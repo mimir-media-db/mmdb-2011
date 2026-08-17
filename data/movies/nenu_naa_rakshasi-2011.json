@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nenu_naa_rakshasi_2011",
+  "title": "Nenu Naa Rakshasi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6991673",
+    "imdb": "tt1911606",
+    "tmdb": 82909
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 140
+}

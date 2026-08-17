@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_one_killed_jessica_2011",
+  "title": "No One Killed Jessica",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3342447",
+    "imdb": "tt1734110",
+    "tmdb": 53569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 136
+}

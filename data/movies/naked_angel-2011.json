@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naked_angel_2011",
+  "title": "Naked Angel",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6960438",
+    "imdb": "tt1587421",
+    "tmdb": 1133758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

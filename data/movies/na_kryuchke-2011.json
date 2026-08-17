@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_na_kryuchke_2011",
+  "title": "Na kryuchke!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4310974",
+    "imdb": "tt1820555",
+    "tmdb": 57701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}
