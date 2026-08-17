@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_sky_2011",
+  "title": "Red Sky",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7305044",
+    "imdb": "tt1836838",
+    "tmdb": 69349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

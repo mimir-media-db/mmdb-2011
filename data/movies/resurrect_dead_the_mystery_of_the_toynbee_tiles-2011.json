@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resurrect_dead_the_mystery_of_the_toynbee_tiles_2011",
+  "title": "Resurrect Dead: The Mystery of the Toynbee Tiles",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7316490",
+    "imdb": "tt1787791",
+    "tmdb": 54358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

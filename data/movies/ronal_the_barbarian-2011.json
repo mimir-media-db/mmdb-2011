@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ronal_the_barbarian_2011",
+  "title": "Ronal the Barbarian",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1889303",
+    "imdb": "tt1629374",
+    "tmdb": 79433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rebirth_2011",
+  "title": "Rebirth",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5359057",
+    "imdb": "tt1727825",
+    "tmdb": 94054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 147
+}

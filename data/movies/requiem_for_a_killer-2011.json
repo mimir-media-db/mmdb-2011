@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_requiem_for_a_killer_2011",
+  "title": "Requiem for a Killer",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2366036",
+    "imdb": "tt1723047",
+    "tmdb": 68280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

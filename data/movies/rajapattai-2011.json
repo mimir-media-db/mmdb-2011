@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rajapattai_2011",
+  "title": "Rajapattai",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3417962",
+    "imdb": "tt2082409",
+    "tmdb": 251918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

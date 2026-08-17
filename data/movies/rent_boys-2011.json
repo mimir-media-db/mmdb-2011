@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rent_boys_2011",
+  "title": "Rent Boys",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1213698",
+    "imdb": "tt1833674",
+    "tmdb": 81375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

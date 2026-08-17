@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raghuvinte_swantham_raziya_2011",
+  "title": "Raghuvinte Swantham Raziya",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7283066",
+    "imdb": "tt1946379",
+    "tmdb": 491640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

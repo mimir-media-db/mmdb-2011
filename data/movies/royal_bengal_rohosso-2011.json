@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_royal_bengal_rohosso_2011",
+  "title": "Royal Bengal Rohosso",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7373822",
+    "imdb": "tt2133312",
+    "tmdb": 206793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
