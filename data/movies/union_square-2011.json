@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_union_square_2011",
+  "title": "Union Square",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170598",
+    "imdb": "tt1783798",
+    "tmdb": 102640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

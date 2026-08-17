@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_underground_lizard_people_2011",
+  "title": "Underground Lizard People",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20022688",
+    "imdb": "tt2095813",
+    "tmdb": 330000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

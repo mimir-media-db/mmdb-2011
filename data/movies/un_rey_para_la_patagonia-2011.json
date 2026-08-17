@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_rey_para_la_patagonia_2011",
+  "title": "Un rey para la Patagonia",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24941985",
+    "imdb": "tt1744860"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 83
+}

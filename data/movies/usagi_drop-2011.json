@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_usagi_drop_2011",
+  "title": "Usagi Drop",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8987496",
+    "imdb": "tt1672214",
+    "tmdb": 95853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-20",
+  "runtime_minutes": 114
+}

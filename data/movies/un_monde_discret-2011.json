@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_un_monde_discret_2011",
+  "title": "Un monde discret",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88874413"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 78
+}

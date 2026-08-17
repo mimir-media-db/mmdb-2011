@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_un_voyage_sans_retour_2011",
+  "title": "Un voyage sans retour",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59645293"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 2
+}
