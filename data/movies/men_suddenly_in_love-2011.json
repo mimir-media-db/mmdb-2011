@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_men_suddenly_in_love_2011",
+  "title": "Men Suddenly in Love",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4185556",
+    "imdb": "tt1884354",
+    "tmdb": 69606
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

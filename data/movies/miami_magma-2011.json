@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miami_magma_2011",
+  "title": "Miami Magma",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q911659",
+    "imdb": "tt1808304",
+    "tmdb": 86971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 97
+}

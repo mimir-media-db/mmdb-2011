@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mayakkam_enna_2011",
+  "title": "Mayakkam Enna",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3525281",
+    "imdb": "tt2072167",
+    "tmdb": 76976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

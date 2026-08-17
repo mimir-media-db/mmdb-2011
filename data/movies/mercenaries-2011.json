@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mercenaries_2011",
+  "title": "Mercenaries",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6818232",
+    "imdb": "tt1728979",
+    "tmdb": 80177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 97
+}

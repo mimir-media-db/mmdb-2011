@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_little_princess_2011",
+  "title": "My Little Princess",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1327078",
+    "imdb": "tt1896788",
+    "tmdb": 78363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 135
+}

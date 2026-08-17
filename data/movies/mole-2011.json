@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mole_2011",
+  "title": "The Mole",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3208264",
+    "imdb": "tt1994537",
+    "tmdb": 80007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 107
+}

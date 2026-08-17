@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_piece_of_the_pie_2011",
+  "title": "My Piece of the Pie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3273551",
+    "imdb": "tt1641624",
+    "tmdb": 58043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 109
+}

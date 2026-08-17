@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_at_sea_2011",
+  "title": "Man at Sea",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6746320",
+    "imdb": "tt1660393",
+    "tmdb": 453475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

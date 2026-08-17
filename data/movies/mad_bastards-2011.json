@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_bastards_2011",
+  "title": "Mad Bastards",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6725911",
+    "imdb": "tt1787758",
+    "tmdb": 73066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_trip_to_the_dark_side_2011",
+  "title": "My Trip to the Dark Side",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6946540",
+    "imdb": "tt1622561"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

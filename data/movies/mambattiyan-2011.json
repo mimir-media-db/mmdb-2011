@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mambattiyan_2011",
+  "title": "Mambattiyan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6745506",
+    "imdb": "tt2186943",
+    "tmdb": 124734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

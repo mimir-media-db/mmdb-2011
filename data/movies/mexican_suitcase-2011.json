@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mexican_suitcase_2011",
+  "title": "The Mexican Suitcase",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6159013",
+    "imdb": "tt2017015",
+    "tmdb": 80118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

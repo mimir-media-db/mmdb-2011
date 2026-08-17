@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monsieur_papa_2011",
+  "title": "Monsieur Papa",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3321442",
+    "imdb": "tt1692214",
+    "tmdb": 65647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 200
+}

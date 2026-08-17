@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_margaret_2011",
+  "title": "Margaret",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q866694",
+    "imdb": "tt0466893",
+    "tmdb": 44754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 144
+}

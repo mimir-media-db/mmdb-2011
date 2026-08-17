@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mozzarella_stories_2011",
+  "title": "Mozzarella Stories",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3866735",
+    "imdb": "tt1667438",
+    "tmdb": 83658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 103
+}

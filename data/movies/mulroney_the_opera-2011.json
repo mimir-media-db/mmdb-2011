@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mulroney_the_opera_2011",
+  "title": "Mulroney: The Opera",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6934332",
+    "imdb": "tt1754362",
+    "tmdb": 408131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

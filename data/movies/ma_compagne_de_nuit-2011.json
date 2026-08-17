@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ma_compagne_de_nuit_2011",
+  "title": "Ma compagne de nuit",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3273490",
+    "imdb": "tt1376427",
+    "tmdb": 112380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}
