@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veeraputhran_2011",
+  "title": "Veeraputhran",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7918201",
+    "imdb": "tt2089849",
+    "tmdb": 1434655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

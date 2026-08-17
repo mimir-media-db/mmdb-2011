@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vicky_donor_2011",
+  "title": "Vicky Donor",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3627565",
+    "imdb": "tt2317337",
+    "tmdb": 103243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 125
+}

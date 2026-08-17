@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vandhaan_vendraan_2011",
+  "title": "Vandhaan Vendraan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7914523",
+    "imdb": "tt1826943",
+    "tmdb": 69541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

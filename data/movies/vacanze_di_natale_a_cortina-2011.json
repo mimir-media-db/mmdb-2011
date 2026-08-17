@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vacanze_di_natale_a_cortina_2011",
+  "title": "Vacanze di Natale a Cortina",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4007147",
+    "imdb": "tt2134193",
+    "tmdb": 85056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 113
+}

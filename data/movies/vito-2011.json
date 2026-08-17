@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vito_2011",
+  "title": "Vito",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4015045",
+    "imdb": "tt1444284",
+    "tmdb": 108917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

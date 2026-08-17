@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_velayudham_2011",
+  "title": "Velayudham",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473428",
+    "imdb": "tt1965272",
+    "tmdb": 63634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
