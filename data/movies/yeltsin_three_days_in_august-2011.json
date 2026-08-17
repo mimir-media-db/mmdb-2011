@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yeltsin_three_days_in_august_2011",
+  "title": "Yeltsin: Three Days in August",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4175248",
+    "imdb": "tt3519336",
+    "tmdb": 558260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}
