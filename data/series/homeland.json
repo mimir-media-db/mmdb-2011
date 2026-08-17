@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_homeland",
+  "title": "Homeland",
+  "start_year": 2011,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q23594",
+    "imdb": "tt1796960",
+    "tmdb": 1407
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 96
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_his_hers",
+  "title": "His & Hers",
+  "start_year": 2011,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7069603"
+  },
+  "last_updated": "2026-08-17"
+}

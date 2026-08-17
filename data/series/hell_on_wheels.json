@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hell_on_wheels",
+  "title": "Hell on Wheels",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q1602633",
+    "imdb": "tt1699748",
+    "tmdb": 1401
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 57
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_havan",
+  "title": "Havan",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5683034",
+    "imdb": "tt8925278"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 135
+}

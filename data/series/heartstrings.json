@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heartstrings",
+  "title": "Heartstrings",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q483389",
+    "imdb": "tt2623064",
+    "tmdb": 39198
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

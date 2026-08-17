@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heat_seekers",
+  "title": "Heat Seekers",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5693212",
+    "imdb": "tt1981269",
+    "tmdb": 58668
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

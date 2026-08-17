@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hamster_wheel",
+  "title": "The Hamster Wheel",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7738703",
+    "imdb": "tt2041223",
+    "tmdb": 41986
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

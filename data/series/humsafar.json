@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_humsafar",
+  "title": "Humsafar",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5941853",
+    "imdb": "tt2403201",
+    "tmdb": 42109
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 23
+}
