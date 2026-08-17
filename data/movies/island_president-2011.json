@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_island_president_2011",
+  "title": "The Island President",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7742680",
+    "imdb": "tt1990352",
+    "tmdb": 86850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 101
+}

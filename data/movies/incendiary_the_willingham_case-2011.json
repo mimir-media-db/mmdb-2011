@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_incendiary_the_willingham_case_2011",
+  "title": "Incendiary: The Willingham Case",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6014235",
+    "imdb": "tt1744847",
+    "tmdb": 76801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

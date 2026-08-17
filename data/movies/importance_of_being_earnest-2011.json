@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_importance_of_being_earnest_2011",
+  "title": "The Importance of Being Earnest",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7741560",
+    "imdb": "tt1863413",
+    "tmdb": 694054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

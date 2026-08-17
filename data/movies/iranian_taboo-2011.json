@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_iranian_taboo_2011",
+  "title": "Iranian Taboo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6067357",
+    "imdb": "tt2014255",
+    "tmdb": 1490306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_a_good_personi_am_a_bad_person_2011",
+  "title": "I Am a Good Person/I Am a Bad Person",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5976137",
+    "imdb": "tt1984307",
+    "tmdb": 93088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

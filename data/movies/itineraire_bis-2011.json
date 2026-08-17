@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_itineraire_bis_2011",
+  "title": "Itinéraire bis",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3155949",
+    "imdb": "tt1821468",
+    "tmdb": 82029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

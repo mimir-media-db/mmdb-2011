@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_sesso_aggiunto_2011",
+  "title": "Il sesso aggiunto",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3795781",
+    "imdb": "tt1908509",
+    "tmdb": 163420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 114
+}

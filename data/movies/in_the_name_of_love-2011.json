@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_name_of_love_2011",
+  "title": "In the Name of Love",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6012605",
+    "imdb": "tt1906398",
+    "tmdb": 73655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

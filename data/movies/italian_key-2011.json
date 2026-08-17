@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_italian_key_2011",
+  "title": "The Italian Key",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7742757",
+    "imdb": "tt1465513",
+    "tmdb": 134782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

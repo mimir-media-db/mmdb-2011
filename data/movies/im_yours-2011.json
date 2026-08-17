@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_im_yours_2011",
+  "title": "I'm Yours",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5966915",
+    "imdb": "tt1836818",
+    "tmdb": 132955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
