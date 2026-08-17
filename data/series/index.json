@@ -91,6 +91,27 @@
     "path": "data/series/26_personas_para_salvar_al_mundo.json"
   },
   {
+    "id": "s_30_vies",
+    "title": "30 vies",
+    "start_year": 2011,
+    "end_year": 2016,
+    "path": "data/series/30_vies.json"
+  },
+  {
+    "id": "s_36",
+    "title": "36",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/36.json"
+  },
+  {
+    "id": "s_3lab",
+    "title": "3lab",
+    "start_year": 2011,
+    "end_year": 2016,
+    "path": "data/series/3lab.json"
+  },
+  {
     "id": "s_49_days",
     "title": "49 Days",
     "start_year": 2011,
@@ -110,6 +131,13 @@
     "start_year": 2011,
     "end_year": 2011,
     "path": "data/series/50_documentaries_to_see_before_you_die.json"
+  },
+  {
+    "id": "s_630_with_george_negus",
+    "title": "6.30 with George Negus",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/630_with_george_negus.json"
   },
   {
     "id": "s_730",
@@ -8610,6 +8638,1035 @@
     "path": "data/series/ryan_and_tatum_the_oneals.json"
   },
   {
+    "id": "s_sa_ngalan_ng_ina",
+    "title": "Sa Ngalan ng Ina",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sa_ngalan_ng_ina.json"
+  },
+  {
+    "id": "s_sabri_maranan",
+    "title": "Sabri Maranan",
+    "start_year": 2011,
+    "end_year": 2025,
+    "path": "data/series/sabri_maranan.json"
+  },
+  {
+    "id": "s_sacrificio_de_mujer",
+    "title": "Sacrificio de Mujer",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sacrificio_de_mujer.json"
+  },
+  {
+    "id": "s_sadie_j",
+    "title": "Sadie J",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/sadie_j.json"
+  },
+  {
+    "id": "s_safebreakers",
+    "title": "Safebreakers",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/safebreakers.json"
+  },
+  {
+    "id": "s_saijo_no_meii",
+    "title": "Saijō no Meii",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/saijo_no_meii.json"
+  },
+  {
+    "id": "s_salvage_hunters",
+    "title": "Salvage Hunters",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/salvage_hunters.json"
+  },
+  {
+    "id": "s_sam_marks_big_friday_windup",
+    "title": "Sam & Mark's Big Friday Wind-Up",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/sam_marks_big_friday_windup.json"
+  },
+  {
+    "id": "s_same_name",
+    "title": "Same Name",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/same_name.json"
+  },
+  {
+    "id": "s_samson_delaila",
+    "title": "Samson & Delaila",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/samson_delaila.json"
+  },
+  {
+    "id": "s_sand_masters",
+    "title": "Sand Masters",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/sand_masters.json"
+  },
+  {
+    "id": "s_sanib_puwersa",
+    "title": "Sanib Puwersa",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sanib_puwersa.json"
+  },
+  {
+    "id": "s_sanskaar_laxmi",
+    "title": "Sanskaar Laxmi",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sanskaar_laxmi.json"
+  },
+  {
+    "id": "s_sara_selma",
+    "title": "Sara & Selma",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sara_selma.json"
+  },
+  {
+    "id": "s_saravannan_meenatchi",
+    "title": "Saravannan Meenatchi",
+    "start_year": 2011,
+    "end_year": 2018,
+    "path": "data/series/saravannan_meenatchi.json"
+  },
+  {
+    "id": "s_sasural_simar_ka",
+    "title": "Sasural Simar Ka",
+    "start_year": 2011,
+    "end_year": 2018,
+    "path": "data/series/sasural_simar_ka.json"
+  },
+  {
+    "id": "s_saturday_freedom",
+    "title": "Saturday Freedom",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/saturday_freedom.json"
+  },
+  {
+    "id": "s_sawaare_sabke_sapne_preeto",
+    "title": "Sawaare Sabke Sapne... Preeto",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/sawaare_sabke_sapne_preeto.json"
+  },
+  {
+    "id": "s_say_that_i_am",
+    "title": "Say That I am",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/say_that_i_am.json"
+  },
+  {
+    "id": "s_say_yes_to_the_dress_bridesmaids",
+    "title": "Say Yes to the Dress: Bridesmaids",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/say_yes_to_the_dress_bridesmaids.json"
+  },
+  {
+    "id": "s_say_yes_to_the_dress_randy_knows_best",
+    "title": "Say Yes to the Dress: Randy Knows Best",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/say_yes_to_the_dress_randy_knows_best.json"
+  },
+  {
+    "id": "s_sbs_popasia",
+    "title": "SBS PopAsia",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/sbs_popasia.json"
+  },
+  {
+    "id": "s_scarlet_heart",
+    "title": "Scarlet Heart",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/scarlet_heart.json"
+  },
+  {
+    "id": "s_scealta_atha_cliath",
+    "title": "Scéalta Átha Cliath",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/scealta_atha_cliath.json"
+  },
+  {
+    "id": "s_scent_of_a_woman",
+    "title": "Scent of a Woman",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/scent_of_a_woman.json"
+  },
+  {
+    "id": "s_schlawiner",
+    "title": "Schlawiner",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/schlawiner.json"
+  },
+  {
+    "id": "s_school",
+    "title": "School",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/school.json"
+  },
+  {
+    "id": "s_scotland_tonight",
+    "title": "Scotland Tonight",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/scotland_tonight.json"
+  },
+  {
+    "id": "s_scott_bailey",
+    "title": "Scott & Bailey",
+    "start_year": 2011,
+    "end_year": 2016,
+    "path": "data/series/scott_bailey.json"
+  },
+  {
+    "id": "s_scouted",
+    "title": "Scouted",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/scouted.json"
+  },
+  {
+    "id": "s_scrabble_showdown",
+    "title": "Scrabble Showdown",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/scrabble_showdown.json"
+  },
+  {
+    "id": "s_se_ela_danca_eu_danco",
+    "title": "Se Ela Dança, Eu Danço",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/se_ela_danca_eu_danco.json"
+  },
+  {
+    "id": "s_season_25_oprah_behind_the_scenes",
+    "title": "Season 25: Oprah Behind The Scenes",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/season_25_oprah_behind_the_scenes.json"
+  },
+  {
+    "id": "s_sec_storied",
+    "title": "Sec storied",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/sec_storied.json"
+  },
+  {
+    "id": "s_secret_circle",
+    "title": "The Secret Circle",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/secret_circle.json"
+  },
+  {
+    "id": "s_secret_fortune",
+    "title": "Secret Fortune",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/secret_fortune.json"
+  },
+  {
+    "id": "s_secret_history_of_empress_wu",
+    "title": "Secret History of Empress Wu",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/secret_history_of_empress_wu.json"
+  },
+  {
+    "id": "s_secreto_a_voces",
+    "title": "Secreto a voces",
+    "start_year": 2011,
+    "end_year": 2014,
+    "path": "data/series/secreto_a_voces.json"
+  },
+  {
+    "id": "s_see_you_in_court",
+    "title": "See You in Court",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/see_you_in_court.json"
+  },
+  {
+    "id": "s_seinpost_den_haag",
+    "title": "Seinpost Den Haag",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/seinpost_den_haag.json"
+  },
+  {
+    "id": "s_send_in_the_dogs_australia",
+    "title": "Send in the Dogs Australia",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/send_in_the_dogs_australia.json"
+  },
+  {
+    "id": "s_sengyo_shufu_tantei_watashi_wa_shadow",
+    "title": "Sengyō Shufu Tantei: Watashi wa Shadow",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sengyo_shufu_tantei_watashi_wa_shadow.json"
+  },
+  {
+    "id": "s_senyor_retor",
+    "title": "Senyor retor",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/senyor_retor.json"
+  },
+  {
+    "id": "s_sesame_square",
+    "title": "Sesame Square",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/sesame_square.json"
+  },
+  {
+    "id": "s_setup_squad",
+    "title": "Setup Squad",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/setup_squad.json"
+  },
+  {
+    "id": "s_seven_dwarves",
+    "title": "Seven Dwarves",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/seven_dwarves.json"
+  },
+  {
+    "id": "s_shadow_line",
+    "title": "The Shadow Line",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/shadow_line.json"
+  },
+  {
+    "id": "s_shameless",
+    "title": "Shameless",
+    "start_year": 2011,
+    "end_year": 2021,
+    "path": "data/series/shameless.json"
+  },
+  {
+    "id": "s_shedding_for_the_wedding",
+    "title": "Shedding for the Wedding",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/shedding_for_the_wedding.json"
+  },
+  {
+    "id": "s_shobha_somnath_ki",
+    "title": "Shobha Somnath Ki",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/shobha_somnath_ki.json"
+  },
+  {
+    "id": "s_shooting_gallery",
+    "title": "Shooting Gallery",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/shooting_gallery.json"
+  },
+  {
+    "id": "s_show_me_the_funny",
+    "title": "Show Me the Funny",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/show_me_the_funny.json"
+  },
+  {
+    "id": "s_show_me_what_youre_made_of",
+    "title": "Show Me What You're Made Of",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/show_me_what_youre_made_of.json"
+  },
+  {
+    "id": "s_showboaters",
+    "title": "Showboaters",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/showboaters.json"
+  },
+  {
+    "id": "s_sign",
+    "title": "Sign",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sign.json"
+  },
+  {
+    "id": "s_signed_by_katie_price",
+    "title": "Signed by Katie Price",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/signed_by_katie_price.json"
+  },
+  {
+    "id": "s_silk",
+    "title": "Silk",
+    "start_year": 2011,
+    "end_year": 2014,
+    "path": "data/series/silk.json"
+  },
+  {
+    "id": "s_simaney_sheela",
+    "title": "Simaney She'ela",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/simaney_sheela.json"
+  },
+  {
+    "id": "s_simi_selects_indias_most_desirable",
+    "title": "Simi Selects India’s Most Desirable",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/simi_selects_indias_most_desirable.json"
+  },
+  {
+    "id": "s_simsim_humara",
+    "title": "SimSim Humara",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/simsim_humara.json"
+  },
+  {
+    "id": "s_sing_if_you_can",
+    "title": "Sing If You Can",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sing_if_you_can.json"
+  },
+  {
+    "id": "s_single_ladies",
+    "title": "Single Ladies",
+    "start_year": 2011,
+    "end_year": 2015,
+    "path": "data/series/single_ladies.json"
+  },
+  {
+    "id": "s_single_white_spenny",
+    "title": "Single White Spenny",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/single_white_spenny.json"
+  },
+  {
+    "id": "s_sinner_or_saint",
+    "title": "Sinner or Saint",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sinner_or_saint.json"
+  },
+  {
+    "id": "s_sins_and_secrets",
+    "title": "Sins and Secrets",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/sins_and_secrets.json"
+  },
+  {
+    "id": "s_sirens",
+    "title": "Sirens",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sirens.json"
+  },
+  {
+    "id": "s_sisid",
+    "title": "Sisid",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sisid.json"
+  },
+  {
+    "id": "s_ske48_no_magical_radio",
+    "title": "SKE48 no Magical Radio",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/ske48_no_magical_radio.json"
+  },
+  {
+    "id": "s_skilz",
+    "title": "Skilz",
+    "start_year": 2011,
+    "end_year": 2014,
+    "path": "data/series/skilz.json"
+  },
+  {
+    "id": "s_skins",
+    "title": "Skins",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/skins.json"
+  },
+  {
+    "id": "s_skip_beat",
+    "title": "Skip Beat!",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/skip_beat.json"
+  },
+  {
+    "id": "s_sky_court",
+    "title": "Sky Court",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sky_court.json"
+  },
+  {
+    "id": "s_skyweek",
+    "title": "SkyWeek",
+    "start_year": 2011,
+    "end_year": 2014,
+    "path": "data/series/skyweek.json"
+  },
+  {
+    "id": "s_slap",
+    "title": "The Slap",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/slap.json"
+  },
+  {
+    "id": "s_sled",
+    "title": "Sled",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sled.json"
+  },
+  {
+    "id": "s_slide",
+    "title": "Slide",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/slide.json"
+  },
+  {
+    "id": "s_small_teen_bigger_world",
+    "title": "Small Teen, Bigger World",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/small_teen_bigger_world.json"
+  },
+  {
+    "id": "s_small_time_gangster",
+    "title": "Small Time Gangster",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/small_time_gangster.json"
+  },
+  {
+    "id": "s_so_random",
+    "title": "So Random!",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/so_random.json"
+  },
+  {
+    "id": "s_soda",
+    "title": "Soda",
+    "start_year": 2011,
+    "end_year": 2010,
+    "path": "data/series/soda.json"
+  },
+  {
+    "id": "s_sofia_residents_in_excess",
+    "title": "Sofia Residents in Excess",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/sofia_residents_in_excess.json"
+  },
+  {
+    "id": "s_sol_fest_och_oroliga_foraldrar",
+    "title": "Sol, fest och oroliga föräldrar",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/sol_fest_och_oroliga_foraldrar.json"
+  },
+  {
+    "id": "s_song_to_remember",
+    "title": "A Song to Remember",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/song_to_remember.json"
+  },
+  {
+    "id": "s_sons_of_guns",
+    "title": "Sons of Guns",
+    "start_year": 2011,
+    "end_year": 2014,
+    "path": "data/series/sons_of_guns.json"
+  },
+  {
+    "id": "s_sooty",
+    "title": "Sooty",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/sooty.json"
+  },
+  {
+    "id": "s_soredemo_ikite_yuku",
+    "title": "Soredemo, Ikite Yuku",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/soredemo_ikite_yuku.json"
+  },
+  {
+    "id": "s_south_beach_tow",
+    "title": "South Beach Tow",
+    "start_year": 2011,
+    "end_year": 2014,
+    "path": "data/series/south_beach_tow.json"
+  },
+  {
+    "id": "s_south_riding",
+    "title": "South Riding",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/south_riding.json"
+  },
+  {
+    "id": "s_sparrowhawk",
+    "title": "Sparrowhawk",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/sparrowhawk.json"
+  },
+  {
+    "id": "s_spartacus_gods_of_the_arena",
+    "title": "Spartacus: Gods of the Arena",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/spartacus_gods_of_the_arena.json"
+  },
+  {
+    "id": "s_sparticle_mystery",
+    "title": "The Sparticle Mystery",
+    "start_year": 2011,
+    "end_year": 2015,
+    "path": "data/series/sparticle_mystery.json"
+  },
+  {
+    "id": "s_special_affairs_team_ten",
+    "title": "Special Affairs Team TEN",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/special_affairs_team_ten.json"
+  },
+  {
+    "id": "s_speed_round",
+    "title": "Speed Round",
+    "start_year": 2010,
+    "end_year": 2022,
+    "path": "data/series/speed_round.json"
+  },
+  {
+    "id": "s_spezialeinsatz",
+    "title": "Spezialeinsatz",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/spezialeinsatz.json"
+  },
+  {
+    "id": "s_sphere_club",
+    "title": "Sphere Club",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/sphere_club.json"
+  },
+  {
+    "id": "s_splatalot",
+    "title": "Splatalot!",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/splatalot.json"
+  },
+  {
+    "id": "s_split",
+    "title": "Split",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/split.json"
+  },
+  {
+    "id": "s_spooky_nights",
+    "title": "Spooky Nights",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/spooky_nights.json"
+  },
+  {
+    "id": "s_sports_show_with_norm_macdonald",
+    "title": "Sports Show with Norm Macdonald",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sports_show_with_norm_macdonald.json"
+  },
+  {
+    "id": "s_sports_tonight",
+    "title": "Sports Tonight",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sports_tonight.json"
+  },
+  {
+    "id": "s_spy",
+    "title": "Spy",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/spy.json"
+  },
+  {
+    "id": "s_spy_myungwol",
+    "title": "Spy Myung-wol",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/spy_myungwol.json"
+  },
+  {
+    "id": "s_sr_y_sra_camas",
+    "title": "Sr. y Sra. Camas",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sr_y_sra_camas.json"
+  },
+  {
+    "id": "s_stafford_brothers",
+    "title": "The Stafford Brothers",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/stafford_brothers.json"
+  },
+  {
+    "id": "s_stage",
+    "title": "Stage",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/stage.json"
+  },
+  {
+    "id": "s_stalked_someones_watching",
+    "title": "Stalked: Someone's Watching",
+    "start_year": 2011,
+    "end_year": 2014,
+    "path": "data/series/stalked_someones_watching.json"
+  },
+  {
+    "id": "s_stand_up_comedy_indonesia_kompas_tv",
+    "title": "Stand Up Comedy Indonesia Kompas TV",
+    "start_year": 2011,
+    "end_year": 2025,
+    "path": "data/series/stand_up_comedy_indonesia_kompas_tv.json"
+  },
+  {
+    "id": "s_star_box",
+    "title": "Star Box",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/star_box.json"
+  },
+  {
+    "id": "s_starhyke",
+    "title": "Starhyke",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/starhyke.json"
+  },
+  {
+    "id": "s_stars_go_racing",
+    "title": "Stars Go Racing",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/stars_go_racing.json"
+  },
+  {
+    "id": "s_state_of_georgia",
+    "title": "State of Georgia",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/state_of_georgia.json"
+  },
+  {
+    "id": "s_state_of_the_nation",
+    "title": "State of the Nation",
+    "start_year": 2011,
+    "end_year": 2020,
+    "path": "data/series/state_of_the_nation.json"
+  },
+  {
+    "id": "s_staten_island_cakes",
+    "title": "Staten Island Cakes",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/staten_island_cakes.json"
+  },
+  {
+    "id": "s_steps",
+    "title": "Steps",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/steps.json"
+  },
+  {
+    "id": "s_stolen_voices_buried_secrets",
+    "title": "Stolen Voices, Buried Secrets",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/stolen_voices_buried_secrets.json"
+  },
+  {
+    "id": "s_storage_hunters",
+    "title": "Storage Hunters",
+    "start_year": 2011,
+    "end_year": 2014,
+    "path": "data/series/storage_hunters.json"
+  },
+  {
+    "id": "s_storage_wars_texas",
+    "title": "Storage Wars: Texas",
+    "start_year": 2011,
+    "end_year": 2014,
+    "path": "data/series/storage_wars_texas.json"
+  },
+  {
+    "id": "s_storm_riders",
+    "title": "Storm Riders",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/storm_riders.json"
+  },
+  {
+    "id": "s_story_of_ireland",
+    "title": "The Story of Ireland",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/story_of_ireland.json"
+  },
+  {
+    "id": "s_stuck_with_hackett",
+    "title": "Stuck with Hackett",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/stuck_with_hackett.json"
+  },
+  {
+    "id": "s_sturmfrei",
+    "title": "Sturmfrei",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/sturmfrei.json"
+  },
+  {
+    "id": "s_stv_appeal",
+    "title": "STV Appeal",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/stv_appeal.json"
+  },
+  {
+    "id": "s_su_nombre_es_joaquin",
+    "title": "Su Nombre es Joaquín",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/su_nombre_es_joaquin.json"
+  },
+  {
+    "id": "s_suburgatory",
+    "title": "Suburgatory",
+    "start_year": 2011,
+    "end_year": 2014,
+    "path": "data/series/suburgatory.json"
+  },
+  {
+    "id": "s_suena_conmigo_en_concierto",
+    "title": "Sueña conmigo en concierto",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/suena_conmigo_en_concierto.json"
+  },
+  {
+    "id": "s_sugartown",
+    "title": "Sugartown",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sugartown.json"
+  },
+  {
+    "id": "s_suits",
+    "title": "Suits",
+    "start_year": 2011,
+    "end_year": 2019,
+    "path": "data/series/suits.json"
+  },
+  {
+    "id": "s_summer_of_wolfs",
+    "title": "Summer of Wolfs",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/summer_of_wolfs.json"
+  },
+  {
+    "id": "s_sun_sex_and_suspicious_parents",
+    "title": "Sun, Sex and Suspicious Parents",
+    "start_year": 2011,
+    "end_year": 2010,
+    "path": "data/series/sun_sex_and_suspicious_parents.json"
+  },
+  {
+    "id": "s_sunny_girl",
+    "title": "Sunny Girl",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/sunny_girl.json"
+  },
+  {
+    "id": "s_sunny_happiness",
+    "title": "Sunny Happiness",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/sunny_happiness.json"
+  },
+  {
+    "id": "s_supah_ninjas",
+    "title": "Supah Ninjas",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/supah_ninjas.json"
+  },
+  {
+    "id": "s_super_city",
+    "title": "Super City",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/super_city.json"
+  },
+  {
+    "id": "s_super_junior_and_sistars_hello_baby",
+    "title": "Super Junior and Sistar's Hello Baby",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/super_junior_and_sistars_hello_baby.json"
+  },
+  {
+    "id": "s_super_snoops",
+    "title": "Super Snoops",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/super_snoops.json"
+  },
+  {
+    "id": "s_super_soul_sunday",
+    "title": "Super Soul Sunday",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/super_soul_sunday.json"
+  },
+  {
+    "id": "s_supertorpe",
+    "title": "Supertorpe",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/supertorpe.json"
+  },
+  {
+    "id": "s_surprising_europe",
+    "title": "Surprising Europe",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/surprising_europe.json"
+  },
+  {
+    "id": "s_surya_the_super_cop",
+    "title": "Surya The Super Cop",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/surya_the_super_cop.json"
+  },
+  {
+    "id": "s_suzuki_sensei",
+    "title": "Suzuki Sensei",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/suzuki_sensei.json"
+  },
+  {
+    "id": "s_svetofor",
+    "title": "Svetofor",
+    "start_year": 2011,
+    "end_year": 2018,
+    "path": "data/series/svetofor.json"
+  },
+  {
+    "id": "s_swamp_brothers",
+    "title": "Swamp Brothers",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/swamp_brothers.json"
+  },
+  {
+    "id": "s_sweet_genius",
+    "title": "Sweet Genius",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/sweet_genius.json"
+  },
+  {
+    "id": "s_swing",
+    "title": "Swing",
+    "start_year": 2010,
+    "end_year": 2014,
+    "path": "data/series/swing.json"
+  },
+  {
+    "id": "s_switch_girl",
+    "title": "Switch Girl!!",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/switch_girl.json"
+  },
+  {
+    "id": "s_switched_at_birth",
+    "title": "Switched at Birth",
+    "start_year": 2011,
+    "end_year": 2017,
+    "path": "data/series/switched_at_birth.json"
+  },
+  {
+    "id": "s_symphony_of_fate",
+    "title": "Symphony of Fate",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/symphony_of_fate.json"
+  },
+  {
     "id": "s_tahajjud_cinta",
     "title": "Tahajjud Cinta",
     "start_year": 2011,
@@ -9567,6 +10624,384 @@
     "start_year": 2011,
     "end_year": null,
     "path": "data/series/voice_portugal.json"
+  },
+  {
+    "id": "s_wall_of_fame",
+    "title": "Wall of Fame",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/wall_of_fame.json"
+  },
+  {
+    "id": "s_wannabes",
+    "title": "The Wannabes",
+    "start_year": 2010,
+    "end_year": 2014,
+    "path": "data/series/wannabes.json"
+  },
+  {
+    "id": "s_war_of_the_roses",
+    "title": "War of the Roses",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/war_of_the_roses.json"
+  },
+  {
+    "id": "s_warrior_baek_dongsoo",
+    "title": "Warrior Baek Dong-soo",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/warrior_baek_dongsoo.json"
+  },
+  {
+    "id": "s_we_are_singaporeans",
+    "title": "We Are Singaporeans",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/we_are_singaporeans.json"
+  },
+  {
+    "id": "s_we_the_people_with_judge_lauren_lake",
+    "title": "We the People with Judge Lauren Lake",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/we_the_people_with_judge_lauren_lake.json"
+  },
+  {
+    "id": "s_we_zijn_er_bijna",
+    "title": "We Zijn Er Bijna",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/we_zijn_er_bijna.json"
+  },
+  {
+    "id": "s_web_therapy",
+    "title": "Web Therapy",
+    "start_year": 2011,
+    "end_year": 2015,
+    "path": "data/series/web_therapy.json"
+  },
+  {
+    "id": "s_wedding_wars",
+    "title": "Wedding Wars",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/wedding_wars.json"
+  },
+  {
+    "id": "s_weed_wars",
+    "title": "Weed Wars",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/weed_wars.json"
+  },
+  {
+    "id": "s_week_thus_far",
+    "title": "The Week Thus Far",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/week_thus_far.json"
+  },
+  {
+    "id": "s_weekend_chez_les_toquees",
+    "title": "Week-end chez les toquées",
+    "start_year": 2011,
+    "end_year": 2010,
+    "path": "data/series/weekend_chez_les_toquees.json"
+  },
+  {
+    "id": "s_weekly_idol",
+    "title": "Weekly Idol",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/weekly_idol.json"
+  },
+  {
+    "id": "s_weemseesdet",
+    "title": "Weemseesdet",
+    "start_year": 2010,
+    "end_year": 2010,
+    "path": "data/series/weemseesdet.json"
+  },
+  {
+    "id": "s_wega_die_spezialeinheit_der_polizei",
+    "title": "WEGA – Die Spezialeinheit der Polizei",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/wega_die_spezialeinheit_der_polizei.json"
+  },
+  {
+    "id": "s_welcome_to_sweetie_pies",
+    "title": "Welcome to Sweetie Pie's",
+    "start_year": 2011,
+    "end_year": 2018,
+    "path": "data/series/welcome_to_sweetie_pies.json"
+  },
+  {
+    "id": "s_welcome_to_the_elpalacio",
+    "title": "Welcome to the El-Palacio",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/welcome_to_the_elpalacio.json"
+  },
+  {
+    "id": "s_welcome_to_the_show",
+    "title": "Welcome to the Show",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/welcome_to_the_show.json"
+  },
+  {
+    "id": "s_west_block",
+    "title": "The West Block",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/west_block.json"
+  },
+  {
+    "id": "s_what_if",
+    "title": "What If?",
+    "start_year": 2011,
+    "end_year": 2016,
+    "path": "data/series/what_if.json"
+  },
+  {
+    "id": "s_whats_up",
+    "title": "What's Up",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/whats_up.json"
+  },
+  {
+    "id": "s_whats_up_warthogs",
+    "title": "What's Up Warthogs!",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/whats_up_warthogs.json"
+  },
+  {
+    "id": "s_when_heaven_burns",
+    "title": "When Heaven Burns",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/when_heaven_burns.json"
+  },
+  {
+    "id": "s_when_women_powder_twice",
+    "title": "When Women Powder Twice",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/when_women_powder_twice.json"
+  },
+  {
+    "id": "s_while_you_were_sleeping",
+    "title": "While You Were Sleeping",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/while_you_were_sleeping.json"
+  },
+  {
+    "id": "s_white_christmas",
+    "title": "White Christmas",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/white_christmas.json"
+  },
+  {
+    "id": "s_white_van_man",
+    "title": "White Van Man",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/white_van_man.json"
+  },
+  {
+    "id": "s_whitney",
+    "title": "Whitney",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/whitney.json"
+  },
+  {
+    "id": "s_who_wants_to_date_a_comedian",
+    "title": "Who Wants to Date a Comedian?",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/who_wants_to_date_a_comedian.json"
+  },
+  {
+    "id": "s_whos_been_sleeping_in_my_house",
+    "title": "Who's Been Sleeping in My House?",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/whos_been_sleeping_in_my_house.json"
+  },
+  {
+    "id": "s_whos_still_standing",
+    "title": "Who's Still Standing?",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/whos_still_standing.json"
+  },
+  {
+    "id": "s_wife_bina_life",
+    "title": "Wife Bina Life",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/wife_bina_life.json"
+  },
+  {
+    "id": "s_wild_boys",
+    "title": "Wild Boys",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/wild_boys.json"
+  },
+  {
+    "id": "s_wilde_wellen_nichts_bleibt_verborgen",
+    "title": "Wilde Wellen – Nichts bleibt verborgen",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/wilde_wellen_nichts_bleibt_verborgen.json"
+  },
+  {
+    "id": "s_wildes_deutschland",
+    "title": "Wildes Deutschland",
+    "start_year": 2010,
+    "end_year": null,
+    "path": "data/series/wildes_deutschland.json"
+  },
+  {
+    "id": "s_wilfred",
+    "title": "Wilfred",
+    "start_year": 2011,
+    "end_year": 2014,
+    "path": "data/series/wilfred.json"
+  },
+  {
+    "id": "s_windy_city_weekend",
+    "title": "Windy City Weekend",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/windy_city_weekend.json"
+  },
+  {
+    "id": "s_winners_losers",
+    "title": "Winners & Losers",
+    "start_year": 2011,
+    "end_year": 2016,
+    "path": "data/series/winners_losers.json"
+  },
+  {
+    "id": "s_wipeout_canada",
+    "title": "Wipeout Canada",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/wipeout_canada.json"
+  },
+  {
+    "id": "s_witch_doctor_will_see_you_now",
+    "title": "The Witch Doctor Will See You Now",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/witch_doctor_will_see_you_now.json"
+  },
+  {
+    "id": "s_wnl_op_zondag",
+    "title": "WNL op Zondag",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/wnl_op_zondag.json"
+  },
+  {
+    "id": "s_women_of_our_home",
+    "title": "The Women of Our Home",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/women_of_our_home.json"
+  },
+  {
+    "id": "s_wonders_of_the_universe",
+    "title": "Wonders of the Universe",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/wonders_of_the_universe.json"
+  },
+  {
+    "id": "s_woodlies",
+    "title": "The Woodlies",
+    "start_year": 2010,
+    "end_year": 2011,
+    "path": "data/series/woodlies.json"
+  },
+  {
+    "id": "s_workaholics",
+    "title": "Workaholics",
+    "start_year": 2011,
+    "end_year": 2017,
+    "path": "data/series/workaholics.json"
+  },
+  {
+    "id": "s_working_class",
+    "title": "Working Class",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/working_class.json"
+  },
+  {
+    "id": "s_works",
+    "title": "The Works",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/works.json"
+  },
+  {
+    "id": "s_world_according_to_paris",
+    "title": "The World According to Paris",
+    "start_year": 2011,
+    "end_year": 2011,
+    "path": "data/series/world_according_to_paris.json"
+  },
+  {
+    "id": "s_world_seen_from_the_train",
+    "title": "The World seen from the train",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/world_seen_from_the_train.json"
+  },
+  {
+    "id": "s_world_unknown_to_matsuko",
+    "title": "The World Unknown to Matsuko",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/world_unknown_to_matsuko.json"
+  },
+  {
+    "id": "s_worlds_most_dangerous_roads",
+    "title": "World's Most Dangerous Roads",
+    "start_year": 2011,
+    "end_year": 2013,
+    "path": "data/series/worlds_most_dangerous_roads.json"
+  },
+  {
+    "id": "s_would_you_rather_with_graham_norton",
+    "title": "Would You Rather...? with Graham Norton",
+    "start_year": 2011,
+    "end_year": 2012,
+    "path": "data/series/would_you_rather_with_graham_norton.json"
+  },
+  {
+    "id": "s_wszyscy_kochaja_romana",
+    "title": "Wszyscy kochają Romana",
+    "start_year": 2011,
+    "end_year": null,
+    "path": "data/series/wszyscy_kochaja_romana.json"
+  },
+  {
+    "id": "s_wurrawhy",
+    "title": "Wurrawhy",
+    "start_year": 2011,
+    "end_year": 2016,
+    "path": "data/series/wurrawhy.json"
   },
   {
     "id": "s_x_factor",
