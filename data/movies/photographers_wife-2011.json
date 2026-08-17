@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_photographers_wife_2011",
+  "title": "The Photographer's Wife",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61947383",
+    "imdb": "tt1832329",
+    "tmdb": 556795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_papa_i_love_you_papa_i_love_you_2011",
+  "title": "Papa I Love You, Papa I Love You",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14933295",
+    "imdb": "tt2127339",
+    "tmdb": 256784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

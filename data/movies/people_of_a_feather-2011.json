@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_people_of_a_feather_2011",
+  "title": "People of a Feather",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48671770",
+    "imdb": "tt1929346",
+    "tmdb": 137381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-05"
+}

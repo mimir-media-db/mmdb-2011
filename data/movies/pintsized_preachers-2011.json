@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_pintsized_preachers_2011",
+  "title": "Pint-Sized Preachers",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50311712",
+    "imdb": "tt2090913"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

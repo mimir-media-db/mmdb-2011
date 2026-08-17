@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prince_of_the_himalayas_2011",
+  "title": "Prince of the Himalayas",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1865423",
+    "imdb": "tt0905360",
+    "tmdb": 286090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-23"
+}

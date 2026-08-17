@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perry_rhodan_unser_mann_im_all_2011",
+  "title": "Perry Rhodan - Unser Mann im All",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27887271",
+    "imdb": "tt2009550",
+    "tmdb": 185764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-01",
+  "runtime_minutes": 94
+}

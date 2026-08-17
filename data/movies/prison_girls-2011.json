@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prison_girls_2011",
+  "title": "Prison Girls",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139762306",
+    "imdb": "tt1858517",
+    "tmdb": 76930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-15",
+  "runtime_minutes": 145
+}

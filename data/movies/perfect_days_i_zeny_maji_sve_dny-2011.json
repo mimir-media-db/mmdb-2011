@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_days_i_zeny_maji_sve_dny_2011",
+  "title": "Perfect Days - I zeny maji sve dny",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q78585305",
+    "imdb": "tt2130161",
+    "tmdb": 101140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

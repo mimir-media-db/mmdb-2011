@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_picco_2011",
+  "title": "Picco",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2092098",
+    "imdb": "tt1529316",
+    "tmdb": 56161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-03",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_padharo_mhare_des_2011",
+  "title": "Padharo Mhare Des",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252701"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-01"
+}

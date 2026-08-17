@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pax_2011",
+  "title": "Pax",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10728969",
+    "imdb": "tt1016223",
+    "tmdb": 53817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-18"
+}

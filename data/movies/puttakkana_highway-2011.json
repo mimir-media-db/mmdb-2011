@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_puttakkana_highway_2011",
+  "title": "Puttakkana Highway",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7262445",
+    "imdb": "tt13906718"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-20"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pachuvum_kovalanum_2011",
+  "title": "Pachuvum Kovalanum",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7122077",
+    "imdb": "tt2296897",
+    "tmdb": 214972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-14"
+}

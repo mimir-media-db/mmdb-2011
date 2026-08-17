@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plastic_planet_2011",
+  "title": "Plastic Planet",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2098501",
+    "imdb": "tt1292648",
+    "tmdb": 53290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-06",
+  "runtime_minutes": 99
+}

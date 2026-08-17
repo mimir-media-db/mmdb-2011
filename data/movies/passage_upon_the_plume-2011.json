@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passage_upon_the_plume_2011",
+  "title": "Passage Upon the Plume",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56490088",
+    "imdb": "tt2140243",
+    "tmdb": 433342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 7
+}

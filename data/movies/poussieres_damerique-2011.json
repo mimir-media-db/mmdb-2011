@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poussieres_damerique_2011",
+  "title": "Poussières d'Amérique",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19608914",
+    "imdb": "tt2007446",
+    "tmdb": 315591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

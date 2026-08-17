@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pick_youth_2011",
+  "title": "Pick Youth",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22100335",
+    "imdb": "tt1976600",
+    "tmdb": 467004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

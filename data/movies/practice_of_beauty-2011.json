@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_practice_of_beauty_2011",
+  "title": "The Practice of Beauty",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15271081",
+    "imdb": "tt2107851",
+    "tmdb": 81202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-16",
+  "runtime_minutes": 93
+}

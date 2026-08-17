@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_portraits_in_dramatic_time_2011",
+  "title": "Portraits in Dramatic Time",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121811088",
+    "imdb": "tt1978512",
+    "tmdb": 377499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 7
+}

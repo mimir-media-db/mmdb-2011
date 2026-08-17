@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_park_city_2011",
+  "title": "Park City",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56605248",
+    "imdb": "tt2290904",
+    "tmdb": 520613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-21"
+}

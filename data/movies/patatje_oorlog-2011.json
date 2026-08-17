@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_patatje_oorlog_2011",
+  "title": "Patatje Oorlog",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2525577",
+    "imdb": "tt1954407",
+    "tmdb": 87022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-12",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poolside_pounding_2011",
+  "title": "Poolside Pounding",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128916304",
+    "imdb": "tt2613952"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-12",
+  "runtime_minutes": 16
+}
