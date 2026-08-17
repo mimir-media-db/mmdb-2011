@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_around_the_world_in_80_ways",
+  "title": "Around the World in 80 Ways",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4795651",
+    "imdb": "tt1911720",
+    "tmdb": 42768
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

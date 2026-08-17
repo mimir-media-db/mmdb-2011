@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ant_farm",
+  "title": "A.N.T. Farm",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q278375",
+    "imdb": "tt1772752",
+    "tmdb": 34573
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 65
+}

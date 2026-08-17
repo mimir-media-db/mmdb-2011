@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_after_lately",
+  "title": "After Lately",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4690540",
+    "imdb": "tt1819781",
+    "tmdb": 38221
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

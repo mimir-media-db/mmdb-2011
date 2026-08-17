@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_amaya",
+  "title": "Amaya",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4740745",
+    "imdb": "tt1849249",
+    "tmdb": 35275
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 165
+}

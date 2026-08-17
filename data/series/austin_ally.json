@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_austin_ally",
+  "title": "Austin & Ally",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q780941",
+    "imdb": "tt1830491",
+    "tmdb": 35279
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 87
+}

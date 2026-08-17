@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alist_dallas",
+  "title": "The A-List: Dallas",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7712023",
+    "imdb": "tt2084665",
+    "tmdb": 39262
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

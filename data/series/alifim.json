@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alifim",
+  "title": "Alifim",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12403975",
+    "imdb": "tt2258787",
+    "tmdb": 51102
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 180
+}

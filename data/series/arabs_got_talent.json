@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_arabs_got_talent",
+  "title": "Arabs Got Talent",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4783488",
+    "imdb": "tt3240080",
+    "tmdb": 35082
+  },
+  "last_updated": "2026-08-17"
+}

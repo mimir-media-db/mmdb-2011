@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_alaska_y_mario",
+  "title": "Alaska y Mario",
+  "start_year": 2011,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q11482186",
+    "imdb": "tt1922836",
+    "tmdb": 49441
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 38
+}

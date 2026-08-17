@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_awkward",
+  "title": "Awkward",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q203837",
+    "imdb": "tt1663676",
+    "tmdb": 39859
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 89
+}

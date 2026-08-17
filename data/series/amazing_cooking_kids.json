@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_cooking_kids",
+  "title": "Amazing Cooking Kids",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4740789",
+    "imdb": "tt1887978",
+    "tmdb": 39097
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

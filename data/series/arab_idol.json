@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_arab_idol",
+  "title": "Arab Idol",
+  "start_year": 2011,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q2917343"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4
+}

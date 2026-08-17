@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_agora_e_tarde",
+  "title": "Agora É Tarde",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q1107133",
+    "imdb": "tt2093350",
+    "tmdb": 46152
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 623
+}
