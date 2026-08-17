@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wader_wecker_father_land_2011",
+  "title": "Wader Wecker Father Land",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24004485",
+    "imdb": "tt1965279",
+    "tmdb": 161786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-15"
+}

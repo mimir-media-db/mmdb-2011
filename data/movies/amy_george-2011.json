@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amy_george_2011",
+  "title": "Amy George",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4749205",
+    "imdb": "tt1781767",
+    "tmdb": 107751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-03",
+  "runtime_minutes": 95
+}

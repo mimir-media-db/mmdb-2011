@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jo_hum_chahein_2011",
+  "title": "Jo Hum Chahein",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17059707",
+    "imdb": "tt2112978",
+    "tmdb": 85776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

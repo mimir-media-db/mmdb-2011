@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_griot_2011",
+  "title": "Griot",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123528111",
+    "imdb": "tt1489960",
+    "tmdb": 229743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

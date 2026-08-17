@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_control_tower_2011",
+  "title": "Control Tower",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8816061",
+    "imdb": "tt1816561",
+    "tmdb": 96770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 68
+}

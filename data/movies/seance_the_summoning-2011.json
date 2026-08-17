@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seance_the_summoning_2011",
+  "title": "Seance: The Summoning",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30926883",
+    "imdb": "tt1796607",
+    "tmdb": 101962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_project_genesis_crossclub_2_2011",
+  "title": "Project Genesis: Crossclub 2",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97656618",
+    "imdb": "tt1712038",
+    "tmdb": 571031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 70
+}

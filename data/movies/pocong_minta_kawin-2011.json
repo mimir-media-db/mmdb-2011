@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pocong_minta_kawin_2011",
+  "title": "Pocong Minta Kawin",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19730970",
+    "imdb": "tt2285649",
+    "tmdb": 562619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

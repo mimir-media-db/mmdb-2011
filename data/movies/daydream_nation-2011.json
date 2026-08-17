@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daydream_nation_2011",
+  "title": "Daydream Nation",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q640272",
+    "imdb": "tt1581835",
+    "tmdb": 58446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-15",
+  "runtime_minutes": 98
+}

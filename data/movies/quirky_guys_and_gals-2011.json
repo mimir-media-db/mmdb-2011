@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quirky_guys_and_gals_2011",
+  "title": "Quirky Guys and Gals",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10855093",
+    "imdb": "tt1758750",
+    "tmdb": 79623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

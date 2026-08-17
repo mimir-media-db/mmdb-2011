@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sabash_sariyana_potti_2011",
+  "title": "Sabash Sariyana Potti",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12977930",
+    "imdb": "tt13439272",
+    "tmdb": 262552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

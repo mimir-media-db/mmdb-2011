@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_step_up_love_story_second_kiss_2011",
+  "title": "Step Up Love Story: Second Kiss",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10941901",
+    "imdb": "tt2134058",
+    "tmdb": 433976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-17",
+  "runtime_minutes": 71
+}

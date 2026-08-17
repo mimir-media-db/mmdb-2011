@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fright_night_2011",
+  "title": "Fright Night",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q268824",
+    "imdb": "tt1438176",
+    "tmdb": 58151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-19",
+  "runtime_minutes": 106
+}

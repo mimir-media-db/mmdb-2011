@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trabant_goes_to_africa_2011",
+  "title": "Trabant Goes to Africa",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23758763",
+    "imdb": "tt1841898",
+    "tmdb": 75286
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phhir_2011",
+  "title": "Phhir",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252981",
+    "imdb": "tt2023645",
+    "tmdb": 597048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

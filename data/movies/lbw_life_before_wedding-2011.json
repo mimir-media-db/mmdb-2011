@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lbw_life_before_wedding_2011",
+  "title": "LBW: Life Before Wedding",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111940123",
+    "imdb": "tt1757796",
+    "tmdb": 85307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-18"
+}

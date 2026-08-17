@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ninifuni_2011",
+  "title": "Ninifuni",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11235667",
+    "imdb": "tt2066933",
+    "tmdb": 350633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 42
+}

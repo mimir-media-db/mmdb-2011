@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vallanzasca_angels_of_evil_2011",
+  "title": "Vallanzasca - Angels of Evil",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81845",
+    "imdb": "tt1571402",
+    "tmdb": 54441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-24",
+  "runtime_minutes": 125
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_noite_do_chupacabras_2011",
+  "title": "A Noite do Chupacabras",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16143256",
+    "imdb": "tt2153364",
+    "tmdb": 200036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 95
+}

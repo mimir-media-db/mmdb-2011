@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1509_operacion_victoria_2011",
+  "title": "1509: Operación Victoria",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123377157",
+    "imdb": "tt1954711",
+    "tmdb": 1199506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 60
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silence_of_joan_2011",
+  "title": "The Silence of Joan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3176187",
+    "imdb": "tt1444266",
+    "tmdb": 110954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-13",
+  "runtime_minutes": 92
+}

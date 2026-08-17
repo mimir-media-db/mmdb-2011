@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_think_global_act_rural_2011",
+  "title": "Think Global, Act Rural",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1146110",
+    "imdb": "tt1600731",
+    "tmdb": 53930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-20",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_small_time_gangster",
+  "title": "Small Time Gangster",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q17035650",
+    "imdb": "tt1772673",
+    "tmdb": 39289
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

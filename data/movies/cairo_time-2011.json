@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cairo_time_2011",
+  "title": "Cairo Time",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1025973",
+    "imdb": "tt0896529",
+    "tmdb": 31189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-01",
+  "runtime_minutes": 90
+}

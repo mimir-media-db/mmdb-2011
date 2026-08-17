@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alucardos_retrato_de_un_vampiro_2011",
+  "title": "Alucardos, Retrato de un vampiro",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135991802",
+    "imdb": "tt6290468",
+    "tmdb": 269959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

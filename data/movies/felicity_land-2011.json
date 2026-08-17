@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_felicity_land_2011",
+  "title": "Felicity Land",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5441796",
+    "imdb": "tt2083320",
+    "tmdb": 505514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_75_watts_2011",
+  "title": "75 Watts",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96371138",
+    "imdb": "tt2193003"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_y_si_te_vi_no_me_acuerdo_2011",
+  "title": "Y si te vi, no me acuerdo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117350540",
+    "imdb": "tt0289632",
+    "tmdb": 287569
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

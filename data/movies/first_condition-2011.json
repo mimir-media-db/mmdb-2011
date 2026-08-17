@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_first_condition_2011",
+  "title": "The First Condition",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5713908"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-18",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maria_en_tierra_de_nadie_2011",
+  "title": "María en tierra de nadie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q81438368",
+    "imdb": "tt2076269",
+    "tmdb": 427003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

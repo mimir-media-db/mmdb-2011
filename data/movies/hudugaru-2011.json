@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hudugaru_2011",
+  "title": "Hudugaru",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5929106",
+    "imdb": "tt5612402",
+    "tmdb": 287986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-05",
+  "runtime_minutes": 148
+}

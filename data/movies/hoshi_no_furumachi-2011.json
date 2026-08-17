@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hoshi_no_furumachi_2011",
+  "title": "Hoshi no Furumachi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16157124",
+    "imdb": "tt1627059",
+    "tmdb": 148078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

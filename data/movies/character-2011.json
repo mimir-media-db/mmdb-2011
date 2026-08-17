@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_character_2011",
+  "title": "Character",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19162184",
+    "imdb": "tt1815637",
+    "tmdb": 412134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-17"
+}

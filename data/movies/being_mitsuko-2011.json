@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_being_mitsuko_2011",
+  "title": "Being Mitsuko",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11342277",
+    "imdb": "tt2058655",
+    "tmdb": 620798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

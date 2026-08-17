@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zindagi_na_milegi_dobara_2011",
+  "title": "Zindagi Na Milegi Dobara",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3067642",
+    "imdb": "tt1562872",
+    "tmdb": 61202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-15",
+  "runtime_minutes": 154
+}

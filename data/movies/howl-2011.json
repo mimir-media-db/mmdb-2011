@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_howl_2011",
+  "title": "Howl",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1632040",
+    "imdb": "tt1049402",
+    "tmdb": 38568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-06",
+  "runtime_minutes": 84
+}

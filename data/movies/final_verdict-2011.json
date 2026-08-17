@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_final_verdict_2011",
+  "title": "Final Verdict",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q79223153",
+    "imdb": "tt1249302",
+    "tmdb": 152545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-03",
+  "runtime_minutes": 88
+}

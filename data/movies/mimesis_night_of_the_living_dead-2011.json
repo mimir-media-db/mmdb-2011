@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mimesis_night_of_the_living_dead_2011",
+  "title": "Mimesis: Night of the Living Dead",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15975734",
+    "imdb": "tt1720164",
+    "tmdb": 70878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 95
+}

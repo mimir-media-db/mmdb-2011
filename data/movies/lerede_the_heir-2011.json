@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lerede_the_heir_2011",
+  "title": "L'erede - The Heir",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13424104",
+    "imdb": "tt1722590",
+    "tmdb": 101235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 89
+}

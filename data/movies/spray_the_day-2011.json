@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_spray_the_day_2011",
+  "title": "Spray the day",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20496543"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 11
+}

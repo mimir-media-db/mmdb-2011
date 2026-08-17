@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pacemaker_2011",
+  "title": "Pacemaker",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12621717",
+    "imdb": "tt2144938",
+    "tmdb": 130281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 124
+}

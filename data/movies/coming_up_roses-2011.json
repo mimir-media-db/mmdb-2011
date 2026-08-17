@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coming_up_roses_2011",
+  "title": "Coming Up Roses",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104875568",
+    "imdb": "tt1610473",
+    "tmdb": 127552
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

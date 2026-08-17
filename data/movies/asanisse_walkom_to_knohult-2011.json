@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asanisse_walkom_to_knohult_2011",
+  "title": "Åsa-Nisse - Wälkom to Knohult",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10726831",
+    "imdb": "tt1609808",
+    "tmdb": 56991
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-11",
+  "runtime_minutes": 89
+}

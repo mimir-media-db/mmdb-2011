@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bomber_2011",
+  "title": "The Bomber",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4076710",
+    "imdb": "tt2007471",
+    "tmdb": 96494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-25",
+  "runtime_minutes": 181
+}

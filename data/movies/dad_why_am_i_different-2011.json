@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dad_why_am_i_different_2011",
+  "title": "Dad, Why Am I Different?",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12472893",
+    "imdb": "tt2285389",
+    "tmdb": 521372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 99
+}

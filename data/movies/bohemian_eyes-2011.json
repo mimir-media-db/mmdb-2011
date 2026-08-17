@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bohemian_eyes_2011",
+  "title": "Bohemian Eyes",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11854461",
+    "imdb": "tt1801038",
+    "tmdb": 593548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

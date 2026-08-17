@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yamla_pagla_deewana_2011",
+  "title": "Yamla Pagla Deewana",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8048073",
+    "imdb": "tt1773109",
+    "tmdb": 54639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

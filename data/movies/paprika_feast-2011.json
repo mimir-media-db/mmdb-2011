@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_paprika_feast_2011",
+  "title": "Paprika Feast",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105638",
+    "tmdb": 646291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

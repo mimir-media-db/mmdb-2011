@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_black_mini_dress_2011",
+  "title": "My Black Mini Dress",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12594665",
+    "imdb": "tt1964895",
+    "tmdb": 64846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

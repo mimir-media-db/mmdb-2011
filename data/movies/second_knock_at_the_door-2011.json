@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_second_knock_at_the_door_2011",
+  "title": "A Second Knock at the Door",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17146719",
+    "imdb": "tt1954214",
+    "tmdb": 104752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

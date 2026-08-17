@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_labios_rojos_2011",
+  "title": "Labios Rojos",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18286143",
+    "imdb": "tt1206483",
+    "tmdb": 86728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

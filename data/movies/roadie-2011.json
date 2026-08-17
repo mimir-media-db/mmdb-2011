@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roadie_2011",
+  "title": "Roadie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959557",
+    "imdb": "tt1450330",
+    "tmdb": 76785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-23",
+  "runtime_minutes": 95
+}

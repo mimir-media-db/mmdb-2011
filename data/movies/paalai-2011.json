@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paalai_2011",
+  "title": "Paalai",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17072866",
+    "imdb": "tt2166047",
+    "tmdb": 324513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

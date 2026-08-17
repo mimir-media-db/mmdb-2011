@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_grey_fergie_and_his_new_friend_clunky_2011",
+  "title": "Little Grey Fergie and His New Friend Clunky",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16267070",
+    "imdb": "tt5346704",
+    "tmdb": 88260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-18",
+  "runtime_minutes": 89
+}

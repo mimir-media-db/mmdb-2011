@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_republique_un_abecedaire_populaire_2011",
+  "title": "République : un abécédaire populaire",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60885141"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

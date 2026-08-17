@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_indian_2011",
+  "title": "The Indian",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66823304",
+    "imdb": "tt1267493",
+    "tmdb": 21756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-20"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_treacle_jr_2011",
+  "title": "Treacle Jr.",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170554",
+    "imdb": "tt1542486",
+    "tmdb": 79404
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

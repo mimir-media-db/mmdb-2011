@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ameisen_gehen_andere_wege_2011",
+  "title": "Ameisen gehen andere Wege",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24090354",
+    "imdb": "tt2351157",
+    "tmdb": 200697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

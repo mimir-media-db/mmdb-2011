@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pranayam_2011",
+  "title": "Pranayam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7238329",
+    "imdb": "tt2042633",
+    "tmdb": 151661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-31"
+}

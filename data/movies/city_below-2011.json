@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_city_below_2011",
+  "title": "The City Below",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q974460",
+    "imdb": "tt1616194",
+    "tmdb": 78400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-31",
+  "runtime_minutes": 109
+}

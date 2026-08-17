@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vares_garter_snake_2011",
+  "title": "Vares – Garter Snake",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17384754",
+    "imdb": "tt1901033",
+    "tmdb": 80256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-05"
+}

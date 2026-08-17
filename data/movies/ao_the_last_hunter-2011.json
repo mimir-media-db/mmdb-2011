@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ao_the_last_hunter_2011",
+  "title": "Ao: The Last Hunter",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q773070",
+    "imdb": "tt1526578",
+    "tmdb": 56623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-10",
+  "runtime_minutes": 84
+}

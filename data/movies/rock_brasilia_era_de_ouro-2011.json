@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rock_brasilia_era_de_ouro_2011",
+  "title": "Rock Brasília - Era de Ouro",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10363578",
+    "imdb": "tt2091399",
+    "tmdb": 156340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 111
+}

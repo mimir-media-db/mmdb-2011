@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_with_a_broken_nose_2011",
+  "title": "The Woman with a Broken Nose",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13425894",
+    "imdb": "tt1324061",
+    "tmdb": 70745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-21",
+  "runtime_minutes": 100
+}

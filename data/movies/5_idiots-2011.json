@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_5_idiots_2011",
+  "title": "5 Idiots",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17049095",
+    "imdb": "tt1687235",
+    "tmdb": 101168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_of_norway_2011",
+  "title": "Sons of Norway",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q477307",
+    "imdb": "tt1601227",
+    "tmdb": 81834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-21",
+  "runtime_minutes": 88
+}

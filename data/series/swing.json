@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_swing",
+  "title": "Swing",
+  "start_year": 2010,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q110467014",
+    "imdb": "tt11866140",
+    "tmdb": 38541
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 44
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pepperminta_2011",
+  "title": "Pepperminta",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55386549",
+    "imdb": "tt1433911",
+    "tmdb": 237958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-29",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sofia_residents_in_excess",
+  "title": "Sofia Residents in Excess",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17097825",
+    "imdb": "tt1871037",
+    "tmdb": 46820
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 139
+}

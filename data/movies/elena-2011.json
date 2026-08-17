@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elena_2011",
+  "title": "Elena",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q678643",
+    "imdb": "tt1925421",
+    "tmdb": 78182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-21",
+  "runtime_minutes": 109
+}

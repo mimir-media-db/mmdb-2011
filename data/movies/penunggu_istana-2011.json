@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penunggu_istana_2011",
+  "title": "Penunggu Istana",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20452555",
+    "imdb": "tt1932691",
+    "tmdb": 70714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

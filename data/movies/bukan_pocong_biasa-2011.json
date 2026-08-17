@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bukan_pocong_biasa_2011",
+  "title": "Bukan Pocong Biasa",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12477456",
+    "imdb": "tt2285419",
+    "tmdb": 578179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-15",
+  "runtime_minutes": 80
+}

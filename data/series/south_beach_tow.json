@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_south_beach_tow",
+  "title": "South Beach Tow",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7566283",
+    "imdb": "tt1963853",
+    "tmdb": 39688
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 86
+}

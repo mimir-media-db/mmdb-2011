@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pop_punk_zombies_2011",
+  "title": "Pop Punk Zombies",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254218",
+    "imdb": "tt1839582",
+    "tmdb": 273659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

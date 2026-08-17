@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tomme_tnner_2_det_brune_gullet_2011",
+  "title": "Tomme Tønner 2 – Det brune gullet",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12006689",
+    "imdb": "tt1671492",
+    "tmdb": 61705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-07",
+  "runtime_minutes": 91
+}

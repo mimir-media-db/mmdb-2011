@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scent_of_rain_in_the_balkans_2011",
+  "title": "The Scent of Rain in the Balkans",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16085220",
+    "imdb": "tt3257396",
+    "tmdb": 478067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 117
+}

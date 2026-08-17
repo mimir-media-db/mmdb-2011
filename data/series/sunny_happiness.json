@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sunny_happiness",
+  "title": "Sunny Happiness",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5932954",
+    "imdb": "tt2473914",
+    "tmdb": 56971
+  },
+  "last_updated": "2026-08-17"
+}

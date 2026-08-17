@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pimp_bullies_2011",
+  "title": "Pimp Bullies",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56302768",
+    "imdb": "tt1719583",
+    "tmdb": 171363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 78
+}

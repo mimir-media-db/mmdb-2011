@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_filme_dos_espiritos_2011",
+  "title": "O Filme dos Espíritos",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10339150",
+    "imdb": "tt2210871",
+    "tmdb": 80763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

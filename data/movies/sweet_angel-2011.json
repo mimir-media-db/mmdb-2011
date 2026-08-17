@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_angel_2011",
+  "title": "Sweet Angel",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30600824",
+    "imdb": "tt9829006"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-08"
+}

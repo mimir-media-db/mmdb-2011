@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_love_and_war_2011",
+  "title": "In Love and War",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255921",
+    "imdb": "tt2060509",
+    "tmdb": 76437
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-27",
+  "runtime_minutes": 135
+}

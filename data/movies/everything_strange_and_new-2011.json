@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_strange_and_new_2011",
+  "title": "Everything Strange and New",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527638",
+    "imdb": "tt1297928",
+    "tmdb": 226052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-25",
+  "runtime_minutes": 84
+}

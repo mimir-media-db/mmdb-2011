@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anduni_fremde_heimat_2011",
+  "title": "Anduni – Fremde Heimat",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16466119",
+    "imdb": "tt1672069",
+    "tmdb": 291715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-20",
+  "runtime_minutes": 91
+}

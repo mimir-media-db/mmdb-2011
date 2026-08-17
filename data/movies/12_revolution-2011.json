@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_12_revolution_2011",
+  "title": "1/2 revolution",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20727869",
+    "imdb": "tt2133383",
+    "tmdb": 84356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-07",
+  "runtime_minutes": 72
+}

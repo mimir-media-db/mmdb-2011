@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_id_receive_the_worst_news_from_your_beautiful_lips_2011",
+  "title": "I'd Receive the Worst News from Your Beautiful Lips",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10277912",
+    "imdb": "tt2106411",
+    "tmdb": 125935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

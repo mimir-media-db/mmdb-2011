@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_we_zijn_er_bijna",
+  "title": "We Zijn Er Bijna",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56435407",
+    "imdb": "tt10682888",
+    "tmdb": 91454
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

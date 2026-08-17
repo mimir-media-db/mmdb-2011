@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_regilaul_songs_of_the_ancient_sea_2011",
+  "title": "Regilaul - Songs of the Ancient Sea",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55542376",
+    "imdb": "tt2649084",
+    "tmdb": 325834
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

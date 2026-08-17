@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_speed_of_thought_2011",
+  "title": "The Speed of Thought",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7765800",
+    "imdb": "tt0847825",
+    "tmdb": 60164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-11"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1395_days_without_red_2011",
+  "title": "1395 Days Without Red",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76759450",
+    "imdb": "tt1989425",
+    "tmdb": 377586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_albanian_2011",
+  "title": "The Albanian",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1192128",
+    "imdb": "tt1670630",
+    "tmdb": 71733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-04",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weier_horizont_2011",
+  "title": "Weißer Horizont",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104418178",
+    "imdb": "tt2107864"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-01",
+  "runtime_minutes": 54
+}

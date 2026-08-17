@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jenglot_pantai_selatan_2011",
+  "title": "Jenglot Pantai Selatan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11220906",
+    "imdb": "tt1877669",
+    "tmdb": 269796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-17",
+  "runtime_minutes": 83
+}

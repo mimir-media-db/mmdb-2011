@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_mort_de_danton_2011",
+  "title": "La Mort De Danton",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107514037",
+    "imdb": "tt2025601",
+    "tmdb": 526227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-25"
+}

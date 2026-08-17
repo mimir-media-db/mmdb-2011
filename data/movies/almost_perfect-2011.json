@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_perfect_2011",
+  "title": "Almost Perfect",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41715396",
+    "imdb": "tt1249158",
+    "tmdb": 132060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hjelp_vi_er_russ_2011",
+  "title": "Hjelp, vi er russ!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11975498",
+    "imdb": "tt1753908",
+    "tmdb": 73210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-15",
+  "runtime_minutes": 88
+}

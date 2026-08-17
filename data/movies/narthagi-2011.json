@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_narthagi_2011",
+  "title": "Narthagi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21203852",
+    "imdb": "tt1927091",
+    "tmdb": 262566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-13"
+}

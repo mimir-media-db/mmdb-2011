@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_treaty_of_double_bed_2011",
+  "title": "The Treaty of Double Bed",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10911776",
+    "tmdb": 1014720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

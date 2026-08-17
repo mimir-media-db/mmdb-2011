@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cane_2011",
+  "title": "Cane",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17689222",
+    "tmdb": 423761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-19"
+}

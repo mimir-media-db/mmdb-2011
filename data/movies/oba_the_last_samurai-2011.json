@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oba_the_last_samurai_2011",
+  "title": "Oba: The Last Samurai",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q706334",
+    "imdb": "tt1666800",
+    "tmdb": 78486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-11",
+  "runtime_minutes": 128
+}

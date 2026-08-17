@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nonswimmers_2011",
+  "title": "Non-swimmers",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136391782",
+    "imdb": "tt2050576"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 23
+}

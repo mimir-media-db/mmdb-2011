@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_speech_2011",
+  "title": "The King's Speech",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q160060",
+    "imdb": "tt1504320",
+    "tmdb": 45269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-17",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_abused_the_postville_raid_2011",
+  "title": "AbUSed: The Postville Raid",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130302106",
+    "imdb": "tt1737082",
+    "tmdb": 409743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

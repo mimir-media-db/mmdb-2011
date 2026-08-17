@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hereafter_2011",
+  "title": "Hereafter",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q185490",
+    "imdb": "tt1212419",
+    "tmdb": 44603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-27",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eu_odeio_o_orkut_2011",
+  "title": "Eu Odeio o Orkut",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10277951",
+    "imdb": "tt2146174",
+    "tmdb": 82761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 129
+}

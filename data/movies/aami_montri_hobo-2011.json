@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aami_montri_hobo_2011",
+  "title": "Aami Montri Hobo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21001633",
+    "imdb": "tt6657294",
+    "tmdb": 885360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

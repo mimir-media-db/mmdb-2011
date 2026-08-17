@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_neighbors_wife_2011",
+  "title": "My Neighbor's Wife",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17081079",
+    "imdb": "tt2057442",
+    "tmdb": 81514
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

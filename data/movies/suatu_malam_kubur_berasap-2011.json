@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suatu_malam_kubur_berasap_2011",
+  "title": "Suatu Malam Kubur Berasap",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20465678",
+    "imdb": "tt2127357",
+    "tmdb": 90734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

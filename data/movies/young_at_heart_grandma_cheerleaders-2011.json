@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_young_at_heart_grandma_cheerleaders_2011",
+  "title": "Young at Heart: Grandma Cheerleaders",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15923180",
+    "imdb": "tt1905000",
+    "tmdb": 988290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

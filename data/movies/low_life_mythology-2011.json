@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_low_life_mythology_2011",
+  "title": "A Low Life Mythology",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57983086",
+    "imdb": "tt2049383",
+    "tmdb": 346773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

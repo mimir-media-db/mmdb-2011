@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boxing_gym_2011",
+  "title": "Boxing Gym",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899911",
+    "imdb": "tt1653827",
+    "tmdb": 47059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_footnote_2011",
+  "title": "Footnote",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q324292",
+    "imdb": "tt1445520",
+    "tmdb": 72551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-14",
+  "runtime_minutes": 103
+}

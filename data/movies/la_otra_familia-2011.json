@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_otra_familia_2011",
+  "title": "La otra familia",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6466299",
+    "imdb": "tt1695136",
+    "tmdb": 75945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-25",
+  "runtime_minutes": 100
+}

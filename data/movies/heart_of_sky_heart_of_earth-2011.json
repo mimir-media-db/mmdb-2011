@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_sky_heart_of_earth_2011",
+  "title": "Heart of Sky, Heart of Earth",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11340921",
+    "imdb": "tt2077761",
+    "tmdb": 164093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

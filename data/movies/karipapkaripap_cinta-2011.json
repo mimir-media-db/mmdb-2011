@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karipapkaripap_cinta_2011",
+  "title": "Karipap-Karipap Cinta",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12689557",
+    "imdb": "tt2074390",
+    "tmdb": 75047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 110
+}

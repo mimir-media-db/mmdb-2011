@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lloyd_the_conqueror_2011",
+  "title": "Lloyd the Conqueror",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6662838",
+    "imdb": "tt1675439",
+    "tmdb": 133372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-24",
+  "runtime_minutes": 95
+}

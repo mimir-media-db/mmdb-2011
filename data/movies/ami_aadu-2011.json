@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ami_aadu_2011",
+  "title": "Ami Aadu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16160024",
+    "imdb": "tt2083925",
+    "tmdb": 721399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

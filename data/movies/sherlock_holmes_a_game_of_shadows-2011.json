@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sherlock_holmes_a_game_of_shadows_2011",
+  "title": "Sherlock Holmes: A Game of Shadows",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q243643",
+    "imdb": "tt1515091",
+    "tmdb": 58574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-16",
+  "runtime_minutes": 129
+}

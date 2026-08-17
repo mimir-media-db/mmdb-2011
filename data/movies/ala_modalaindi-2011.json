@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ala_modalaindi_2011",
+  "title": "Ala Modalaindi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12990754",
+    "imdb": "tt1830477",
+    "tmdb": 57010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 140
+}

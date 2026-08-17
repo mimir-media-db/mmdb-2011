@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_show_me_what_youre_made_of",
+  "title": "Show Me What You're Made Of",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17020279",
+    "imdb": "tt2857368",
+    "tmdb": 79752
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 25
+}

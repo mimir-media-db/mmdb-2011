@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ella_y_el_candidato_2011",
+  "title": "Ella y el candidato",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18709334",
+    "imdb": "tt1966433",
+    "tmdb": 134479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 99
+}

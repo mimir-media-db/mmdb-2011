@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_euphoria_2011",
+  "title": "Euphoria",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12482636",
+    "imdb": "tt2285463",
+    "tmdb": 964290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 130
+}

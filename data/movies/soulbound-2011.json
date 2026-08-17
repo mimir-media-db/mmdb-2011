@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_soulbound_2011",
+  "title": "Soulbound",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7564433",
+    "imdb": "tt1895545",
+    "tmdb": 249131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-27"
+}

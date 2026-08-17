@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saigon_electric_2011",
+  "title": "Saigon Electric",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7400073",
+    "imdb": "tt1836907",
+    "tmdb": 111058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-12"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sign",
+  "title": "Sign",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q486689",
+    "imdb": "tt2937202",
+    "tmdb": 42019
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

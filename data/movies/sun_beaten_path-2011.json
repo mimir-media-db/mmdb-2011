@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_beaten_path_2011",
+  "title": "The Sun Beaten Path",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25227177",
+    "imdb": "tt2062659",
+    "tmdb": 179730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escuchando_al_juez_garzon_2011",
+  "title": "Escuchando al juez Garzón",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97135192",
+    "imdb": "tt1824171",
+    "tmdb": 79302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-20",
+  "runtime_minutes": 87
+}

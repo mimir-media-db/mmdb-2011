@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_look_2011",
+  "title": "The Look",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16614497",
+    "imdb": "tt1922751",
+    "tmdb": 82673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-16",
+  "runtime_minutes": 90
+}

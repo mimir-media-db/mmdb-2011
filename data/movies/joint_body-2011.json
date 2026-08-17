@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_joint_body_2011",
+  "title": "Joint Body",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252090",
+    "imdb": "tt1628043",
+    "tmdb": 117944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

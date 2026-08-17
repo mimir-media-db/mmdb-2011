@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fight_city_of_darkness_2011",
+  "title": "Fight – City of Darkness",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19752916",
+    "imdb": "tt2221819",
+    "tmdb": 118945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

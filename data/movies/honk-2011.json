@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_honk_2011",
+  "title": "Honk",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3140131",
+    "imdb": "tt2007395",
+    "tmdb": 576491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-09",
+  "runtime_minutes": 62
+}

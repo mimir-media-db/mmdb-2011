@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_switch_2011",
+  "title": "Switch",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3506673",
+    "imdb": "tt1401636",
+    "tmdb": 69225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-06",
+  "runtime_minutes": 104
+}

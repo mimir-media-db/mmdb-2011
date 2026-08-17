@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foo_fighters_back_and_forth_2011",
+  "title": "Foo Fighters: Back and Forth",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2878380",
+    "imdb": "tt1853563",
+    "tmdb": 61488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-05",
+  "runtime_minutes": 101
+}

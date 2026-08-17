@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_gore_2011",
+  "title": "Dr. Gore",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123572051",
+    "imdb": "tt2040331",
+    "tmdb": 373925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 52
+}

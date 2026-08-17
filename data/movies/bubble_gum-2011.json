@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bubble_gum_2011",
+  "title": "Bubble Gum",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16247319",
+    "imdb": "tt2012576",
+    "tmdb": 77030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 116
+}

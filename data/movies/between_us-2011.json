@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_between_us_2011",
+  "title": "Between Us",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28664077",
+    "imdb": "tt1695765",
+    "tmdb": 114903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 110
+}

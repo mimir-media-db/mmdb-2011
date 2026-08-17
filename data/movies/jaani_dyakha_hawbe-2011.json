@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jaani_dyakha_hawbe_2011",
+  "title": "Jaani Dyakha Hawbe",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249416",
+    "imdb": "tt2641910",
+    "tmdb": 520626
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-25"
+}

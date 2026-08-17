@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yakuza_weapon_2011",
+  "title": "Yakuza Weapon",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8047273",
+    "imdb": "tt1669604",
+    "tmdb": 83192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

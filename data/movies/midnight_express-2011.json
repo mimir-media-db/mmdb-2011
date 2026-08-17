@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_express_2011",
+  "title": "Midnight Express",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65237377",
+    "tmdb": 550111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

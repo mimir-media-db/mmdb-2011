@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bertsolari_2011",
+  "title": "Bertsolari",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20492163",
+    "imdb": "tt2058583",
+    "tmdb": 139863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

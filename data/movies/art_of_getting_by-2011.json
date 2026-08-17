@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_art_of_getting_by_2011",
+  "title": "The Art of Getting By",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1415011",
+    "imdb": "tt1645080",
+    "tmdb": 64678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-23",
+  "runtime_minutes": 84
+}

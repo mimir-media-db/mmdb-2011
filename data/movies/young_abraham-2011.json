@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_young_abraham_2011",
+  "title": "Young Abraham",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8057885",
+    "imdb": "tt1978011",
+    "tmdb": 304771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

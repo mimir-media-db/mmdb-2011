@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_blind_saints_2011",
+  "title": "3 Blind Saints",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117779095",
+    "imdb": "tt1762370",
+    "tmdb": 151523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

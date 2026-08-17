@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_switched_at_birth",
+  "title": "Switched at Birth",
+  "start_year": 2011,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q599472",
+    "imdb": "tt1758772",
+    "tmdb": 37632
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 103
+}

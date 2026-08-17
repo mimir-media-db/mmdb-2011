@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_biutiful_2011",
+  "title": "Biutiful",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q879174",
+    "imdb": "tt1164999",
+    "tmdb": 45958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-10",
+  "runtime_minutes": 148
+}

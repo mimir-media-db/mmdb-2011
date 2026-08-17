@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_60_seconds_of_solitude_in_year_zero_2011",
+  "title": "60 Seconds of Solitude in Year Zero",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16387473",
+    "imdb": "tt2129860",
+    "tmdb": 464910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 60
+}

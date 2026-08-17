@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_number_four_2011",
+  "title": "I Am Number Four",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q470407",
+    "imdb": "tt1464540",
+    "tmdb": 46529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-17",
+  "runtime_minutes": 109
+}

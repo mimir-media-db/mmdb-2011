@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_funny_neighbors_2011",
+  "title": "Funny Neighbors",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19484001",
+    "tmdb": 65538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-14"
+}

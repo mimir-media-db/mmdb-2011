@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zombadings_1_patayin_sa_shokot_si_remington_2011",
+  "title": "Zombadings 1: Patayin sa Shokot si Remington",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24037551",
+    "imdb": "tt1810861",
+    "tmdb": 96239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

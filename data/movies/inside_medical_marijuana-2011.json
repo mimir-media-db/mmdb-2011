@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_medical_marijuana_2011",
+  "title": "Inside: Medical Marijuana",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50311051",
+    "imdb": "tt6963560",
+    "tmdb": 543229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

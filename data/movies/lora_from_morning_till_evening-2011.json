@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lora_from_morning_till_evening_2011",
+  "title": "Lora from Morning Till Evening",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12285060",
+    "imdb": "tt2084007",
+    "tmdb": 172618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

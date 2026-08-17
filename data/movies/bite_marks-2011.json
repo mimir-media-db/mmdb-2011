@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bite_marks_2011",
+  "title": "Bite Marks",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27996972",
+    "imdb": "tt1697878",
+    "tmdb": 66794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-17",
+  "runtime_minutes": 84
+}

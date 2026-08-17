@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eternal_flame_of_gehenna_2011",
+  "title": "Eternal Flame of Gehenna",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18693362",
+    "imdb": "tt3479540",
+    "tmdb": 253445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

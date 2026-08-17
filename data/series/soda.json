@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_soda",
+  "title": "Soda",
+  "start_year": 2011,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3488760",
+    "imdb": "tt2063560",
+    "tmdb": 60652
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 327
+}

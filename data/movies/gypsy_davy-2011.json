@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gypsy_davy_2011",
+  "title": "Gypsy Davy",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q67196988",
+    "imdb": "tt2091307",
+    "tmdb": 84205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

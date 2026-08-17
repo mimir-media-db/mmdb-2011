@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pushwagner_2011",
+  "title": "Pushwagner",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17415488",
+    "imdb": "tt1941627",
+    "tmdb": 71536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-14",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mouna_guru_2011",
+  "title": "Mouna Guru",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17071855",
+    "imdb": "tt2145803",
+    "tmdb": 146671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

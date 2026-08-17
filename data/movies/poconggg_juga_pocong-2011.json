@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_poconggg_juga_pocong_2011",
+  "title": "Poconggg Juga Pocong",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19730973",
+    "imdb": "tt2323629",
+    "tmdb": 542309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-24"
+}

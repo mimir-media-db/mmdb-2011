@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amar_bondhu_rashed_2011",
+  "title": "Amar Bondhu Rashed",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4740008",
+    "imdb": "tt1918969",
+    "tmdb": 93529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passione_2011",
+  "title": "Passione",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3897298",
+    "imdb": "tt1407085",
+    "tmdb": 56891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-07",
+  "runtime_minutes": 90
+}

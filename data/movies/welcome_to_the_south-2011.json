@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_the_south_2011",
+  "title": "Welcome to the South",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q532579",
+    "imdb": "tt1529235",
+    "tmdb": 48415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-05",
+  "runtime_minutes": 105
+}

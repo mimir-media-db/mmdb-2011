@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_papa_gold_2011",
+  "title": "Papa Gold",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718681",
+    "imdb": "tt1801822",
+    "tmdb": 308451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

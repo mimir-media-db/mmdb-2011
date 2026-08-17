@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foreverland_2011",
+  "title": "Foreverland",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16568532",
+    "imdb": "tt1828972",
+    "tmdb": 137499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-03",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amanha_nunca_mais_2011",
+  "title": "Amanhã Nunca Mais",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19999504",
+    "imdb": "tt2390985",
+    "tmdb": 103281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 77
+}

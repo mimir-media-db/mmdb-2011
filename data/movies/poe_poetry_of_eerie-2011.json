@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poe_poetry_of_eerie_2011",
+  "title": "P.O.E. Poetry of Eerie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13472643",
+    "imdb": "tt2089759",
+    "tmdb": 355576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whatever_happened_to_pink_floyd_the_strange_case_of_waters_and_gilmour_2011",
+  "title": "Whatever Happened to Pink Floyd? The Strange Case of Waters and Gilmour",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30511377",
+    "imdb": "tt3679238",
+    "tmdb": 443188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

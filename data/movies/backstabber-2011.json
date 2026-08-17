@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_backstabber_2011",
+  "title": "Backstabber",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56254907",
+    "imdb": "tt1753471",
+    "tmdb": 529144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

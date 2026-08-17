@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_tower_2011",
+  "title": "The Broken Tower",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520133",
+    "imdb": "tt1756791",
+    "tmdb": 83728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-20",
+  "runtime_minutes": 110
+}

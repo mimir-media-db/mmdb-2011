@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lars_y_el_misterio_del_portal_2011",
+  "title": "Lars y el misterio del portal",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5970171",
+    "imdb": "tt3364162",
+    "tmdb": 820307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-06",
+  "runtime_minutes": 80
+}

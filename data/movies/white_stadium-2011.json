@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_stadium_2011",
+  "title": "The White Stadium",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15804698",
+    "imdb": "tt2066860"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 63
+}

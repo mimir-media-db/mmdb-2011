@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gegengerade_2011",
+  "title": "Gegengerade",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1498263",
+    "imdb": "tt1688644",
+    "tmdb": 75758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-16",
+  "runtime_minutes": 100
+}

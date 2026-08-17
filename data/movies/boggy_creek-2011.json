@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boggy_creek_2011",
+  "title": "Boggy Creek",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17510874",
+    "imdb": "tt1493798",
+    "tmdb": 78083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

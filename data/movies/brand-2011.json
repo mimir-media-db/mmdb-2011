@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brand_2011",
+  "title": "Brand",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63037166",
+    "imdb": "tt1886482",
+    "tmdb": 78314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-29",
+  "runtime_minutes": 109
+}

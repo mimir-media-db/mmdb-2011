@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_for_the_good_of_the_world_and_nosovice_2011",
+  "title": "All for the Good of the World and Nosovice!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12005736",
+    "imdb": "tt1776798",
+    "tmdb": 75287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-17",
+  "runtime_minutes": 82
+}

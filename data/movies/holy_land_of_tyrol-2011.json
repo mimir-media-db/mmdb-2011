@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_land_of_tyrol_2011",
+  "title": "The Holy Land of Tyrol",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q819451",
+    "imdb": "tt1381407",
+    "tmdb": 79071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-27",
+  "runtime_minutes": 123
+}

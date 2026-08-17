@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boys_on_film_6_pacific_rim_2011",
+  "title": "Boys On Film 6: Pacific Rim",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051235",
+    "imdb": "tt5519766",
+    "tmdb": 420876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 137
+}

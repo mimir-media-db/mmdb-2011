@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_summer_of_wolfs",
+  "title": "Summer of Wolfs",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112705851",
+    "imdb": "tt2992540",
+    "tmdb": 108520
+  },
+  "last_updated": "2026-08-17"
+}

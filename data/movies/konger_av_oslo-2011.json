@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_konger_av_oslo_2011",
+  "title": "Konger av Oslo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17414836",
+    "imdb": "tt2304715",
+    "tmdb": 974482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-11",
+  "runtime_minutes": 63
+}

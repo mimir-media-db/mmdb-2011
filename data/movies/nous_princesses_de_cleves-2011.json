@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nous_princesses_de_cleves_2011",
+  "title": "Nous, princesses de Clèves",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12138538",
+    "imdb": "tt1868056",
+    "tmdb": 81621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

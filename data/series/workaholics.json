@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_workaholics",
+  "title": "Workaholics",
+  "start_year": 2011,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q636495",
+    "imdb": "tt1610527",
+    "tmdb": 36994
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stripperland_2011",
+  "title": "Stripperland",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60755255",
+    "imdb": "tt1710900",
+    "tmdb": 66925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 103
+}

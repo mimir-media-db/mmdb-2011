@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eduardo_barreiros_el_henry_ford_espanol_2011",
+  "title": "Eduardo Barreiros, el Henry Ford español",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12387284",
+    "imdb": "tt2098675",
+    "tmdb": 330975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 99
+}

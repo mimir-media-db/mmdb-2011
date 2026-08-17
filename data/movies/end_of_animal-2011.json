@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_animal_2011",
+  "title": "End of Animal",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16632103",
+    "imdb": "tt1794784",
+    "tmdb": 81628
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 114
+}

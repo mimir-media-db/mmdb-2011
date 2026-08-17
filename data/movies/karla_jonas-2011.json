@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karla_jonas_2011",
+  "title": "Karla & Jonas",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16323836",
+    "imdb": "tt1430094",
+    "tmdb": 48725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-11",
+  "runtime_minutes": 87
+}

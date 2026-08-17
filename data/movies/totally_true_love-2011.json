@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_totally_true_love_2011",
+  "title": "Totally True Love",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1763166",
+    "imdb": "tt1648099",
+    "tmdb": 71482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-25",
+  "runtime_minutes": 86
+}

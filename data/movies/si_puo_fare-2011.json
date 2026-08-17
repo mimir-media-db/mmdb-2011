@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_si_puo_fare_2011",
+  "title": "Si può fare",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3959939",
+    "imdb": "tt1320297",
+    "tmdb": 23619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-18",
+  "runtime_minutes": 111
+}

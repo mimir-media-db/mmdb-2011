@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horses_2011",
+  "title": "Horses",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17478860",
+    "imdb": "tt2019999",
+    "tmdb": 75798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

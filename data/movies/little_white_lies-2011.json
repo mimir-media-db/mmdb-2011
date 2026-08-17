@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_white_lies_2011",
+  "title": "Little White Lies",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1446504",
+    "imdb": "tt1440232",
+    "tmdb": 48034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-07",
+  "runtime_minutes": 154
+}

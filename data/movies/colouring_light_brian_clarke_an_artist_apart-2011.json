@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colouring_light_brian_clarke_an_artist_apart_2011",
+  "title": "Colouring Light: Brian Clarke - An Artist Apart",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111584737",
+    "imdb": "tt5701150",
+    "tmdb": 1406217
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-17",
+  "runtime_minutes": 59
+}

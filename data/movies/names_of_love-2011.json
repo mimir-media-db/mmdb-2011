@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_names_of_love_2011",
+  "title": "The Names of Love",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1195980",
+    "imdb": "tt1646974",
+    "tmdb": 50848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-14",
+  "runtime_minutes": 100
+}

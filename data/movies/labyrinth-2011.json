@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_labyrinth_2011",
+  "title": "Labyrinth",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47091941",
+    "imdb": "tt2118669",
+    "tmdb": 83103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 123
+}

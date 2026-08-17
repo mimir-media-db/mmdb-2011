@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_open_24h_2011",
+  "title": "Open 24h",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18510766",
+    "imdb": "tt1849834",
+    "tmdb": 80282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

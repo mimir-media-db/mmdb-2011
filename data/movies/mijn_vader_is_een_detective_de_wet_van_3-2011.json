@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mijn_vader_is_een_detective_de_wet_van_3_2011",
+  "title": "Mijn vader is een detective: De wet van 3",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2688886",
+    "imdb": "tt1972712",
+    "tmdb": 78023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-21",
+  "runtime_minutes": 80
+}

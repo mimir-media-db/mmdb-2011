@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_cancoes_2011",
+  "title": "As Canções",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19635695",
+    "imdb": "tt2139601",
+    "tmdb": 254527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

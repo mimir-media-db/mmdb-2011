@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_limitless_2011",
+  "title": "Limitless",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q753517",
+    "imdb": "tt1219289",
+    "tmdb": 51876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-08",
+  "runtime_minutes": 105
+}

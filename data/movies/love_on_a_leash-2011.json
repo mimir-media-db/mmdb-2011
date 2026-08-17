@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_on_a_leash_2011",
+  "title": "Love on a Leash",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114066245",
+    "imdb": "tt2185022",
+    "tmdb": 307124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_khoon_maaf_2011",
+  "title": "7 Khoon Maaf",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2818330",
+    "imdb": "tt1629376",
+    "tmdb": 56338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-17",
+  "runtime_minutes": 137
+}

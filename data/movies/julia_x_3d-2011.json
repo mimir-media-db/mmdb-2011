@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_julia_x_3d_2011",
+  "title": "Julia X 3D",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1152661",
+    "imdb": "tt1533058",
+    "tmdb": 84228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-24",
+  "runtime_minutes": 92
+}

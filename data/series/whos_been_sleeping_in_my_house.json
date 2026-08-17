@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_whos_been_sleeping_in_my_house",
+  "title": "Who's Been Sleeping in My House?",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17059920"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

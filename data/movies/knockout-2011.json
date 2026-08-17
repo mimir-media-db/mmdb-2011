@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knockout_2011",
+  "title": "Knockout",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6422913",
+    "imdb": "tt1691453",
+    "tmdb": 58448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-05",
+  "runtime_minutes": 91
+}

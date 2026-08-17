@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uma_longa_viagem_2011",
+  "title": "Uma Longa Viagem",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18276891",
+    "imdb": "tt2103142",
+    "tmdb": 250356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 97
+}

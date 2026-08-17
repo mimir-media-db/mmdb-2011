@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_have_you_seen_lupita_2011",
+  "title": "Have You Seen Lupita?",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9098039",
+    "imdb": "tt1826958",
+    "tmdb": 211910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

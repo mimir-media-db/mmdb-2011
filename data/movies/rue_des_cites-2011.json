@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rue_des_cites_2011",
+  "title": "Rue des cités",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128694521",
+    "imdb": "tt1966565",
+    "tmdb": 198137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 68
+}

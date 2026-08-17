@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maami_2011",
+  "title": "Maami",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170172",
+    "imdb": "tt3118384",
+    "tmdb": 361725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-08",
+  "runtime_minutes": 93
+}

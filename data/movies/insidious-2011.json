@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_insidious_2011",
+  "title": "Insidious",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122713",
+    "imdb": "tt1591095",
+    "tmdb": 49018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-01",
+  "runtime_minutes": 102
+}

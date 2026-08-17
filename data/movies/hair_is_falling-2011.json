@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hair_is_falling_2011",
+  "title": "Hair Is Falling",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5639486",
+    "imdb": "tt2033264",
+    "tmdb": 158408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-05"
+}

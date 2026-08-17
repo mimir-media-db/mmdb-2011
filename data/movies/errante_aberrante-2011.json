@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_errante_aberrante_2011",
+  "title": "Errante aberrante",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123377188"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 42
+}

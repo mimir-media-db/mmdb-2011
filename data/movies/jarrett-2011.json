@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jarrett_2011",
+  "title": "Jarrett",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10539696",
+    "imdb": "tt0228192",
+    "tmdb": 1568658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

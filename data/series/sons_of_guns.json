@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sons_of_guns",
+  "title": "Sons of Guns",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2081192",
+    "imdb": "tt1786203",
+    "tmdb": 35095
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 65
+}

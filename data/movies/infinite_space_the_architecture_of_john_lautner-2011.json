@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_infinite_space_the_architecture_of_john_lautner_2011",
+  "title": "Infinite Space: The Architecture of John Lautner",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96277628",
+    "imdb": "tt1284027",
+    "tmdb": 70750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-21",
+  "runtime_minutes": 91
+}

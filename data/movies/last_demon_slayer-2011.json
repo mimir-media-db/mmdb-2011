@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_last_demon_slayer_2011",
+  "title": "The Last Demon Slayer",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20495067",
+    "imdb": "tt1847719"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

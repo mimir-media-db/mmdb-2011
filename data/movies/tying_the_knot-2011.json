@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tying_the_knot_2011",
+  "title": "Tying the Knot",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17415494",
+    "imdb": "tt1965017",
+    "tmdb": 146779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-08",
+  "runtime_minutes": 85
+}

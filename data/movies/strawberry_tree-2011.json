@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_strawberry_tree_2011",
+  "title": "The Strawberry Tree",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24263048",
+    "imdb": "tt1990996",
+    "tmdb": 163943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 71
+}

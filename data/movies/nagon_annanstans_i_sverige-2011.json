@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nagon_annanstans_i_sverige_2011",
+  "title": "Någon annanstans i Sverige",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18244805",
+    "imdb": "tt1870484",
+    "tmdb": 82449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_drommar_ur_sno_2011",
+  "title": "Drömmar ur snö",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10577199",
+    "imdb": "tt2004295"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-22"
+}

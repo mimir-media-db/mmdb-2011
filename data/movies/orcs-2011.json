@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_orcs_2011",
+  "title": "Orcs!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16707830",
+    "imdb": "tt1524134",
+    "tmdb": 66470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 78
+}

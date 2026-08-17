@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunrise_over_lake_van_2011",
+  "title": "Sunrise over Lake Van",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13054960",
+    "imdb": "tt2022539",
+    "tmdb": 952375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

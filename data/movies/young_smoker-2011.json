@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_young_smoker_2011",
+  "title": "The Young Smoker",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115953662",
+    "imdb": "tt2107841"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

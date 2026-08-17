@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_sterkste_man_van_nederland_2011",
+  "title": "De sterkste man van Nederland",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14626306",
+    "imdb": "tt1741693",
+    "tmdb": 201560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-15",
+  "runtime_minutes": 90
+}

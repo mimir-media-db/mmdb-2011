@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chhota_bheem_journey_to_petra_2011",
+  "title": "Chhota Bheem: Journey to Petra",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5094934",
+    "imdb": "tt6543194",
+    "tmdb": 852975
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-01"
+}

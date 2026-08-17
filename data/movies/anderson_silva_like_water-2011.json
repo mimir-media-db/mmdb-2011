@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anderson_silva_like_water_2011",
+  "title": "Anderson Silva: Like Water",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9613713",
+    "imdb": "tt1872819",
+    "tmdb": 92117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 74
+}

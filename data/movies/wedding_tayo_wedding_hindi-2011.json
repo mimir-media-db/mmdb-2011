@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_tayo_wedding_hindi_2011",
+  "title": "Wedding Tayo, Wedding Hindi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7979068",
+    "imdb": "tt2027274",
+    "tmdb": 81519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

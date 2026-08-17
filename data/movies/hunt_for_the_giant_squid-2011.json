@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hunt_for_the_giant_squid_2011",
+  "title": "Hunt for the Giant Squid",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50310206",
+    "imdb": "tt2105373",
+    "tmdb": 590820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

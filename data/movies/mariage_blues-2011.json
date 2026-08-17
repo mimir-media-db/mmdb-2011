@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mariage_blues_2011",
+  "title": "Mariage Blues",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22231241",
+    "imdb": "tt1833034",
+    "tmdb": 631266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-29"
+}

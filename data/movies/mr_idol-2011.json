@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_idol_2011",
+  "title": "Mr. Idol",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16256387",
+    "imdb": "tt2250170",
+    "tmdb": 95179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-03",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rita_y_li_2011",
+  "title": "Rita y Li",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47525610",
+    "imdb": "tt1948139",
+    "tmdb": 928486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

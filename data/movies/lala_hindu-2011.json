@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lala_hindu_2011",
+  "title": "Lala Hindu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44726144",
+    "imdb": "tt7652950"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-26",
+  "runtime_minutes": 60
+}

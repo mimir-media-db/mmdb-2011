@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yuvan_yuvathi_2011",
+  "title": "Yuvan Yuvathi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8062163",
+    "imdb": "tt4338888",
+    "tmdb": 66233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-26"
+}

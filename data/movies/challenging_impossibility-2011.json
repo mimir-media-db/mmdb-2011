@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_challenging_impossibility_2011",
+  "title": "Challenging Impossibility",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5068980",
+    "imdb": "tt1640227",
+    "tmdb": 1682633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-22"
+}

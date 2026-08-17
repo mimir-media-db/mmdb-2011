@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soubrettes_services_anna_apprentie_soubrette_2011",
+  "title": "Soubrettes Services: Anna apprentie soubrette",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139864890",
+    "imdb": "tt2435940",
+    "tmdb": 254380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 89
+}

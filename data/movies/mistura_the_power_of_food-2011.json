@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mistura_the_power_of_food_2011",
+  "title": "Mistura: The Power of Food",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123377185",
+    "imdb": "tt1841746"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sports_tonight",
+  "title": "Sports Tonight",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7579793",
+    "imdb": "tt0984723",
+    "tmdb": 6042
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 19,
+  "total_episodes": 3
+}

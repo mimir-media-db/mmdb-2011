@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_masked_sailor_2011",
+  "title": "The Masked Sailor",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55597748",
+    "imdb": "tt2004278",
+    "tmdb": 160373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 35
+}

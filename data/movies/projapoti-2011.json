@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_projapoti_2011",
+  "title": "Projapoti",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13058630",
+    "imdb": "tt2113742",
+    "tmdb": 1064903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

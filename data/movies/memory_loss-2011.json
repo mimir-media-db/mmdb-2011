@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_memory_loss_2011",
+  "title": "Memory Loss",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15923929",
+    "imdb": "tt2120103",
+    "tmdb": 1006890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

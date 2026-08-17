@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_transnational_squad_2011",
+  "title": "Transnational Squad",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43175261",
+    "imdb": "tt1948198",
+    "tmdb": 1034935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-02"
+}

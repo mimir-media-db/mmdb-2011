@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plus_rien_ne_vouloir_2011",
+  "title": "Plus rien ne vouloir",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53479705",
+    "imdb": "tt2124879"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 14
+}

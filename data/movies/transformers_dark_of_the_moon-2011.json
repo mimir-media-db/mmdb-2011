@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_transformers_dark_of_the_moon_2011",
+  "title": "Transformers: Dark of the Moon",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q232774",
+    "imdb": "tt1399103",
+    "tmdb": 38356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-23",
+  "runtime_minutes": 154
+}

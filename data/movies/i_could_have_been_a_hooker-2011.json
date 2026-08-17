@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_could_have_been_a_hooker_2011",
+  "title": "I Could Have Been a Hooker",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17630598",
+    "imdb": "tt1815764",
+    "tmdb": 293341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 24
+}

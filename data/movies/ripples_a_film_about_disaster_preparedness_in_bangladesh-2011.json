@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ripples_a_film_about_disaster_preparedness_in_bangladesh_2011",
+  "title": "Ripples – a Film About Disaster Preparedness in Bangladesh",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121302764"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 11
+}

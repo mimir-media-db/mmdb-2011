@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desire_street_2011",
+  "title": "Desire Street",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17515877",
+    "imdb": "tt1617083",
+    "tmdb": 283353
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-20"
+}

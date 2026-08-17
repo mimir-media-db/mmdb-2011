@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uninvited_guest_2011",
+  "title": "An Uninvited Guest",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55105981",
+    "imdb": "tt1684589",
+    "tmdb": 267226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

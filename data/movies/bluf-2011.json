@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bluf_2011",
+  "title": "Bluf",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2552470",
+    "imdb": "tt1753524",
+    "tmdb": 63791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laugh_to_keep_from_crying_2011",
+  "title": "Laugh to Keep from Crying",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105685673",
+    "imdb": "tt2058001",
+    "tmdb": 156620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 139
+}

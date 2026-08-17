@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tractor_love_rock_2011",
+  "title": "Tractor, Love & Rock",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28750089",
+    "imdb": "tt1303812",
+    "tmdb": 196682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-01",
+  "runtime_minutes": 105
+}

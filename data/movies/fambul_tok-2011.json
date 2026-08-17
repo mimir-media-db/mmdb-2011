@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fambul_tok_2011",
+  "title": "Fambul Tok",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250280",
+    "imdb": "tt1649326",
+    "tmdb": 111958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-15"
+}

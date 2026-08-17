@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bbongdol_2011",
+  "title": "Bbongdol",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22974027",
+    "imdb": "tt3152224",
+    "tmdb": 466744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-25"
+}

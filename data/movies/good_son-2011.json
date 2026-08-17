@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_son_2011",
+  "title": "The Good Son",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11863968",
+    "imdb": "tt1673392",
+    "tmdb": 102534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lovely_child_2011",
+  "title": "The Lovely Child",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20445430",
+    "tmdb": 212912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-24"
+}

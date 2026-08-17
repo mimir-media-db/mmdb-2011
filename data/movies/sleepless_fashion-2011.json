@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sleepless_fashion_2011",
+  "title": "Sleepless Fashion",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10868978",
+    "imdb": "tt2106763",
+    "tmdb": 107242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

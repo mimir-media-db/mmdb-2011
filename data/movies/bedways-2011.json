@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bedways_2011",
+  "title": "Bedways",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15787407",
+    "imdb": "tt1545022",
+    "tmdb": 62489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-04",
+  "runtime_minutes": 78
+}

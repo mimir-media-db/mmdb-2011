@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_dawn_2011",
+  "title": "Zombie Dawn",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25441526",
+    "imdb": "tt2089863",
+    "tmdb": 106634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_god_bless_ozzy_osbourne_2011",
+  "title": "God Bless Ozzy Osbourne",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139077887",
+    "imdb": "tt1785389",
+    "tmdb": 79201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_legacy_2011",
+  "title": "Beautiful Legacy",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19000356",
+    "tmdb": 492066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-14"
+}

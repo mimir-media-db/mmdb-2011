@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kiss_and_tell_2011",
+  "title": "Kiss and Tell",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170122",
+    "imdb": "tt1974296"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

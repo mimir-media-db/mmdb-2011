@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_she_sings_2011",
+  "title": "She sings",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729456",
+    "imdb": "tt2530962"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 48
+}

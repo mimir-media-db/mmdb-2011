@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swansong_story_of_occi_byrne_2011",
+  "title": "Swansong: Story of Occi Byrne",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718754",
+    "imdb": "tt1327939",
+    "tmdb": 160100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-18"
+}

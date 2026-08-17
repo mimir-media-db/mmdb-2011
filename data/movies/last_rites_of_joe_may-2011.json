@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_rites_of_joe_may_2011",
+  "title": "The Last Rites of Joe May",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590210",
+    "imdb": "tt1550902",
+    "tmdb": 76800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-22",
+  "runtime_minutes": 107
+}

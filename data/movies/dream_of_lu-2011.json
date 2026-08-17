@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dream_of_lu_2011",
+  "title": "The Dream of Lu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23768728",
+    "imdb": "tt2214997",
+    "tmdb": 167580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-19",
+  "runtime_minutes": 98
+}

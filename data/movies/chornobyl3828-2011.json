@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chornobyl3828_2011",
+  "title": "Chornobyl.3828",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19872258",
+    "imdb": "tt10484274",
+    "tmdb": 525928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 30
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sinterklaas_en_het_raadsel_van_5_december_2011",
+  "title": "Sinterklaas en het raadsel van 5 december",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4001508",
+    "imdb": "tt2078727",
+    "tmdb": 136372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-05",
+  "runtime_minutes": 85
+}

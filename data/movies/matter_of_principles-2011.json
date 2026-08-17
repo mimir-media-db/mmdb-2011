@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matter_of_principles_2011",
+  "title": "A Matter of Principles",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20986696",
+    "imdb": "tt1397500",
+    "tmdb": 40711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-11",
+  "runtime_minutes": 109
+}

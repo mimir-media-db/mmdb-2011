@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rock_wanko_no_shima_2011",
+  "title": "Rock: Wanko no Shima",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7354171",
+    "imdb": "tt1776974",
+    "tmdb": 295223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-23",
+  "runtime_minutes": 124
+}

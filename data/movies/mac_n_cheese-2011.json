@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_mac_n_cheese_2011",
+  "title": "Mac 'n' Cheese",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14942199"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

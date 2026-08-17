@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gerry_2011",
+  "title": "Gerry",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3104320",
+    "imdb": "tt1708473",
+    "tmdb": 76896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-30",
+  "runtime_minutes": 131
+}

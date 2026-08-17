@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_angels_third_time_lucky_2011",
+  "title": "House of Angels - Third Time Lucky",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3351715",
+    "imdb": "tt1461307",
+    "tmdb": 58557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-18",
+  "runtime_minutes": 117
+}

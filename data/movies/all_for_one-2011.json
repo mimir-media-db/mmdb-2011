@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_for_one_2011",
+  "title": "All for One",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4729965",
+    "imdb": "tt1690368",
+    "tmdb": 72054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-10",
+  "runtime_minutes": 83
+}

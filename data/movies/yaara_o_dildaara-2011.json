@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yaara_o_dildaara_2011",
+  "title": "Yaara o Dildaara",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8046324",
+    "imdb": "tt2053483",
+    "tmdb": 88872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

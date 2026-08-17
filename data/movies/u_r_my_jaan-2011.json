@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_u_r_my_jaan_2011",
+  "title": "U R My Jaan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7876231",
+    "imdb": "tt1847736",
+    "tmdb": 158395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

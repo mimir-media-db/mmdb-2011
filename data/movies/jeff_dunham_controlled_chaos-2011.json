@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jeff_dunham_controlled_chaos_2011",
+  "title": "Jeff Dunham: Controlled Chaos",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29021067",
+    "imdb": "tt2058636",
+    "tmdb": 75190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

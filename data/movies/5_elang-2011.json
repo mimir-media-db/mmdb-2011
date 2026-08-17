@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_5_elang_2011",
+  "title": "5 Elang",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12470397",
+    "imdb": "tt1984199",
+    "tmdb": 593721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-25"
+}

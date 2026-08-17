@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_shipibo_la_pelicula_de_nuestra_memoria_2011",
+  "title": "Shipibo: la película de nuestra memoria",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123092307",
+    "imdb": "tt2188720"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

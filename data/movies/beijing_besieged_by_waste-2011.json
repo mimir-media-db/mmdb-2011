@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beijing_besieged_by_waste_2011",
+  "title": "Beijing Besieged by Waste",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106917468",
+    "imdb": "tt1980046",
+    "tmdb": 326076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-29"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caitlin_plays_herself_2011",
+  "title": "Caitlin Plays Herself",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20949835",
+    "imdb": "tt2117839",
+    "tmdb": 88612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 69
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_5_days_of_war_2011",
+  "title": "5 Days of War",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q245430",
+    "imdb": "tt1486193",
+    "tmdb": 50601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-05",
+  "runtime_minutes": 113
+}

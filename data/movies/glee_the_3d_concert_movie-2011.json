@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glee_the_3d_concert_movie_2011",
+  "title": "Glee: The 3D Concert Movie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1186557",
+    "imdb": "tt1922612",
+    "tmdb": 67675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-06",
+  "runtime_minutes": 84
+}

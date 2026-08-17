@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gun_2011",
+  "title": "Gun",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5618279",
+    "imdb": "tt13907030"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-25"
+}

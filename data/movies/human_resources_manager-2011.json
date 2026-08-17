@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_human_resources_manager_2011",
+  "title": "The Human Resources Manager",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1215712",
+    "imdb": "tt1311075",
+    "tmdb": 57400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prisoners_of_war_2011",
+  "title": "Prisoners of War",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643432",
+    "imdb": "tt2087919"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 47
+}

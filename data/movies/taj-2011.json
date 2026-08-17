@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taj_2011",
+  "title": "Taj",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600330",
+    "imdb": "tt1444329",
+    "tmdb": 443431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_the_east_2011",
+  "title": "Once Upon a Time in the East",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12281706",
+    "imdb": "tt2096562",
+    "tmdb": 204005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

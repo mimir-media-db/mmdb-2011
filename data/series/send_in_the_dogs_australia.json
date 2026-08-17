@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_send_in_the_dogs_australia",
+  "title": "Send in the Dogs Australia",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7450156",
+    "imdb": "tt2567566",
+    "tmdb": 41699
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 5
+}

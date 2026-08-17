@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nice_shorts_2011_2011",
+  "title": "Nice Shorts! 2011",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20445407",
+    "imdb": "tt10210336",
+    "tmdb": 417225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-24"
+}

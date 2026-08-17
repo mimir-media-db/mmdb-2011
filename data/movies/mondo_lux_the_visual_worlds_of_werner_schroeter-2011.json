@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mondo_lux_the_visual_worlds_of_werner_schroeter_2011",
+  "title": "Mondo Lux: The Visual Worlds of Werner Schroeter",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88194278",
+    "imdb": "tt1838602",
+    "tmdb": 137030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-11",
+  "runtime_minutes": 101
+}

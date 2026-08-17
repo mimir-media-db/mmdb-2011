@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ambassadors_of_hollywood_2011",
+  "title": "Ambassadors of Hollywood",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20884082",
+    "imdb": "tt1550629",
+    "tmdb": 118538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-05",
+  "runtime_minutes": 84
+}

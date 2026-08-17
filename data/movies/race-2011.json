@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_race_2011",
+  "title": "Race",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7278879",
+    "imdb": "tt1867035",
+    "tmdb": 214875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-17"
+}

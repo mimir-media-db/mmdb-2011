@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_por_que_quebro_mc_donalds_2011",
+  "title": "¿Por qué quebró Mc Donalds?",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106377018",
+    "imdb": "tt2878994",
+    "tmdb": 1061682
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vayehi_or_20_years_of_journey_2011",
+  "title": "Vayehi Or: 20 Years Of Journey",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25494406",
+    "imdb": "tt3339330",
+    "tmdb": 1180448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 31
+}

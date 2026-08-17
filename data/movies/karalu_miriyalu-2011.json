@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_karalu_miriyalu_2011",
+  "title": "Karalu Miriyalu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138894578"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_the_wizard_2011",
+  "title": "After the Wizard",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4690696",
+    "imdb": "tt1988544",
+    "tmdb": 127239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-02",
+  "runtime_minutes": 80
+}

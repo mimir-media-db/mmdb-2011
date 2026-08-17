@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sec_storied",
+  "title": "Sec storied",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21161104",
+    "imdb": "tt6364492",
+    "tmdb": 55863
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

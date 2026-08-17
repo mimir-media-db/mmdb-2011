@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chor_the_bicycle_2011",
+  "title": "Chor: The Bicycle",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30640685",
+    "imdb": "tt6327798",
+    "tmdb": 702763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

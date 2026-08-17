@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ip_man_2_2011",
+  "title": "Ip Man 2",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1193433",
+    "imdb": "tt1386932",
+    "tmdb": 37472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-22",
+  "runtime_minutes": 108
+}

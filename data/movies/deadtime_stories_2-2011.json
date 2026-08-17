@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deadtime_stories_2_2011",
+  "title": "Deadtime Stories 2",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20093132",
+    "imdb": "tt1156300",
+    "tmdb": 84924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 77
+}

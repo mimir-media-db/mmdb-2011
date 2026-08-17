@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_pyongyang_2011",
+  "title": "Goodbye, Pyongyang",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11493113",
+    "imdb": "tt1516126",
+    "tmdb": 415988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-03",
+  "runtime_minutes": 82
+}

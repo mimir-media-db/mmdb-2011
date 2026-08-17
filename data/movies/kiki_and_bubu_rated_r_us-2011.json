@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kiki_and_bubu_rated_r_us_2011",
+  "title": "Kiki and Bubu: Rated R Us",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62019775",
+    "imdb": "tt2258419"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

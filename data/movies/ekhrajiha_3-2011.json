@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ekhrajiha_3_2011",
+  "title": "Ekhrajiha 3",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5964113",
+    "imdb": "tt3131744",
+    "tmdb": 538800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-10",
+  "runtime_minutes": 115
+}

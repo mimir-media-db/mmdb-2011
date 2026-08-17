@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nic_proti_nicemu_2011",
+  "title": "Nic proti nicemu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104896118",
+    "imdb": "tt1937261",
+    "tmdb": 123493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

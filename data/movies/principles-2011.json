@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_principles_2011",
+  "title": "The Principles",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5909769",
+    "imdb": "tt1856770",
+    "tmdb": 502862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-17",
+  "runtime_minutes": 12
+}

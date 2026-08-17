@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_3_2011",
+  "title": "We 3",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10341852",
+    "imdb": "tt2016959",
+    "tmdb": 84914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

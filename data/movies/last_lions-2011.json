@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_lions_2011",
+  "title": "The Last Lions",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7745862",
+    "imdb": "tt1692928",
+    "tmdb": 53505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-13"
+}

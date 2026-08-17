@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ooo_deno_all_riders_lets_go_kamen_riders_2011",
+  "title": "OOO, Den-O, All Riders: Let's Go Kamen Riders",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135236",
+    "imdb": "tt1816603",
+    "tmdb": 88568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-01"
+}

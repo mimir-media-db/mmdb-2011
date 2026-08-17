@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_song_2011",
+  "title": "Summer Song",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10292507",
+    "imdb": "tt1684561",
+    "tmdb": 358718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

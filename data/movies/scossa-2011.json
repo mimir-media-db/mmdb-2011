@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scossa_2011",
+  "title": "Scossa",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16601053",
+    "imdb": "tt2004337",
+    "tmdb": 1049044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 95
+}

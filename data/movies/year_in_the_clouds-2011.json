@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_year_in_the_clouds_2011",
+  "title": "A Year in the Clouds",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134414411",
+    "imdb": "tt2010877",
+    "tmdb": 789536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-02"
+}

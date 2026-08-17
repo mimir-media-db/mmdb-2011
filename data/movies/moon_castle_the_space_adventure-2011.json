@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_castle_the_space_adventure_2011",
+  "title": "Moon Castle: The Space Adventure",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10923631",
+    "imdb": "tt1997607",
+    "tmdb": 52031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_policewoman_in_the_central_plains_2011",
+  "title": "A Policewoman In The Central Plains",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17164537",
+    "imdb": "tt11496452",
+    "tmdb": 1311168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

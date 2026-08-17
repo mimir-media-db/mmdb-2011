@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_who_wants_to_date_a_comedian",
+  "title": "Who Wants to Date a Comedian?",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7997408",
+    "imdb": "tt2097201",
+    "tmdb": 60386
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

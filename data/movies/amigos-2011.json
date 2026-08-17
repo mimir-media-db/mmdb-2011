@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amigos_2011",
+  "title": "Amigos...",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5672618",
+    "imdb": "tt1801804",
+    "tmdb": 79711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-29"
+}

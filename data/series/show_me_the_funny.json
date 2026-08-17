@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_show_me_the_funny",
+  "title": "Show Me the Funny",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7502999",
+    "imdb": "tt2167325"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

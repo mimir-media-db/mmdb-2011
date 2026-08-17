@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tsure_ga_utsu_ni_narimashite_2011",
+  "title": "Tsure ga Utsu ni Narimashite",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5237267",
+    "imdb": "tt1810833",
+    "tmdb": 85575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-08",
+  "runtime_minutes": 121
+}

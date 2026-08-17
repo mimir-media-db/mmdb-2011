@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sonja_2011",
+  "title": "Sonja",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12759099",
+    "imdb": "tt1867061",
+    "tmdb": 364524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

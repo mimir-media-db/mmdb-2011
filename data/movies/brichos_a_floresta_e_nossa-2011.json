@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brichos_a_floresta_e_nossa_2011",
+  "title": "Brichos - A Floresta é Nossa",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4415198",
+    "imdb": "tt3342056",
+    "tmdb": 243656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-28",
+  "runtime_minutes": 83
+}

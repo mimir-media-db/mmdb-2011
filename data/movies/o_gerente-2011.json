@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_gerente_2011",
+  "title": "O Gerente",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17168925",
+    "imdb": "tt2491520",
+    "tmdb": 195013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

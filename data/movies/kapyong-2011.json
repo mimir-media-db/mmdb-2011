@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kapyong_2011",
+  "title": "Kapyong",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19874848",
+    "imdb": "tt1865421",
+    "tmdb": 96444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

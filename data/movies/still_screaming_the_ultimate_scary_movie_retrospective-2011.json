@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_still_screaming_the_ultimate_scary_movie_retrospective_2011",
+  "title": "Still Screaming: The Ultimate Scary Movie Retrospective",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113557445",
+    "imdb": "tt1792617",
+    "tmdb": 156019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

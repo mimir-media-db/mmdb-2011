@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_star_trek_the_next_generation_a_xxx_parody_2011",
+  "title": "Star Trek: The Next Generation - A XXX Parody",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60052876",
+    "imdb": "tt1977920",
+    "tmdb": 64090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-05",
+  "runtime_minutes": 112
+}

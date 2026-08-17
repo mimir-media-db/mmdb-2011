@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freak_dance_2011",
+  "title": "Freak Dance",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12122876",
+    "imdb": "tt1552173",
+    "tmdb": 75786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

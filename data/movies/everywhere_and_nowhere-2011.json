@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everywhere_and_nowhere_2011",
+  "title": "Everywhere and Nowhere",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5418183",
+    "imdb": "tt1673374",
+    "tmdb": 75853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-06",
+  "runtime_minutes": 96
+}

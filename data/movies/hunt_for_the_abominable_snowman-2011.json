@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hunt_for_the_abominable_snowman_2011",
+  "title": "Hunt for the Abominable Snowman",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50310103",
+    "imdb": "tt1886977",
+    "tmdb": 729245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

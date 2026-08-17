@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guerilla_son_2011",
+  "title": "The Guerilla Son",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14955224",
+    "imdb": "tt2139915",
+    "tmdb": 356342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

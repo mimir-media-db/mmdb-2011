@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_entry_no_exit_2011",
+  "title": "No Entry No Exit",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101242308",
+    "imdb": "tt1753459",
+    "tmdb": 380992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-19"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_20_2011",
+  "title": "Life 2.0",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64912447",
+    "imdb": "tt1518809",
+    "tmdb": 85039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-20",
+  "runtime_minutes": 100
+}

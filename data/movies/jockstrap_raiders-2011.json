@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jockstrap_raiders_2011",
+  "title": "The Jockstrap Raiders",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125249",
+    "imdb": "tt1965187",
+    "tmdb": 507267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 19
+}

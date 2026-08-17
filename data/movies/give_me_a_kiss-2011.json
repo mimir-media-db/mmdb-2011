@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_give_me_a_kiss_2011",
+  "title": "Give Me a Kiss",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10883385",
+    "imdb": "tt7547318"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

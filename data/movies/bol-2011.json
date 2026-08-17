@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bol_2011",
+  "title": "Bol",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4938860",
+    "imdb": "tt1891757",
+    "tmdb": 70067
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-24",
+  "runtime_minutes": 151
+}

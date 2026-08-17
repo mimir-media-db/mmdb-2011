@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_men_allowed_2011",
+  "title": "No Men Allowed",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5944012",
+    "imdb": "tt1985266",
+    "tmdb": 388204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-15"
+}

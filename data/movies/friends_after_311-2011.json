@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_friends_after_311_2011",
+  "title": "Friends After 3.11",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22126745",
+    "imdb": "tt2073156",
+    "tmdb": 136488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-01"
+}

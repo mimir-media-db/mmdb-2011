@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rhyme_and_punishment_2011",
+  "title": "Rhyme and Punishment",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128192187",
+    "imdb": "tt1311713",
+    "tmdb": 86389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-15",
+  "runtime_minutes": 98
+}

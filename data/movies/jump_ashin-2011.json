@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jump_ashin_2011",
+  "title": "Jump Ashin!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15905385",
+    "imdb": "tt2011076",
+    "tmdb": 79597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

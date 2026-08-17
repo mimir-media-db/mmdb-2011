@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_svend_2011",
+  "title": "Svend",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33572107",
+    "imdb": "tt2094949",
+    "tmdb": 85616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-11",
+  "runtime_minutes": 110
+}

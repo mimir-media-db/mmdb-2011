@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rites_of_spring_2011",
+  "title": "Rites of Spring",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17078587",
+    "imdb": "tt1227789",
+    "tmdb": 92397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

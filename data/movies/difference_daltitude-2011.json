@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_difference_daltitude_2011",
+  "title": "Différence d'altitude",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61976918",
+    "imdb": "tt2234042"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 7
+}

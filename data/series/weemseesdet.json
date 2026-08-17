@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_weemseesdet",
+  "title": "Weemseesdet",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q1425933",
+    "imdb": "tt2321027",
+    "tmdb": 97298
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

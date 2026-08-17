@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cartas_de_angola_2011",
+  "title": "Cartas de Angola",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112678873",
+    "imdb": "tt2072917",
+    "tmdb": 104344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

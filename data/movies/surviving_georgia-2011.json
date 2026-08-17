@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surviving_georgia_2011",
+  "title": "Surviving Georgia",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123669717",
+    "imdb": "tt1600683",
+    "tmdb": 79186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

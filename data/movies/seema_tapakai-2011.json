@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seema_tapakai_2011",
+  "title": "Seema Tapakai",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16340252",
+    "imdb": "tt1946389",
+    "tmdb": 69925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

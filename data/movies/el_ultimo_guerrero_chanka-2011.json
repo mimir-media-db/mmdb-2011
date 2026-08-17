@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_ultimo_guerrero_chanka_2011",
+  "title": "El último guerrero Chanka",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123377145",
+    "imdb": "tt2005205",
+    "tmdb": 985167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

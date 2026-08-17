@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ella_aleksi_yllatyssynttarit_2011",
+  "title": "Ella & Aleksi - Yllätyssynttärit",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11857485",
+    "imdb": "tt1980102",
+    "tmdb": 164648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

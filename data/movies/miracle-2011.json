@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_2011",
+  "title": "Miracle",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16261059",
+    "imdb": "tt3045930",
+    "tmdb": 209868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-22"
+}

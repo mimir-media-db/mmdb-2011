@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_departures_2011",
+  "title": "Departures",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20949848",
+    "imdb": "tt1943687",
+    "tmdb": 211438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

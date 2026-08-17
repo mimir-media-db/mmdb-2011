@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_reveron_2011_film_2011",
+  "title": "Reverón (2011 film)",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135550381"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

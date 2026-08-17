@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mistletoe_over_manhattan_2011",
+  "title": "Mistletoe Over Manhattan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16651057",
+    "imdb": "tt2064865",
+    "tmdb": 141976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

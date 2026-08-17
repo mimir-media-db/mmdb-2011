@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_death_2011",
+  "title": "Black Death",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q679833",
+    "imdb": "tt1181791",
+    "tmdb": 41215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-16",
+  "runtime_minutes": 102
+}

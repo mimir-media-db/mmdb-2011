@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_adorer_jamai_2011",
+  "title": "Adorer jamai",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4684634",
+    "imdb": "tt7088398"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-30"
+}

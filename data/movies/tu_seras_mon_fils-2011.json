@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tu_seras_mon_fils_2011",
+  "title": "Tu seras mon fils",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3541734",
+    "imdb": "tt1754795",
+    "tmdb": 68713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-24",
+  "runtime_minutes": 102
+}

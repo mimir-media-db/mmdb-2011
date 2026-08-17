@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_we_ate_the_children_last_2011",
+  "title": "We Ate the Children Last",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66764352",
+    "imdb": "tt1756864",
+    "tmdb": 359084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-14"
+}

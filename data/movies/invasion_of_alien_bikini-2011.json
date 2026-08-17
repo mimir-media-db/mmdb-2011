@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_invasion_of_alien_bikini_2011",
+  "title": "Invasion of Alien Bikini",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27951915",
+    "imdb": "tt1855232",
+    "tmdb": 95916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-25"
+}

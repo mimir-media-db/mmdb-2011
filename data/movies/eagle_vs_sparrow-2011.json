@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eagle_vs_sparrow_2011",
+  "title": "Eagle Vs Sparrow",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72881939",
+    "imdb": "tt5181054"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 10
+}

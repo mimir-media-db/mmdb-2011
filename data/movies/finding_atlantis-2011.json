@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_atlantis_2011",
+  "title": "Finding Atlantis",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101130256",
+    "imdb": "tt1864327",
+    "tmdb": 181563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 45
+}

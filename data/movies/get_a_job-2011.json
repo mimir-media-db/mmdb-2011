@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_get_a_job_2011",
+  "title": "Get a Job",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250690",
+    "imdb": "tt1645754",
+    "tmdb": 123171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

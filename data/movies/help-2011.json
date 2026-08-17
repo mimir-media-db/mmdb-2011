@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_help_2011",
+  "title": "The Help",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q204374",
+    "imdb": "tt1454029",
+    "tmdb": 50014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-09",
+  "runtime_minutes": 146
+}

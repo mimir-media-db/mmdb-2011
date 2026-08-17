@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jans_coming_out_2011",
+  "title": "Jan’s Coming Out",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978373",
+    "imdb": "tt1854296",
+    "tmdb": 509085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 75
+}

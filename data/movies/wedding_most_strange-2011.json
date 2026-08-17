@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_most_strange_2011",
+  "title": "A Wedding Most Strange",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125548403",
+    "imdb": "tt1915533",
+    "tmdb": 164804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

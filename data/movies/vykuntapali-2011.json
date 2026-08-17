@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vykuntapali_2011",
+  "title": "Vykuntapali",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720586",
+    "imdb": "tt8876030",
+    "tmdb": 77711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-27"
+}

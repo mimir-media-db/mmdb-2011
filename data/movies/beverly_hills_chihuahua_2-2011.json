@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beverly_hills_chihuahua_2_2011",
+  "title": "Beverly Hills Chihuahua 2",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1026756",
+    "imdb": "tt1482393",
+    "tmdb": 54540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-01",
+  "runtime_minutes": 89
+}

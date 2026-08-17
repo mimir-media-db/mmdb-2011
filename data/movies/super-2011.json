@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_2011",
+  "title": "Super",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122113",
+    "imdb": "tt1512235",
+    "tmdb": 45132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-01",
+  "runtime_minutes": 92
+}

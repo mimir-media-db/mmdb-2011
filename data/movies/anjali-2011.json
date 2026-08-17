@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_anjali_2011",
+  "title": "Anjali",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50824817",
+    "imdb": "tt1780771"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-20"
+}

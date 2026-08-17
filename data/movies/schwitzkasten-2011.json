@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_schwitzkasten_2011",
+  "title": "Schwitzkasten",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50313614",
+    "imdb": "tt1885365"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

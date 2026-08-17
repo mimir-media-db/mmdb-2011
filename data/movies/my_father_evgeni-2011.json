@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_father_evgeni_2011",
+  "title": "My Father Evgeni",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3916287",
+    "imdb": "tt1756633",
+    "tmdb": 810814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-08",
+  "runtime_minutes": 77
+}

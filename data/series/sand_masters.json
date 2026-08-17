@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sand_masters",
+  "title": "Sand Masters",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7415834",
+    "imdb": "tt1949918",
+    "tmdb": 39587
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_platteland_2011",
+  "title": "Platteland",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13035810",
+    "imdb": "tt1935871",
+    "tmdb": 96988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-12",
+  "runtime_minutes": 120
+}

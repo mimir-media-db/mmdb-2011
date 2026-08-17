@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dhobi_ghat_2011",
+  "title": "Dhobi Ghat",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3025723",
+    "imdb": "tt1433810",
+    "tmdb": 54890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-29",
+  "runtime_minutes": 100
+}

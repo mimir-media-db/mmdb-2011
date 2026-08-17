@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_folk_ved_fjorden_2011",
+  "title": "Folk ved fjorden",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17504900",
+    "imdb": "tt2304643",
+    "tmdb": 92211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-01",
+  "runtime_minutes": 61
+}

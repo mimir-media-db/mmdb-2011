@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anfang_80_2011",
+  "title": "Anfang 80",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q529709",
+    "imdb": "tt2233961",
+    "tmdb": 130642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-30",
+  "runtime_minutes": 90
+}

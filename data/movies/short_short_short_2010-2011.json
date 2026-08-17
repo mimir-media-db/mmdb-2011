@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_short_short_short_2010_2011",
+  "title": "Short! Short! Short! 2010",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20445719",
+    "imdb": "tt3331994",
+    "tmdb": 322530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-17"
+}

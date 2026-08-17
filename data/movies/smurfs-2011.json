@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smurfs_2011",
+  "title": "The Smurfs",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q454398",
+    "imdb": "tt0472181",
+    "tmdb": 41513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-16",
+  "runtime_minutes": 102
+}

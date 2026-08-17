@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nao_se_preocupe_nada_vai_dar_certo_2011",
+  "title": "Não se Preocupe, Nada Vai Dar Certo!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10338391",
+    "imdb": "tt2106575",
+    "tmdb": 78299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 99
+}

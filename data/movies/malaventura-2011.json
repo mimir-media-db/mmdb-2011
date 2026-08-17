@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_malaventura_2011",
+  "title": "Malaventura",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17077943",
+    "imdb": "tt1773566",
+    "tmdb": 103554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 66
+}

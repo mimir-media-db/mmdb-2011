@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ulakam_chuttum_valiban_2011",
+  "title": "Ulakam Chuttum Valiban",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7878698",
+    "imdb": "tt2231868",
+    "tmdb": 214604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

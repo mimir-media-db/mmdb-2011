@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maritime_silk_road_2011",
+  "title": "Maritime Silk Road",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3212490",
+    "imdb": "tt1798276",
+    "tmdb": 326655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-20"
+}

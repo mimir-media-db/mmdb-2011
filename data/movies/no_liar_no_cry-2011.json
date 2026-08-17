@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_no_liar_no_cry_2011",
+  "title": "No Liar No Cry",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10868861",
+    "imdb": "tt2075261",
+    "tmdb": 430769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_forever_the_art_of_film_preservation_2011",
+  "title": "Lost Forever: The Art of Film Preservation",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55754992",
+    "imdb": "tt1745955",
+    "tmdb": 617544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 30
+}

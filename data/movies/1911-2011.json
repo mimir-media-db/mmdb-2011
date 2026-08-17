@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1911_2011",
+  "title": "1911",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q206182",
+    "imdb": "tt1772230",
+    "tmdb": 76349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-23",
+  "runtime_minutes": 99
+}

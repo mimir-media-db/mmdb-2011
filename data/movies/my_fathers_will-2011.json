@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_fathers_will_2011",
+  "title": "My Father's Will",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123126767",
+    "imdb": "tt1001534",
+    "tmdb": 90679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 88
+}

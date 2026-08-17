@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_burma_2011",
+  "title": "Return to Burma",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15923796",
+    "imdb": "tt2085806",
+    "tmdb": 103276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

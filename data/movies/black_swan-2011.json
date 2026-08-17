@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_swan_2011",
+  "title": "Black Swan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q180214",
+    "imdb": "tt0947798",
+    "tmdb": 44214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-20",
+  "runtime_minutes": 108
+}

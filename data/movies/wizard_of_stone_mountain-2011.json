@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_wizard_of_stone_mountain_2011",
+  "title": "Wizard of Stone Mountain",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8028750",
+    "imdb": "tt1873626"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_attack_the_block_2011",
+  "title": "Attack the Block",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q757865",
+    "imdb": "tt1478964",
+    "tmdb": 59678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-12",
+  "runtime_minutes": 88
+}

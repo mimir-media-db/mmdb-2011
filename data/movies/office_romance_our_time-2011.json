@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_office_romance_our_time_2011",
+  "title": "Office Romance. Our Time",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4424038",
+    "imdb": "tt1764600",
+    "tmdb": 61293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-17",
+  "runtime_minutes": 87
+}

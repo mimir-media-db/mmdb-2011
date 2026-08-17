@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fabulous_30_2011",
+  "title": "Fabulous 30",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6825199",
+    "imdb": "tt2364547",
+    "tmdb": 86663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-03",
+  "runtime_minutes": 118
+}

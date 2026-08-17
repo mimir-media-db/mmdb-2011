@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_men_will_be_men_2011",
+  "title": "Men Will Be Men",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251665",
+    "imdb": "tt1907721"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

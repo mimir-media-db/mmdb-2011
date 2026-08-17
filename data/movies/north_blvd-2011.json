@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_north_blvd_2011",
+  "title": "North Blvd",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854660",
+    "imdb": "tt2063731"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

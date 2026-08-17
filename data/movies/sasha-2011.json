@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sasha_2011",
+  "title": "Sasha",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9335043",
+    "imdb": "tt1667691",
+    "tmdb": 65831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-24",
+  "runtime_minutes": 102
+}

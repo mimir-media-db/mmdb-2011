@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sports_show_with_norm_macdonald",
+  "title": "Sports Show with Norm Macdonald",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7579784",
+    "imdb": "tt1885032",
+    "tmdb": 38663
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

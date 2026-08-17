@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mast_challay_aamcha_2011",
+  "title": "Mast Challay Aamcha",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124515678",
+    "imdb": "tt1885307",
+    "tmdb": 494174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-05"
+}

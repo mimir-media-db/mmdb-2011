@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mama_tomate_la_sopa_2011",
+  "title": "Mamá tómate la sopa",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56211864",
+    "imdb": "tt2076889",
+    "tmdb": 91797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

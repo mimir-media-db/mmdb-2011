@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jackpot_2011",
+  "title": "Jackpot",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11958979",
+    "imdb": "tt1809231",
+    "tmdb": 86987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-02",
+  "runtime_minutes": 86
+}

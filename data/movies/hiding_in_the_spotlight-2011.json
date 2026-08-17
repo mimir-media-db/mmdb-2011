@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hiding_in_the_spotlight_2011",
+  "title": "Hiding in the Spotlight",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21235210"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 68
+}

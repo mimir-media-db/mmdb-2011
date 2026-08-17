@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_avatar_and_me_2011",
+  "title": "My Avatar and Me",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20729207",
+    "imdb": "tt1613763",
+    "tmdb": 100287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-18",
+  "runtime_minutes": 91
+}

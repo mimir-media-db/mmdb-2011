@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_afternoons_with_margueritte_2011",
+  "title": "My Afternoons with Margueritte",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1169451",
+    "imdb": "tt1455151",
+    "tmdb": 39413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-06",
+  "runtime_minutes": 85
+}

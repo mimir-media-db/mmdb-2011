@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_novel_romance_2011",
+  "title": "A Novel Romance",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18201830",
+    "imdb": "tt1535102",
+    "tmdb": 141274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

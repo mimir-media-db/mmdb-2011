@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fai_la_cosa_giusta_2011",
+  "title": "Fai la cosa giusta",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65013409"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 8
+}

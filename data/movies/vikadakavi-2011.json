@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_vikadakavi_2011",
+  "title": "Vikadakavi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7929376",
+    "imdb": "tt2628858"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-20"
+}

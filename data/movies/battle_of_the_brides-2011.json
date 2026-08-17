@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_of_the_brides_2011",
+  "title": "Battle of the Brides",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q621354",
+    "imdb": "tt1831609",
+    "tmdb": 108052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-28",
+  "runtime_minutes": 99
+}

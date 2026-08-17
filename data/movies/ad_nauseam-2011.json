@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ad_nauseam_2011",
+  "title": "Ad Nauseam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127600140",
+    "imdb": "tt1830799",
+    "tmdb": 369670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_room_304_2011",
+  "title": "Room 304",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17076556",
+    "imdb": "tt1666299",
+    "tmdb": 98444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-20",
+  "runtime_minutes": 88
+}

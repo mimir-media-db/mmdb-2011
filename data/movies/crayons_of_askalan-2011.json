@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crayons_of_askalan_2011",
+  "title": "Crayons of Askalan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22947741",
+    "imdb": "tt2061623",
+    "tmdb": 109654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 53
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shrimathi_2011",
+  "title": "Shrimathi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7503999",
+    "imdb": "tt12875806",
+    "tmdb": 1215368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-08"
+}

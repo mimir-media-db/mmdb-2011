@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harry_potter_and_the_deathly_hallows_part_2_2011",
+  "title": "Harry Potter and the Deathly Hallows – Part 2",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q232009",
+    "imdb": "tt1201607",
+    "tmdb": 12445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-13",
+  "runtime_minutes": 130
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_wat_de_kat_ziet_2011",
+  "title": "Wat de kat ziet",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19848679"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

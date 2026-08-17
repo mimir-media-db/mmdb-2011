@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_century_of_birthing_2011",
+  "title": "Century of Birthing",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22078172",
+    "imdb": "tt2028550",
+    "tmdb": 111109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 360
+}

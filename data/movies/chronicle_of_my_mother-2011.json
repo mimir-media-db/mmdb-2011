@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chronicle_of_my_mother_2011",
+  "title": "Chronicle of My Mother",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11281746",
+    "imdb": "tt1818443",
+    "tmdb": 129609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 108
+}

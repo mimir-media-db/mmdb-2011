@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_impunity_2011",
+  "title": "Impunity",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56299821",
+    "imdb": "tt2057966",
+    "tmdb": 132906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

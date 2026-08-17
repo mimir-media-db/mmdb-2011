@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rania_2011",
+  "title": "Rânia",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10366232",
+    "imdb": "tt1941632",
+    "tmdb": 171597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

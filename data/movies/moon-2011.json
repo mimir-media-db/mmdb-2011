@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moon_2011",
+  "title": "The Moon",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13018320",
+    "imdb": "tt2357273",
+    "tmdb": 72401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

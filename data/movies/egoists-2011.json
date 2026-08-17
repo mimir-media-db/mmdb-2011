@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_egoists_2011",
+  "title": "The Egoists",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11637607",
+    "imdb": "tt1763236",
+    "tmdb": 127454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_boy_kummer_2011",
+  "title": "Bad Boy Kummer",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45082723",
+    "imdb": "tt1692183",
+    "tmdb": 84973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-05"
+}

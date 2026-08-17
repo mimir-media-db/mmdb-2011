@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gomennasai_2011",
+  "title": "Gomennasai",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q901892",
+    "imdb": "tt1989511",
+    "tmdb": 90942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-29",
+  "runtime_minutes": 94
+}

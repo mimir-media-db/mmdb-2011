@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_xmen_first_class_2011",
+  "title": "X-Men: First Class",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q223596",
+    "imdb": "tt1270798",
+    "tmdb": 49538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-25",
+  "runtime_minutes": 131
+}

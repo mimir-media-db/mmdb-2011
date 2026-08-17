@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zduhac_znaci_avantura_2011",
+  "title": "Zduhač znači avantura",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12751963",
+    "imdb": "tt1728218",
+    "tmdb": 110629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

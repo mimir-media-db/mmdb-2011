@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_marche_de_lamour_2011",
+  "title": "Le Marché de l'amour",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28494451",
+    "imdb": "tt2783824"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

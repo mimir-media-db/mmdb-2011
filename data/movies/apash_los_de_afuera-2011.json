@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apash_los_de_afuera_2011",
+  "title": "Apash, los de afuera",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123377191",
+    "imdb": "tt2076797",
+    "tmdb": 1698722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 89
+}

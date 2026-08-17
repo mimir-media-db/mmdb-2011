@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tutti_al_mare_2011",
+  "title": "Tutti al mare",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4000787",
+    "imdb": "tt1672185",
+    "tmdb": 68888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-11",
+  "runtime_minutes": 100
+}

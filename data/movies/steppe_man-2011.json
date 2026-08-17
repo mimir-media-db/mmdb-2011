@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_steppe_man_2011",
+  "title": "Steppe Man",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15055934",
+    "imdb": "tt2714626",
+    "tmdb": 226457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

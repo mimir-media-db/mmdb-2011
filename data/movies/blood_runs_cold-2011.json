@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_runs_cold_2011",
+  "title": "Blood Runs Cold",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113588308",
+    "imdb": "tt1844633",
+    "tmdb": 78308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-03"
+}

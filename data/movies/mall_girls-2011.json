@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mall_girls_2011",
+  "title": "Mall Girls",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8963348",
+    "imdb": "tt1499228",
+    "tmdb": 32559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-18"
+}

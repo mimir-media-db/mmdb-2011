@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mayor_cupcake_2011",
+  "title": "Mayor Cupcake",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29512700",
+    "imdb": "tt1496798",
+    "tmdb": 69803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

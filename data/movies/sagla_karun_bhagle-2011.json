@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sagla_karun_bhagle_2011",
+  "title": "Sagla Karun Bhagle",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7399317",
+    "imdb": "tt2624928",
+    "tmdb": 90551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-02"
+}

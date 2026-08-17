@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uyarthiru_420_2011",
+  "title": "Uyarthiru 420",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7904123",
+    "imdb": "tt4339022",
+    "tmdb": 466990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-12"
+}

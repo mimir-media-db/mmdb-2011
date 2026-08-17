@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monica_2011",
+  "title": "Monica",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17074398",
+    "imdb": "tt1887817",
+    "tmdb": 72582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

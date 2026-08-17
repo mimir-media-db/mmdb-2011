@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cada_viernes_sangre_2011",
+  "title": "Cada viernes sangre",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123377162",
+    "imdb": "tt10498986",
+    "tmdb": 596784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

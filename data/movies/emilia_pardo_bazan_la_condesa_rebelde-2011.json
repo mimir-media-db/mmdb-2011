@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_emilia_pardo_bazan_la_condesa_rebelde_2011",
+  "title": "Emilia Pardo Bazán, la condesa rebelde",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12387793",
+    "imdb": "tt2266186",
+    "tmdb": 220971
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

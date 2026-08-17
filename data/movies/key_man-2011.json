@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_key_man_2011",
+  "title": "The Key Man",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55635331",
+    "imdb": "tt0899154",
+    "tmdb": 106288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

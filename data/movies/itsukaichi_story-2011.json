@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_itsukaichi_story_2011",
+  "title": "Itsukaichi Story",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104696654",
+    "imdb": "tt1967525",
+    "tmdb": 618931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-29"
+}

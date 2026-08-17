@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_election_2011",
+  "title": "Election",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2131368",
+    "imdb": "tt0434008",
+    "tmdb": 18747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-27",
+  "runtime_minutes": 101
+}

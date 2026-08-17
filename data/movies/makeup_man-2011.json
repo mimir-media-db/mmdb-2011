@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_makeup_man_2011",
+  "title": "Makeup Man",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13114222",
+    "imdb": "tt1874615",
+    "tmdb": 85342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

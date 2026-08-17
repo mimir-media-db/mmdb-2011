@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chillerama_2011",
+  "title": "Chillerama",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3387234",
+    "imdb": "tt1727252",
+    "tmdb": 79771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-27",
+  "runtime_minutes": 115
+}

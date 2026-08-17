@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_songs_of_war_music_as_a_weapon_2011",
+  "title": "Songs of War: Music as a Weapon",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899922",
+    "imdb": "tt2050620",
+    "tmdb": 327360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 52
+}

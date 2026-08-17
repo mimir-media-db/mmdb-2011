@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maniac_2011",
+  "title": "Maniac",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11767072",
+    "imdb": "tt1869551",
+    "tmdb": 377765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_official_the_silence_of_the_lambs_parody_2011",
+  "title": "Official the Silence of the Lambs Parody",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66385730",
+    "imdb": "tt1836877",
+    "tmdb": 68593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-08",
+  "runtime_minutes": 122
+}

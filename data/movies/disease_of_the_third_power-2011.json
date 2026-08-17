@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_disease_of_the_third_power_2011",
+  "title": "Disease of the Third Power",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13537456",
+    "imdb": "tt2499802",
+    "tmdb": 146673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

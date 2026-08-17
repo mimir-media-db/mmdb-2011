@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_almanya_welcome_to_germany_2011",
+  "title": "Almanya – Welcome to Germany",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q442387",
+    "imdb": "tt1630027",
+    "tmdb": 63849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-12",
+  "runtime_minutes": 101
+}

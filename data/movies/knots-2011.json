@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knots_2011",
+  "title": "Knots",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113084589",
+    "imdb": "tt1542484",
+    "tmdb": 137339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 77
+}

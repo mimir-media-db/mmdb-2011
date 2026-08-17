@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pirates_ii_stagnettis_revenge_2011",
+  "title": "Pirates II: Stagnetti's Revenge",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7216",
+    "imdb": "tt1266097",
+    "tmdb": 14312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-07",
+  "runtime_minutes": 138
+}

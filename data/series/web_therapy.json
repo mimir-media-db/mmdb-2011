@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_web_therapy",
+  "title": "Web Therapy",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q3566986",
+    "imdb": "tt1930123",
+    "tmdb": 61541
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 43
+}

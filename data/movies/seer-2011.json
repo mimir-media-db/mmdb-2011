@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seer_2011",
+  "title": "Seer",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7445933",
+    "imdb": "tt2027211",
+    "tmdb": 564284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-28"
+}

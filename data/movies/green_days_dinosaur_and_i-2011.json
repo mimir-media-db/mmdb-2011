@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_days_dinosaur_and_i_2011",
+  "title": "Green Days: Dinosaur and I",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17050419",
+    "imdb": "tt2041470",
+    "tmdb": 127189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-23",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sumpahan_puaka_2011",
+  "title": "Sumpahan Puaka",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20448424",
+    "imdb": "tt2127358",
+    "tmdb": 257047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 75
+}

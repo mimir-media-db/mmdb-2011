@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_tomorrow_2011",
+  "title": "The House of Tomorrow",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052311",
+    "imdb": "tt1921119",
+    "tmdb": 193111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

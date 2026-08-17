@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snowtown_2011",
+  "title": "Snowtown",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2133240",
+    "imdb": "tt1680114",
+    "tmdb": 67748
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-19",
+  "runtime_minutes": 120
+}

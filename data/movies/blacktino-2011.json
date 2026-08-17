@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blacktino_2011",
+  "title": "Blacktino",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511275",
+    "imdb": "tt1691449",
+    "tmdb": 276570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

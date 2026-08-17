@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khamosh_raho_2011",
+  "title": "Khamosh Raho",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15983131",
+    "imdb": "tt1981649",
+    "tmdb": 624660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-26"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_days_to_die_2011",
+  "title": "10 Days To Die",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543654",
+    "imdb": "tt1743906",
+    "tmdb": 729878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thambi_vettothi_sundaram_2011",
+  "title": "Thambi Vettothi Sundaram",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7709825",
+    "imdb": "tt4339110",
+    "tmdb": 81163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-11"
+}

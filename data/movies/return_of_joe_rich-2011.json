@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_of_joe_rich_2011",
+  "title": "The Return of Joe Rich",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29907452",
+    "imdb": "tt1540014",
+    "tmdb": 214703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 95
+}

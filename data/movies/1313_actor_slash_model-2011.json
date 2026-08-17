@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1313_actor_slash_model_2011",
+  "title": "1313: Actor Slash Model",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854594",
+    "imdb": "tt1838433",
+    "tmdb": 84585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

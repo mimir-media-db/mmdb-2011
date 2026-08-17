@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jumping_the_broom_2011",
+  "title": "Jumping the Broom",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2333710",
+    "imdb": "tt1640484",
+    "tmdb": 57119
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-06",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_american_dad_xxx_2011",
+  "title": "American Dad XXX",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18410192",
+    "imdb": "tt2129880",
+    "tmdb": 1045935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 172
+}

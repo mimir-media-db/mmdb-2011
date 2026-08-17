@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_what_if",
+  "title": "What If?",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q25418717",
+    "imdb": "tt2729360",
+    "tmdb": 50116
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

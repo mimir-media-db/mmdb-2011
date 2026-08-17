@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_my_transformed_family_2011",
+  "title": "My Transformed Family",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11074930",
+    "imdb": "tt2137140"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

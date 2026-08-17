@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mona_lisa_has_vanished_2011",
+  "title": "Mona Lisa Has Vanished",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97188237",
+    "imdb": "tt1517219",
+    "tmdb": 576666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-21"
+}

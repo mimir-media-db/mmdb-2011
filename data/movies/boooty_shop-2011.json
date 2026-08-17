@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boooty_shop_2011",
+  "title": "Boooty Shop",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139578368",
+    "imdb": "tt2092414"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 126
+}

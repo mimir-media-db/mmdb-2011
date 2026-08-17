@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nana_kaoru_2011",
+  "title": "Nana & Kaoru",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125149702",
+    "imdb": "tt1846673",
+    "tmdb": 106277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-12"
+}

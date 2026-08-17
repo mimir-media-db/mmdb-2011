@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_counting_device_2011",
+  "title": "The Counting Device",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44869878",
+    "imdb": "tt2056664",
+    "tmdb": 1134281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sturmfrei",
+  "title": "Sturmfrei",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2359331",
+    "imdb": "tt2068672",
+    "tmdb": 73165
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 35
+}

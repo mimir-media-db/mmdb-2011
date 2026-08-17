@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_penny_pinchers_2011",
+  "title": "Penny Pinchers",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16181925",
+    "imdb": "tt2115426",
+    "tmdb": 92038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_country_music_2011",
+  "title": "Country Music",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16610463",
+    "imdb": "tt1730311",
+    "tmdb": 180998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
