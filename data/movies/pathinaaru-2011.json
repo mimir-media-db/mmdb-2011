@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pathinaaru_2011",
+  "title": "Pathinaaru",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7144782",
+    "imdb": "tt1810731",
+    "tmdb": 114891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

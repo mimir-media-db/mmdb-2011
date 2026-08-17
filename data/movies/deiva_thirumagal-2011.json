@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deiva_thirumagal_2011",
+  "title": "Deiva Thirumagal",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3530136",
+    "imdb": "tt1857670",
+    "tmdb": 63964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

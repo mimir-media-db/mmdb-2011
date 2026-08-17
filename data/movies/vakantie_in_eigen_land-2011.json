@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vakantie_in_eigen_land_2011",
+  "title": "Vakantie in eigen land",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2516734",
+    "imdb": "tt1764729",
+    "tmdb": 305684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 76
+}

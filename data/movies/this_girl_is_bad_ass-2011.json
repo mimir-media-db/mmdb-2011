@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_girl_is_bad_ass_2011",
+  "title": "This Girl is Bad Ass",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4902165",
+    "imdb": "tt2595182",
+    "tmdb": 201619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 99
+}

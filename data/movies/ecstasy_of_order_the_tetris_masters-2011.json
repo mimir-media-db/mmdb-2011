@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ecstasy_of_order_the_tetris_masters_2011",
+  "title": "Ecstasy of Order: The Tetris Masters",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5333953",
+    "imdb": "tt1836974",
+    "tmdb": 91921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

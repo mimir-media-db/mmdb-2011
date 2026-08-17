@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_injustice",
+  "title": "Injustice",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6034432",
+    "imdb": "tt1730535",
+    "tmdb": 39604
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

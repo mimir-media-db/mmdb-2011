@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_bolo_telangana_2011",
+  "title": "Jai Bolo Telangana",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6123357",
+    "imdb": "tt1831688",
+    "tmdb": 308202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

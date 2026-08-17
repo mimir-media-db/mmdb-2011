@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_sommer_der_gaukler_2011",
+  "title": "Der Sommer der Gaukler",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1729298",
+    "imdb": "tt1714110",
+    "tmdb": 79362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 110
+}

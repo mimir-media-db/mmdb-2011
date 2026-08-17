@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_privatdetektive_im_einsatz",
+  "title": "Privatdetektive im Einsatz",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1331682",
+    "imdb": "tt2015073"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 7
+}

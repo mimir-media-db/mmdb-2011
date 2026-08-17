@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_daldalita",
+  "title": "Daldalita",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5210298",
+    "imdb": "tt2108713",
+    "tmdb": 41823
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

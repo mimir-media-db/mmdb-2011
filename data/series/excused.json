@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_excused",
+  "title": "Excused",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5419744",
+    "imdb": "tt1926538",
+    "tmdb": 39923
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 230
+}

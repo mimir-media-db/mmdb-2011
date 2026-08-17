@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_babaeng_hampaslupa",
+  "title": "Babaeng Hampaslupa",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4837428",
+    "imdb": "tt1984394",
+    "tmdb": 35319
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 113
+}

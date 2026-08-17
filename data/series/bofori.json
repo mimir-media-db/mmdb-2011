@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bofori",
+  "title": "Bofori",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q11854456",
+    "imdb": "tt14887874"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 68
+}

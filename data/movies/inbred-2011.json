@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inbred_2011",
+  "title": "Inbred",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q551410",
+    "imdb": "tt1723124",
+    "tmdb": 82743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

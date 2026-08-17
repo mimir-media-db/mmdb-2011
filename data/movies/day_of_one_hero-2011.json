@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_one_hero_2011",
+  "title": "A Day of One Hero",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4656334",
+    "imdb": "tt2195861",
+    "tmdb": 435039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

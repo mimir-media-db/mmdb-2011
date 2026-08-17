@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_four_rooms",
+  "title": "Four Rooms",
+  "start_year": 2011,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q5475460",
+    "imdb": "tt2113937",
+    "tmdb": 39418
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 96
+}

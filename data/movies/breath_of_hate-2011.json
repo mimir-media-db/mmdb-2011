@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_breath_of_hate_2011",
+  "title": "Breath of Hate",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4959833",
+    "imdb": "tt1344303",
+    "tmdb": 416876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

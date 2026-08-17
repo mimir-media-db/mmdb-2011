@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_man_2011",
+  "title": "Free Man",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4808154",
+    "imdb": "tt1783298",
+    "tmdb": 65725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 163
+}

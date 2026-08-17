@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kitchen_boss",
+  "title": "Kitchen Boss",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3699120",
+    "imdb": "tt1815779",
+    "tmdb": 35346
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 56
+}

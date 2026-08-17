@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amici_miei_come_tutto_ebbe_inizio_2011",
+  "title": "Amici miei – Come tutto ebbe inizio",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3614247",
+    "imdb": "tt1656168",
+    "tmdb": 59415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

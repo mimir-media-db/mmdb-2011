@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raaj_2011",
+  "title": "Raaj",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7278388",
+    "imdb": "tt1874689",
+    "tmdb": 67676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

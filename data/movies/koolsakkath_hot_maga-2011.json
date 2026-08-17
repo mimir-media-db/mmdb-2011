@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koolsakkath_hot_maga_2011",
+  "title": "Kool...Sakkath Hot Maga",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6430569",
+    "imdb": "tt3172230",
+    "tmdb": 627770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

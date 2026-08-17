@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_apocalypse_ca_2011",
+  "title": "Apocalypse, CA",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4780060",
+    "imdb": "tt1273193",
+    "tmdb": 85423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

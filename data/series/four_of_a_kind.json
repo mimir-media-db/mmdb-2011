@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_four_of_a_kind",
+  "title": "Four of a Kind",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5475705",
+    "imdb": "tt1859792",
+    "tmdb": 38331
+  },
+  "last_updated": "2026-08-17"
+}

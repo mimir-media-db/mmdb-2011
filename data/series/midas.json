@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_midas",
+  "title": "Midas",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q492687",
+    "imdb": "tt2623938",
+    "tmdb": 39040
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 21
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_soliti_idioti_il_film_2011",
+  "title": "I soliti idioti: Il film",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3791313",
+    "imdb": "tt2094019",
+    "tmdb": 77941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

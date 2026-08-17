@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_live_at_the_beacon_theater_2011",
+  "title": "Live at the Beacon Theater",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6656601",
+    "imdb": "tt2112999",
+    "tmdb": 80379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

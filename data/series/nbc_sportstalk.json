@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_nbc_sportstalk",
+  "title": "NBC SportsTalk",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q17020799"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_planet_egypt",
+  "title": "Planet Egypt",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q52503110",
+    "imdb": "tt2104573",
+    "tmdb": 57699
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

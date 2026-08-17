@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_game_sack",
+  "title": "Game Sack",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128788906",
+    "imdb": "tt2252868",
+    "tmdb": 111478
+  },
+  "last_updated": "2026-08-17"
+}

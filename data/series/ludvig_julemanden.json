@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ludvig_julemanden",
+  "title": "Ludvig & Julemanden",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q12325022",
+    "imdb": "tt1849444",
+    "tmdb": 72934
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}

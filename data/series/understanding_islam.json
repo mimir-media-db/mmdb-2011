@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_understanding_islam",
+  "title": "Understanding Islam",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18210634",
+    "imdb": "tt3157050",
+    "tmdb": 58093
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 180
+}

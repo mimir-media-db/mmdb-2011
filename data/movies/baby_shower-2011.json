@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baby_shower_2011",
+  "title": "Baby Shower",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5715974",
+    "imdb": "tt1810543",
+    "tmdb": 64113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 89
+}

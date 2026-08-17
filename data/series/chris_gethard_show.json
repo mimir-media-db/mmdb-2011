@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chris_gethard_show",
+  "title": "The Chris Gethard Show",
+  "start_year": 2011,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q7722691",
+    "imdb": "tt3564228",
+    "tmdb": 57978
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 201
+}

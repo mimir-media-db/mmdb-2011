@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_intl_after_school",
+  "title": "Int'l After School",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6042464"
+  },
+  "last_updated": "2026-08-17"
+}

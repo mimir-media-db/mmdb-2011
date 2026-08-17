@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_alan_carrs_specstacular",
+  "title": "Alan Carr's Specstacular",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16960620",
+    "imdb": "tt2607818"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bedlam",
+  "title": "Bedlam",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3790789",
+    "imdb": "tt1822448",
+    "tmdb": 37618
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

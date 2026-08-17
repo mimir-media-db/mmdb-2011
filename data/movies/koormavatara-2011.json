@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koormavatara_2011",
+  "title": "Koormavatara",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7069391",
+    "imdb": "tt3053768",
+    "tmdb": 128232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

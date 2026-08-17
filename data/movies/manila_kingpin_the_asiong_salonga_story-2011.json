@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manila_kingpin_the_asiong_salonga_story_2011",
+  "title": "Manila Kingpin: The Asiong Salonga Story",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6749691",
+    "imdb": "tt2101393",
+    "tmdb": 91011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 145
+}

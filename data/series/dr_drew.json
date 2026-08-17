@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_drew",
+  "title": "Dr. Drew",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q5304064",
+    "imdb": "tt2798848",
+    "tmdb": 39524
+  },
+  "last_updated": "2026-08-17"
+}

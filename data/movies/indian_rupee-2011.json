@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_indian_rupee_2011",
+  "title": "Indian Rupee",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6021522",
+    "imdb": "tt2078644",
+    "tmdb": 124052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 155
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iris_in_bloom_2011",
+  "title": "Iris in Bloom",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3053666",
+    "imdb": "tt1922596",
+    "tmdb": 110968
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 75
+}

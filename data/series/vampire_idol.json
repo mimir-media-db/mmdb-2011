@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vampire_idol",
+  "title": "Vampire Idol",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q15402043",
+    "imdb": "tt2457406",
+    "tmdb": 83200
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 79
+}

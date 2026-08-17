@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maharaja_2011",
+  "title": "Maharaja",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6733211",
+    "imdb": "tt4339116",
+    "tmdb": 115430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

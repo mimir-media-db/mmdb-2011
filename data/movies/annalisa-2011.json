@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_annalisa_2011",
+  "title": "Annalisa",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2850707",
+    "imdb": "tt2109146",
+    "tmdb": 101249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 82
+}

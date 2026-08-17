@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_neoparadise",
+  "title": "NeoParadise",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1977405",
+    "imdb": "tt2075847",
+    "tmdb": 46064
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 52
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_teja_bhai_family_2011",
+  "title": "Teja Bhai & Family",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7695169",
+    "imdb": "tt2016296",
+    "tmdb": 214616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_musallat_2_2011",
+  "title": "Musallat 2",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6072193",
+    "imdb": "tt2114440",
+    "tmdb": 98335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

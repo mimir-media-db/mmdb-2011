@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_death_in_paradise",
+  "title": "Death in Paradise",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1181286",
+    "imdb": "tt1888075",
+    "tmdb": 41956
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 116
+}

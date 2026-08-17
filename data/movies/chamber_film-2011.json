@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chamber_film_2011",
+  "title": "Chamber Film",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3800514",
+    "imdb": "tt1815636"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

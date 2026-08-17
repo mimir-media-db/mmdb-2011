@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heist_who_stole_the_american_dream_2011",
+  "title": "Heist: Who Stole the American Dream?",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3129561",
+    "imdb": "tt1966464",
+    "tmdb": 105556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 76
+}

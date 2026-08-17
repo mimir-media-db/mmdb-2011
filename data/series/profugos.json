@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_profugos",
+  "title": "Prófugos",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6089562",
+    "imdb": "tt1941928",
+    "tmdb": 56733
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

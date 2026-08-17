@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oprahs_master_class",
+  "title": "Oprah's Master Class",
+  "start_year": 2010,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q7098674",
+    "imdb": "tt1790281",
+    "tmdb": 39408
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 43
+}

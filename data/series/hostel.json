@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hostel",
+  "title": "The Hostel",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q34530726",
+    "imdb": "tt6023622"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4
+}

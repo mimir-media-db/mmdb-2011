@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thrill_of_the_hills_2011",
+  "title": "Thrill of the Hills",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2406532",
+    "imdb": "tt1466570",
+    "tmdb": 75590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

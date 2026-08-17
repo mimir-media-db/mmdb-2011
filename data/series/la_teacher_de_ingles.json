@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_teacher_de_ingles",
+  "title": "La Teacher de Inglés",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q9018990",
+    "imdb": "tt1848153",
+    "tmdb": 35269
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 106
+}

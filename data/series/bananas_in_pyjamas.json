@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bananas_in_pyjamas",
+  "title": "Bananas in Pyjamas",
+  "start_year": 2010,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q140964939",
+    "imdb": "tt1829088",
+    "tmdb": 65795
+  },
+  "last_updated": "2026-08-17"
+}

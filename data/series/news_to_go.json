@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_news_to_go",
+  "title": "News to Go",
+  "start_year": 2011,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q17081971",
+    "tmdb": 38893
+  },
+  "last_updated": "2026-08-17"
+}

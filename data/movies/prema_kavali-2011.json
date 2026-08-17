@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prema_kavali_2011",
+  "title": "Prema Kavali",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7240192",
+    "imdb": "tt1846700",
+    "tmdb": 99354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_with_boys",
+  "title": "Life with Boys",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q76407",
+    "imdb": "tt1859879",
+    "tmdb": 40564
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 41
+}

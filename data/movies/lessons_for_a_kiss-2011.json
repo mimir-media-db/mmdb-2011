@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lessons_for_a_kiss_2011",
+  "title": "Lessons for a Kiss",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5972340",
+    "imdb": "tt1465497",
+    "tmdb": 276297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

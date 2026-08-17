@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nadunisi_naaygal_2011",
+  "title": "Nadunisi Naaygal",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6957994",
+    "imdb": "tt1843221",
+    "tmdb": 111589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pak_pak_my_dr_kwak_2011",
+  "title": "Pak! Pak! My Dr. Kwak!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7125338",
+    "imdb": "tt1883290",
+    "tmdb": 68125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

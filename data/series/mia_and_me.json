@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mia_and_me",
+  "title": "Mia and Me",
+  "start_year": 2011,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q509210",
+    "imdb": "tt2203143",
+    "tmdb": 52051
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 104
+}

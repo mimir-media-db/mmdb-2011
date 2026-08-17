@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_mysteres_de_lamour",
+  "title": "Les Mystères de l'amour",
+  "start_year": 2011,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q59462",
+    "imdb": "tt1738562",
+    "tmdb": 63935
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 37,
+  "total_episodes": 966
+}

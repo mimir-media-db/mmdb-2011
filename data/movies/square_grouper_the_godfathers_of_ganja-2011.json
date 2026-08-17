@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_square_grouper_the_godfathers_of_ganja_2011",
+  "title": "Square Grouper: The Godfathers of Ganja",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7582014",
+    "imdb": "tt1466067",
+    "tmdb": 62078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

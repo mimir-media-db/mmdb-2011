@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_au_bistro_du_coin_2011",
+  "title": "Au bistro du coin",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2870274",
+    "imdb": "tt1753535",
+    "tmdb": 58555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucky_2011",
+  "title": "Lucky",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1873703",
+    "imdb": "tt1473397",
+    "tmdb": 70585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 103
+}

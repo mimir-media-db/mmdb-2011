@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_louise_wimmer_2011",
+  "title": "Louise Wimmer",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3263845",
+    "imdb": "tt2050561",
+    "tmdb": 99508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

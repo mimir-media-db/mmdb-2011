@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_shark_2011",
+  "title": "Super Shark",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7642752",
+    "imdb": "tt1698008",
+    "tmdb": 83880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 82
+}

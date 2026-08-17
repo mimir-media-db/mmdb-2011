@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ex_2_still_friends_2011",
+  "title": "Ex 2: Still Friends?",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3735783",
+    "imdb": "tt2075172",
+    "tmdb": 79395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

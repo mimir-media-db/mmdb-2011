@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_deal_with_it",
+  "title": "Deal with It",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16465995",
+    "imdb": "tt3067648",
+    "tmdb": 56932
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 28
+}

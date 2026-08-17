@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kjb_the_book_that_changed_the_world_2011",
+  "title": "KJB: The Book That Changed the World",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6331328",
+    "imdb": "tt1913052",
+    "tmdb": 61423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

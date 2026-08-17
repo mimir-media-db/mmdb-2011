@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_your_highness_2011",
+  "title": "Your Highness",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1415029",
+    "imdb": "tt1240982",
+    "tmdb": 38319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 102
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_azhagarsamiyin_kuthirai_2011",
+  "title": "Azhagarsamiyin Kuthirai",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3530921",
+    "imdb": "tt1941459",
+    "tmdb": 66204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

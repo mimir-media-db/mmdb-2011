@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nelyubimyy_2011",
+  "title": "Nelyubimyy",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4316808",
+    "imdb": "tt1906434",
+    "tmdb": 558261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

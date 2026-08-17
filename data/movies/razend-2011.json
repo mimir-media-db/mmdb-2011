@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_razend_2011",
+  "title": "Razend",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2623308",
+    "imdb": "tt1980219",
+    "tmdb": 87035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

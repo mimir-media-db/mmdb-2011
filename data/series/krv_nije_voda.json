@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_krv_nije_voda",
+  "title": "Krv nije voda",
+  "start_year": 2010,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q61125272",
+    "imdb": "tt1323300",
+    "tmdb": 230632
+  },
+  "last_updated": "2026-08-17"
+}

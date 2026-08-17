@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_apartment_with_a_rooftop",
+  "title": "Apartment with a rooftop",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q580181"
+  },
+  "last_updated": "2026-08-17"
+}

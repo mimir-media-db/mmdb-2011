@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_dont_choose_your_family_2011",
+  "title": "You Don't Choose Your Family",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3352253",
+    "imdb": "tt1726889",
+    "tmdb": 78478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 103
+}

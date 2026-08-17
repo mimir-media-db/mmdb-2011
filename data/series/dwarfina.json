@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dwarfina",
+  "title": "Dwarfina",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5317930",
+    "imdb": "tt1952021",
+    "tmdb": 34490
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 83
+}

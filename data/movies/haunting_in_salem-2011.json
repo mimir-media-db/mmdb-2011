@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunting_in_salem_2011",
+  "title": "A Haunting in Salem",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q300435",
+    "imdb": "tt1912981",
+    "tmdb": 70574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 81
+}

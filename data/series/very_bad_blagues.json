@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_very_bad_blagues",
+  "title": "Very Bad Blagues",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3556300",
+    "imdb": "tt2071991",
+    "tmdb": 68709
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 192
+}

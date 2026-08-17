@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_smithereens_2011",
+  "title": "To smithereens",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4105689",
+    "imdb": "tt1855417",
+    "tmdb": 76746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

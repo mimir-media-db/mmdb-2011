@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enteng_ng_ina_mo_2011",
+  "title": "Enteng Ng Ina Mo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5380145",
+    "imdb": "tt2104022",
+    "tmdb": 85786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kalla_malla_sulla_2011",
+  "title": "Kalla Malla Sulla",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6353465",
+    "imdb": "tt12243674",
+    "tmdb": 282525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

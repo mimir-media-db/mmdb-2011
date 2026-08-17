@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madatha_kaja_2011",
+  "title": "Madatha Kaja",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6726524",
+    "imdb": "tt2076888",
+    "tmdb": 85952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kal_manja_2011",
+  "title": "Kal Manja",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6349888",
+    "imdb": "tt22053596",
+    "tmdb": 680735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

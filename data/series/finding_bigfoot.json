@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_finding_bigfoot",
+  "title": "Finding Bigfoot",
+  "start_year": 2011,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q5449934",
+    "imdb": "tt1948830",
+    "tmdb": 39882
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 90
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_viuda_joven",
+  "title": "La viuda joven",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q261235",
+    "imdb": "tt1885930",
+    "tmdb": 38899
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 141
+}

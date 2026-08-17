@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nasi_lemak_20_2011",
+  "title": "Nasi Lemak 2.0",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3472324",
+    "imdb": "tt2058024",
+    "tmdb": 76470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

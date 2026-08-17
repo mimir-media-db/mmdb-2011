@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_778_la_chanson_de_roland_2011",
+  "title": "778 - La Chanson de Roland",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5652948",
+    "imdb": "tt1830460"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chillar_party_2011",
+  "title": "Chillar Party",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3878243",
+    "imdb": "tt1841542",
+    "tmdb": 69891
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 135
+}

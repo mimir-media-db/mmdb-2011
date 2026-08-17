@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_your_garden",
+  "title": "Love Your Garden",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6691574",
+    "imdb": "tt3002170",
+    "tmdb": 40804
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 35
+}

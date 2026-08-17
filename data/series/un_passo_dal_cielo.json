@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_un_passo_dal_cielo",
+  "title": "Un passo dal cielo",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1351744",
+    "imdb": "tt1680044",
+    "tmdb": 41571
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 94
+}

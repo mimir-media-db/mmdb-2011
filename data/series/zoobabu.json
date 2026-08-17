@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zoobabu",
+  "title": "Zoobabu",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11490984",
+    "imdb": "tt6953914",
+    "tmdb": 57976
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 104
+}

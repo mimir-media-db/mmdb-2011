@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_resident_of_the_city_2011",
+  "title": "A Resident of the City",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3696421",
+    "imdb": "tt2766202",
+    "tmdb": 1476984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 15
+}

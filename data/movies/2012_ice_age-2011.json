@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_2012_ice_age_2011",
+  "title": "2012: Ice Age",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2289391",
+    "imdb": "tt1846444",
+    "tmdb": 59722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

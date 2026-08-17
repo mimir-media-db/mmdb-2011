@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_impatient_vivek_2011",
+  "title": "Impatient Vivek",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6006140",
+    "imdb": "tt1948047",
+    "tmdb": 302170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

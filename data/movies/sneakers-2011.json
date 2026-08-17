@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sneakers_2011",
+  "title": "Sneakers",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7547488",
+    "imdb": "tt1980999",
+    "tmdb": 109673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 111
+}

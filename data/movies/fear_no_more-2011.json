@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fear_no_more_2011",
+  "title": "Fear No More",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3392709",
+    "imdb": "tt2023559",
+    "tmdb": 79390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 72
+}

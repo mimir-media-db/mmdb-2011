@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mere_brother_ki_dulhan_2011",
+  "title": "Mere Brother Ki Dulhan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3306436",
+    "imdb": "tt1740710",
+    "tmdb": 74458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 145
+}

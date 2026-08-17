@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amnesty_2011",
+  "title": "Amnesty",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4747374",
+    "imdb": "tt1815586",
+    "tmdb": 169904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 83
+}

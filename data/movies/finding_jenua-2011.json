@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_jenua_2011",
+  "title": "Finding Jenua",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5449947",
+    "imdb": "tt1797383",
+    "tmdb": 169345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

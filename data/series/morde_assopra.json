@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_morde_assopra",
+  "title": "Morde & Assopra",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3282950",
+    "imdb": "tt1889106",
+    "tmdb": 41263
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 179
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jamies_dream_school",
+  "title": "Jamie's Dream School",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6146521",
+    "imdb": "tt1845517",
+    "tmdb": 38891
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 7
+}

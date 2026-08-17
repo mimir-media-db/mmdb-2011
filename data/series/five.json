@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_five",
+  "title": "The Five",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7734264",
+    "imdb": "tt1981471",
+    "tmdb": 39860
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2
+}

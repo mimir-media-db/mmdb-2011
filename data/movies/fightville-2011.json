@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fightville_2011",
+  "title": "Fightville",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5447952",
+    "imdb": "tt1703232",
+    "tmdb": 94331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_instant_cash",
+  "title": "Instant Cash",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16880278",
+    "imdb": "tt1830035"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 65
+}

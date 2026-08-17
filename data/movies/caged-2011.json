@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caged_2011",
+  "title": "Caged",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2541458",
+    "imdb": "tt1736555",
+    "tmdb": 77844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_adn_feriha_koydum",
+  "title": "Adını Feriha Koydum",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q59621",
+    "imdb": "tt1826071",
+    "tmdb": 47711
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 67
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bar_sport_2011",
+  "title": "Bar Sport",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3634478",
+    "imdb": "tt1753476",
+    "tmdb": 77000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_maithanam_2011",
+  "title": "Maithanam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6737112",
+    "imdb": "tt2375283"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

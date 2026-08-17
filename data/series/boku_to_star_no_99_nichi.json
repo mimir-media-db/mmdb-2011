@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boku_to_star_no_99_nichi",
+  "title": "Boku to Star no 99 Nichi",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q705944",
+    "imdb": "tt2034873",
+    "tmdb": 40448
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

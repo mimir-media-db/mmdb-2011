@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_super_hybrid_2011",
+  "title": "Super Hybrid",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7642443",
+    "imdb": "tt1152827",
+    "tmdb": 69270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

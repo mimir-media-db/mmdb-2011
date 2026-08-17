@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pizza_man_2011",
+  "title": "Pizza Man",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3389503",
+    "imdb": "tt1629766",
+    "tmdb": 188089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

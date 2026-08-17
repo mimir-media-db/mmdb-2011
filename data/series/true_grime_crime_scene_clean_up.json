@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_true_grime_crime_scene_clean_up",
+  "title": "True Grime: Crime Scene Clean Up",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7847418",
+    "imdb": "tt1771019",
+    "tmdb": 132357
+  },
+  "last_updated": "2026-08-17"
+}

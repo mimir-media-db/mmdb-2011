@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_comrade_stalin",
+  "title": "Comrade Stalin",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q65172489",
+    "imdb": "tt3769740",
+    "tmdb": 248231
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

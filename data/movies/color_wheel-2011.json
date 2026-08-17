@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_color_wheel_2011",
+  "title": "The Color Wheel",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7726837",
+    "imdb": "tt1734548",
+    "tmdb": 83125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

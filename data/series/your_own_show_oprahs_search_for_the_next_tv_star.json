@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_your_own_show_oprahs_search_for_the_next_tv_star",
+  "title": "Your OWN Show: Oprah's Search for the Next TV Star",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q8058902",
+    "imdb": "tt1776017",
+    "tmdb": 35076
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

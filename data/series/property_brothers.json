@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_property_brothers",
+  "title": "Property Brothers",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112403",
+    "imdb": "tt1827882",
+    "tmdb": 35058
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 131
+}

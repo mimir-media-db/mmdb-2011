@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_necessary_roughness",
+  "title": "Necessary Roughness",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q276849",
+    "imdb": "tt1657505",
+    "tmdb": 35348
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 38
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karate_girl_2011",
+  "title": "Karate Girl",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4115143",
+    "imdb": "tt1726661",
+    "tmdb": 68649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

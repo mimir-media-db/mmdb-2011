@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rouge_parole_2011",
+  "title": "Rouge Parole",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3941848",
+    "imdb": "tt2106620",
+    "tmdb": 86489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 94
+}

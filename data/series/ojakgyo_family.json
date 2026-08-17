@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ojakgyo_family",
+  "title": "Ojakgyo Family",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q492510",
+    "imdb": "tt3211152",
+    "tmdb": 42384
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 58
+}

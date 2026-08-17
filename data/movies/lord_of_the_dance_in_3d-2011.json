@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lord_of_the_dance_in_3d_2011",
+  "title": "Lord of the Dance in 3D",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4113557",
+    "imdb": "tt1792584",
+    "tmdb": 70833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

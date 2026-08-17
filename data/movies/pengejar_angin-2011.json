@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pengejar_angin_2011",
+  "title": "Pengejar Angin",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7162710",
+    "imdb": "tt2285635",
+    "tmdb": 565123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

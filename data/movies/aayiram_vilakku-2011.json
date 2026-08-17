@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aayiram_vilakku_2011",
+  "title": "Aayiram Vilakku",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4662824",
+    "imdb": "tt4339040",
+    "tmdb": 1530358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

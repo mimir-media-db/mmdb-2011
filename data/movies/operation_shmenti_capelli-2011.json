@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_shmenti_capelli_2011",
+  "title": "Operation Shmenti Capelli",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7097547",
+    "imdb": "tt1754320",
+    "tmdb": 94619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

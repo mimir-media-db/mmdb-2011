@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_xinhai_geming",
+  "title": "Xinhai Geming",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q8044584",
+    "tmdb": 231580
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 41
+}

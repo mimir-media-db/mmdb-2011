@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_in_stills_2011",
+  "title": "Life In Stills",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6928096",
+    "imdb": "tt2064797",
+    "tmdb": 126886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 58
+}

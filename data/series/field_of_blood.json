@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_field_of_blood",
+  "title": "The Field of Blood",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16062387",
+    "imdb": "tt1830332",
+    "tmdb": 61658
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 4
+}

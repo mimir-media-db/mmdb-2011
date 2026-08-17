@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bachelors_vegetable_store",
+  "title": "Bachelor's Vegetable Store",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q722932",
+    "imdb": "tt6385836",
+    "tmdb": 46527
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

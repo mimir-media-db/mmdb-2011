@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloodrayne_the_third_reich_2011",
+  "title": "BloodRayne: The Third Reich",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q560008",
+    "imdb": "tt1153546",
+    "tmdb": 12685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 76
+}

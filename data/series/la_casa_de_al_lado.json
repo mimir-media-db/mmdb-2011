@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_casa_de_al_lado",
+  "title": "La casa de al lado",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q279036",
+    "imdb": "tt1920029",
+    "tmdb": 38890
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 165
+}

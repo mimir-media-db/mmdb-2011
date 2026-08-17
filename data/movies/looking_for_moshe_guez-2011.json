@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_looking_for_moshe_guez_2011",
+  "title": "Looking for Moshe Guez",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6675386",
+    "imdb": "tt2108563",
+    "tmdb": 874273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 75
+}

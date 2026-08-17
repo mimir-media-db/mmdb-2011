@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_instead_2011",
+  "title": "You Instead",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q902553",
+    "imdb": "tt1672845",
+    "tmdb": 94478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

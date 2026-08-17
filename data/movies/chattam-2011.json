@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chattam_2011",
+  "title": "Chattam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5087853",
+    "imdb": "tt8706738",
+    "tmdb": 82895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

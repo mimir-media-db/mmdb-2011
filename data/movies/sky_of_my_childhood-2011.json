@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_of_my_childhood_2011",
+  "title": "The Sky of My Childhood",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4315540",
+    "imdb": "tt2086942",
+    "tmdb": 487945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

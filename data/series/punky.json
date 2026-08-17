@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_punky",
+  "title": "Punky",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7260444",
+    "imdb": "tt1923777",
+    "tmdb": 39251
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

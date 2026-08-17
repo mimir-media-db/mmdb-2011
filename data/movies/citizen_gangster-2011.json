@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_citizen_gangster_2011",
+  "title": "Citizen Gangster",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3048770",
+    "imdb": "tt1709654",
+    "tmdb": 92493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

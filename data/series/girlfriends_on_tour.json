@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_girlfriends_on_tour",
+  "title": "Girlfriends on Tour",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23775130",
+    "imdb": "tt3315918",
+    "tmdb": 106662
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 70
+}

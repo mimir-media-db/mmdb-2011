@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aliens_vs_avatars_2011",
+  "title": "Aliens vs Avatars",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25157",
+    "imdb": "tt1854506",
+    "tmdb": 79582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

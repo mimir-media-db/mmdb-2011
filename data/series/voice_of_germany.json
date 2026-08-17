@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_of_germany",
+  "title": "The Voice of Germany",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q622314",
+    "imdb": "tt2119931",
+    "tmdb": 41814
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 228
+}

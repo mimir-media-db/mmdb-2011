@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_5_houses_of_lea_goldberg_2011",
+  "title": "The 5 Houses of Lea Goldberg",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6586984",
+    "imdb": "tt3783430"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 52
+}

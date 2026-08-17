@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tappajan_nakoinen_mies",
+  "title": "Tappajan näköinen mies",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5408495",
+    "imdb": "tt1816979",
+    "tmdb": 90645
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

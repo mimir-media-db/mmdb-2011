@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_story_2011",
+  "title": "Love Story",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6691352",
+    "imdb": "tt2246829",
+    "tmdb": 73121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

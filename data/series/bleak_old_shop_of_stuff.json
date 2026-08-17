@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bleak_old_shop_of_stuff",
+  "title": "The Bleak Old Shop of Stuff",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7718566",
+    "imdb": "tt2074248",
+    "tmdb": 42193
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

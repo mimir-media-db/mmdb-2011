@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_man_2011",
+  "title": "A Good Man",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4657116",
+    "imdb": "tt1707372",
+    "tmdb": 337818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_la_reina_del_sur",
+  "title": "La Reina del Sur",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q986785",
+    "imdb": "tt1704637",
+    "tmdb": 31586
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 123
+}

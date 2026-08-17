@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beyond_scared_straight",
+  "title": "Beyond Scared Straight",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q69502811",
+    "imdb": "tt1707374",
+    "tmdb": 38785
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 90
+}

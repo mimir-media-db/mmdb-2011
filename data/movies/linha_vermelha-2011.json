@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_linha_vermelha_2011",
+  "title": "Linha Vermelha",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1732603",
+    "imdb": "tt2234249",
+    "tmdb": 94785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

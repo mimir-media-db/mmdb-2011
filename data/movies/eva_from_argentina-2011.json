@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eva_from_argentina_2011",
+  "title": "Eva from Argentina",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5415209",
+    "imdb": "tt2086840",
+    "tmdb": 222768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 75
+}

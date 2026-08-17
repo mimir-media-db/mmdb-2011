@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gingerdead_man_3_saturday_night_cleaver_2011",
+  "title": "Gingerdead Man 3: Saturday Night Cleaver",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5563094",
+    "imdb": "tt1293561",
+    "tmdb": 110588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 78
+}

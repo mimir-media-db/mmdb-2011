@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_billy_on_the_street",
+  "title": "Billy on the Street",
+  "start_year": 2011,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q4913521",
+    "imdb": "tt2191991",
+    "tmdb": 43822
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 44
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_off_limits",
+  "title": "Off Limits",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7078927",
+    "imdb": "tt1936613",
+    "tmdb": 39286
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

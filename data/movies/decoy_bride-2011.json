@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_decoy_bride_2011",
+  "title": "The Decoy Bride",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3545595",
+    "imdb": "tt1657299",
+    "tmdb": 40161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friends_mononoke_shima_no_naki_2011",
+  "title": "Friends: Mononoke Shima no Naki",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3266595",
+    "imdb": "tt1793224",
+    "tmdb": 180272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

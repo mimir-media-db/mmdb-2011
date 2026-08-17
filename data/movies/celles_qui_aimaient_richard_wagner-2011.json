@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_celles_qui_aimaient_richard_wagner_2011",
+  "title": "Celles qui aimaient Richard Wagner",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2944003",
+    "imdb": "tt2097833",
+    "tmdb": 576449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

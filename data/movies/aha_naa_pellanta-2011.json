@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aha_naa_pellanta_2011",
+  "title": "Aha Naa Pellanta",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4694889",
+    "imdb": "tt2071405",
+    "tmdb": 67902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

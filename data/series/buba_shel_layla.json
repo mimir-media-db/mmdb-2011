@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_buba_shel_layla",
+  "title": "Buba Shel Layla",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12404396",
+    "imdb": "tt2635882",
+    "tmdb": 50997
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4
+}

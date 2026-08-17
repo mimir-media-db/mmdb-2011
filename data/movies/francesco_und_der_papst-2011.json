@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_francesco_und_der_papst_2011",
+  "title": "Francesco und der Papst",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1441284",
+    "imdb": "tt1899186",
+    "tmdb": 130276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

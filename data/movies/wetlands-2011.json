@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wetlands_2011",
+  "title": "Wetlands",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3296390",
+    "imdb": "tt1555218",
+    "tmdb": 86916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 111
+}

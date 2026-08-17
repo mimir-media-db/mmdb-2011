@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ross_kemp_extreme_world",
+  "title": "Ross Kemp: Extreme World",
+  "start_year": 2011,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7369446",
+    "imdb": "tt1843675",
+    "tmdb": 38179
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 36
+}

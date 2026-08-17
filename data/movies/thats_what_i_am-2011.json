@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thats_what_i_am_2011",
+  "title": "That's What I Am",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3519622",
+    "imdb": "tt1606180",
+    "tmdb": 57118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 101
+}

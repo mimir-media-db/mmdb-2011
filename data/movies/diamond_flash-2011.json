@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diamond_flash_2011",
+  "title": "Diamond flash",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5805115",
+    "imdb": "tt2281189",
+    "tmdb": 136986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 128
+}

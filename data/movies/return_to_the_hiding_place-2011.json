@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_the_hiding_place_2011",
+  "title": "Return to the Hiding Place",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1089232",
+    "imdb": "tt1691153",
+    "tmdb": 73216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 123
+}

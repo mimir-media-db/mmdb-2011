@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cougars_inc_2011",
+  "title": "Cougars, Inc.",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5176058",
+    "imdb": "tt1198075",
+    "tmdb": 60302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 79
+}

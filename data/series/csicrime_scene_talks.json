@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_csicrime_scene_talks",
+  "title": "CSI:Crime Scene Talks",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10901927",
+    "imdb": "tt1842715",
+    "tmdb": 49564
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_extreme_animal_phobia",
+  "title": "My Extreme Animal Phobia",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6945330",
+    "imdb": "tt2084552"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1
+}

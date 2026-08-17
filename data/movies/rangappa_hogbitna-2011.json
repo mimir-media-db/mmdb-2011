@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rangappa_hogbitna_2011",
+  "title": "Rangappa Hogbitna",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7292632",
+    "imdb": "tt2422070",
+    "tmdb": 282527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

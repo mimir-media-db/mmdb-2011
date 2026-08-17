@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_habits_stories_2011",
+  "title": "Bad Habits Stories",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3632696",
+    "imdb": "tt2154758"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

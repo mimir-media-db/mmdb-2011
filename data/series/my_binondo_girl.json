@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_binondo_girl",
+  "title": "My Binondo Girl",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6945036",
+    "imdb": "tt2021645",
+    "tmdb": 40061
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 110
+}

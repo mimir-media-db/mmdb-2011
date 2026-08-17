@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ntsfsdsuv",
+  "title": "NTSF:SD:SUV::",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2020071",
+    "imdb": "tt1783495",
+    "tmdb": 39106
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

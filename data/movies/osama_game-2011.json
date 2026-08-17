@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_osama_game_2011",
+  "title": "Ōsama Game",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4981855",
+    "imdb": "tt1986089",
+    "tmdb": 125162
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 82
+}

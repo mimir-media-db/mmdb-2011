@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bejawada_2011",
+  "title": "Bejawada",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4881540",
+    "imdb": "tt2071418",
+    "tmdb": 108340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

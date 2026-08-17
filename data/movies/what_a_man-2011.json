@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_a_man_2011",
+  "title": "What a Man",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q387958",
+    "imdb": "tt1661461",
+    "tmdb": 73770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 95
+}

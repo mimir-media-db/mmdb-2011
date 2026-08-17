@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flying_swords_of_dragon_gate_2011",
+  "title": "Flying Swords of Dragon Gate",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1090566",
+    "imdb": "tt1686784",
+    "tmdb": 81870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 125
+}

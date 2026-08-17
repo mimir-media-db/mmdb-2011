@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_leyla_ile_mecnun",
+  "title": "Leyla ile Mecnun",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3237434",
+    "imdb": "tt1831164",
+    "tmdb": 40417
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 104
+}

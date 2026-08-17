@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_dragonflies_2011",
+  "title": "Red Dragonflies",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7304064",
+    "imdb": "tt1733268",
+    "tmdb": 284677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

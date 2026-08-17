@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ecopirate_the_story_of_paul_watson_2011",
+  "title": "Eco-Pirate: The Story of Paul Watson",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5333080",
+    "imdb": "tt1794779",
+    "tmdb": 220782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 110
+}

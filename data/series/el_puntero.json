@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_puntero",
+  "title": "El puntero",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q2883332",
+    "imdb": "tt1927327",
+    "tmdb": 59617
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 39
+}

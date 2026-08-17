@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_los_archivos_del_cardenal",
+  "title": "Los archivos del cardenal",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5688475",
+    "imdb": "tt1998766",
+    "tmdb": 80769
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

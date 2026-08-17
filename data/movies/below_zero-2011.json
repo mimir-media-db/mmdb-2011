@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_below_zero_2011",
+  "title": "Below Zero",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2895092",
+    "imdb": "tt1641388",
+    "tmdb": 107315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 99
+}

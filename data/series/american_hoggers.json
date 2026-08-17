@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_hoggers",
+  "title": "American Hoggers",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4744006",
+    "imdb": "tt1988897",
+    "tmdb": 42740
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 41
+}

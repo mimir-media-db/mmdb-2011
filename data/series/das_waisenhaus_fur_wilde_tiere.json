@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_das_waisenhaus_fur_wilde_tiere",
+  "title": "Das Waisenhaus für wilde Tiere",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q108442034",
+    "imdb": "tt2143073",
+    "tmdb": 68841
+  },
+  "last_updated": "2026-08-17"
+}

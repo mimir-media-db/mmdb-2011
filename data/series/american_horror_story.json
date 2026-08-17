@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_horror_story",
+  "title": "American Horror Story",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q53922",
+    "imdb": "tt1844624",
+    "tmdb": 1413
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 132
+}

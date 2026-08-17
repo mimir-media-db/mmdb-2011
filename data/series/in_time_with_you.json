@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_in_time_with_you",
+  "title": "In Time with You",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6011000",
+    "imdb": "tt2473942",
+    "tmdb": 40444
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

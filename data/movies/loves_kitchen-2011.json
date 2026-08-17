@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loves_kitchen_2011",
+  "title": "Love's Kitchen",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6689982",
+    "imdb": "tt1519663",
+    "tmdb": 66945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

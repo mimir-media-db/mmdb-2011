@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ithu_nammude_katha_2011",
+  "title": "Ithu Nammude Katha",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6094645",
+    "imdb": "tt1822235",
+    "tmdb": 215347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bettada_jeeva_2011",
+  "title": "Bettada Jeeva",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4898372",
+    "imdb": "tt2759390",
+    "tmdb": 408774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

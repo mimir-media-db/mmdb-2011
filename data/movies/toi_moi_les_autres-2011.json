@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toi_moi_les_autres_2011",
+  "title": "Toi, moi, les autres",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3530404",
+    "imdb": "tt1588335",
+    "tmdb": 58253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

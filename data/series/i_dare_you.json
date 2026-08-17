@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_dare_you",
+  "title": "I Dare You",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5976762",
+    "imdb": "tt1987163",
+    "tmdb": 39922
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 87
+}

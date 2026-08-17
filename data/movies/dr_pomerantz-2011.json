@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_pomerantz_2011",
+  "title": "Dr. Pomerantz",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5304328",
+    "imdb": "tt2072948",
+    "tmdb": 130718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 88
+}

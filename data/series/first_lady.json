@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_first_lady",
+  "title": "The First Lady",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3403226",
+    "imdb": "tt2136000",
+    "tmdb": 44885
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 100
+}

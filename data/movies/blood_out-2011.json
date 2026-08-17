@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_out_2011",
+  "title": "Blood Out",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2906978",
+    "imdb": "tt1477675",
+    "tmdb": 54597
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

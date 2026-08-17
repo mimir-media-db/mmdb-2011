@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dos_hogares",
+  "title": "Dos Hogares",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q280974",
+    "imdb": "tt1909962",
+    "tmdb": 39588
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 150
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_new_about_love_2011",
+  "title": "What's New About Love?",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7990813",
+    "imdb": "tt1454613",
+    "tmdb": 87817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 121
+}

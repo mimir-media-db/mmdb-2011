@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nova_zembla_2011",
+  "title": "Nova Zembla",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2041633",
+    "imdb": "tt1911607",
+    "tmdb": 79040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 113
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_watched_over_by_machines_of_loving_grace_2011",
+  "title": "All Watched Over by Machines of Loving Grace",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4729856",
+    "imdb": "tt1955162"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 60
+}

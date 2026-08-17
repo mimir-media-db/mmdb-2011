@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_anubis",
+  "title": "House of Anubis",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q772923",
+    "imdb": "tt1638319",
+    "tmdb": 35016
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 190
+}

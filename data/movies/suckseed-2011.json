@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suckseed_2011",
+  "title": "SuckSeed",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q256413",
+    "imdb": "tt1869682",
+    "tmdb": 64004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 130
+}

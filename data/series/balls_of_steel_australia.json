@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_balls_of_steel_australia",
+  "title": "Balls of Steel Australia",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q4851941",
+    "imdb": "tt1922857",
+    "tmdb": 40388
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

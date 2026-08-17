@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_not_another_b_movie_2011",
+  "title": "Not Another B Movie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7062047",
+    "imdb": "tt1043757",
+    "tmdb": 282034
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vhuti_leke_jani_ay_2011",
+  "title": "Vhuti leke jani ay",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3694949",
+    "imdb": "tt2316096",
+    "tmdb": 626429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

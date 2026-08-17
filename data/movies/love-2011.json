@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_2011",
+  "title": "Love",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1872389",
+    "imdb": "tt1541874",
+    "tmdb": 54320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

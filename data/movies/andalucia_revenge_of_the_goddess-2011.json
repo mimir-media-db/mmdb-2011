@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_andalucia_revenge_of_the_goddess_2011",
+  "title": "Andalucia: Revenge of the Goddess",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4753514",
+    "imdb": "tt1798635",
+    "tmdb": 81983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 125
+}

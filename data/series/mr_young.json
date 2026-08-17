@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_young",
+  "title": "Mr. Young",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2696960",
+    "imdb": "tt1763751",
+    "tmdb": 37731
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 80
+}

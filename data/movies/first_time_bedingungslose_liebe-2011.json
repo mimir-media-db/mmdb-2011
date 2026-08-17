@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_time_bedingungslose_liebe_2011",
+  "title": "The First Time - Bedingungslose Liebe",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1548142",
+    "imdb": "tt1872188",
+    "tmdb": 73302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

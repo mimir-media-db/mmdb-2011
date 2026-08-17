@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_my_love_my_family",
+  "title": "My Love, My Family",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7217590",
+    "tmdb": 83876
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 62
+}

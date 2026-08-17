@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kickin_it",
+  "title": "Kickin' It",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q111756",
+    "imdb": "tt1765622",
+    "tmdb": 32716
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 84
+}

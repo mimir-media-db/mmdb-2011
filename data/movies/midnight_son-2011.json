@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_son_2011",
+  "title": "Midnight Son",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6842784",
+    "imdb": "tt1068961",
+    "tmdb": 48837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

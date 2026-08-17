@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_perspectives",
+  "title": "Perspectives",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7170754",
+    "imdb": "tt2469412",
+    "tmdb": 46900
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

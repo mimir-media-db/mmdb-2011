@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_crossing_south",
+  "title": "Crossing South",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16964911"
+  },
+  "last_updated": "2026-08-17"
+}

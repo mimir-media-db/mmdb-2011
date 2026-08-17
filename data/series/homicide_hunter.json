@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_homicide_hunter",
+  "title": "Homicide Hunter",
+  "start_year": 2011,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q15036192",
+    "imdb": "tt1934673",
+    "tmdb": 62168
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 48
+}

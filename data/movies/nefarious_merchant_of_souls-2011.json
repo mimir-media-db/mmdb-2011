@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nefarious_merchant_of_souls_2011",
+  "title": "Nefarious: Merchant of Souls",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6987004",
+    "imdb": "tt1759690",
+    "tmdb": 111964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

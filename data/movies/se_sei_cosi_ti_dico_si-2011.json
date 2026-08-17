@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_se_sei_cosi_ti_dico_si_2011",
+  "title": "Se sei così ti dico sì",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3953491",
+    "imdb": "tt1863370",
+    "tmdb": 61942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

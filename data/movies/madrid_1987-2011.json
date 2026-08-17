@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madrid_1987_2011",
+  "title": "Madrid, 1987",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5850047",
+    "imdb": "tt1760980",
+    "tmdb": 84308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

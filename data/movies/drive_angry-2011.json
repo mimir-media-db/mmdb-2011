@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drive_angry_2011",
+  "title": "Drive Angry",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1259409",
+    "imdb": "tt1502404",
+    "tmdb": 47327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_call_of_the_wildman",
+  "title": "Call of the Wildman",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5021656",
+    "imdb": "tt2099854",
+    "tmdb": 59273
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 72
+}

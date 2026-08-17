@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhavani_ips_2011",
+  "title": "Bhavani IPS",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3259808",
+    "imdb": "tt1582477",
+    "tmdb": 63692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

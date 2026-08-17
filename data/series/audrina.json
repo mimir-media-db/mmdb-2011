@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_audrina",
+  "title": "Audrina",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1390718",
+    "imdb": "tt1876612",
+    "tmdb": 21548
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nightmare_in_las_cruces_2011",
+  "title": "A Nightmare in Las Cruces",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4658644",
+    "imdb": "tt1570962",
+    "tmdb": 65289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 103
+}

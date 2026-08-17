@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_proie_2011",
+  "title": "La Proie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3211986",
+    "imdb": "tt1726861",
+    "tmdb": 59118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 102
+}

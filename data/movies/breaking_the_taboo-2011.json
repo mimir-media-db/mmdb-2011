@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breaking_the_taboo_2011",
+  "title": "Breaking the Taboo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q965156",
+    "imdb": "tt1951090",
+    "tmdb": 79893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 58
+}

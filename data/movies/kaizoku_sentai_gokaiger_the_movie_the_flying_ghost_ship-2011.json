@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaizoku_sentai_gokaiger_the_movie_the_flying_ghost_ship_2011",
+  "title": "Kaizoku Sentai Gokaiger the Movie: The Flying Ghost Ship",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4189274",
+    "imdb": "tt1980997",
+    "tmdb": 200426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 31
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_to_live_2011",
+  "title": "The Way to Live",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1581514",
+    "imdb": "tt1428464",
+    "tmdb": 107436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

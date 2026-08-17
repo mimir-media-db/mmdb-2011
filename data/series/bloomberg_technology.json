@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_bloomberg_technology",
+  "title": "Bloomberg Technology",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4928191",
+    "imdb": "tt22353790"
+  },
+  "last_updated": "2026-08-17"
+}

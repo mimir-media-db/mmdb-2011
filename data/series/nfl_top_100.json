@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nfl_top_100",
+  "title": "NFL Top 100",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3869494"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 151
+}

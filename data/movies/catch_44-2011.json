@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_catch_44_2011",
+  "title": "Catch .44",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q859019",
+    "imdb": "tt1886493",
+    "tmdb": 75736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_penn_teller_tell_a_lie",
+  "title": "Penn & Teller Tell a Lie",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4010146",
+    "imdb": "tt2050162",
+    "tmdb": 39102
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

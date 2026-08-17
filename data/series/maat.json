@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_maat",
+  "title": "Maat",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6721268",
+    "imdb": "tt29603953"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_city_of_children_2011",
+  "title": "The City of Children",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7723208",
+    "imdb": "tt2096485",
+    "tmdb": 223043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

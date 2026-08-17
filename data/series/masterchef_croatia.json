@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_croatia",
+  "title": "MasterChef Croatia",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q16113381",
+    "imdb": "tt15727336",
+    "tmdb": 330548
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 65
+}

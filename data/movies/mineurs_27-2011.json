@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mineurs_27_2011",
+  "title": "Mineurs 27",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3314941",
+    "imdb": "tt1717170",
+    "tmdb": 94838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

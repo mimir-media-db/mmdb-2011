@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whos_that_girl_2011",
+  "title": "Who's That Girl",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7997058",
+    "imdb": "tt1841942",
+    "tmdb": 63897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

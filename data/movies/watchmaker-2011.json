@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_watchmaker_2011",
+  "title": "The Watchmaker",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7773674",
+    "imdb": "tt1830715",
+    "tmdb": 1382231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

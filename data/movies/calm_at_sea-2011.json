@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_calm_at_sea_2011",
+  "title": "Calm at Sea",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q820058",
+    "imdb": "tt2171815",
+    "tmdb": 141950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

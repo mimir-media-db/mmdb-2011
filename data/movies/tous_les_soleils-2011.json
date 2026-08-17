@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tous_les_soleils_2011",
+  "title": "Tous les soleils",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3535624",
+    "imdb": "tt1715356",
+    "tmdb": 60650
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

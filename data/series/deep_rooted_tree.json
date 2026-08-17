@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_deep_rooted_tree",
+  "title": "Deep Rooted Tree",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q487137",
+    "imdb": "tt2221405",
+    "tmdb": 41652
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

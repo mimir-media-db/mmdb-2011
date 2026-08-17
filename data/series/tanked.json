@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tanked",
+  "title": "Tanked",
+  "start_year": 2011,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q6415236",
+    "imdb": "tt1849622",
+    "tmdb": 61329
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 15,
+  "total_episodes": 153
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_juan_y_la_borrega_2011",
+  "title": "Juan y la Borrega",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6301406",
+    "imdb": "tt1848960",
+    "tmdb": 364446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 11
+}

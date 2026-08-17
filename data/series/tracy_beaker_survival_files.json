@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tracy_beaker_survival_files",
+  "title": "Tracy Beaker Survival Files",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7831694",
+    "imdb": "tt2177263",
+    "tmdb": 44888
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

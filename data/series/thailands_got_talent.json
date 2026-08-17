@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_thailands_got_talent",
+  "title": "Thailand's Got Talent",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4114108",
+    "imdb": "tt5196750"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7
+}

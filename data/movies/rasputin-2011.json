@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rasputin_2011",
+  "title": "Rasputin",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q514894",
+    "imdb": "tt1585270",
+    "tmdb": 82301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mirapakay_2011",
+  "title": "Mirapakay",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6872885",
+    "imdb": "tt1814797",
+    "tmdb": 57736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

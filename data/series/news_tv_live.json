@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_news_tv_live",
+  "title": "News TV Live",
+  "start_year": 2011,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q7019438",
+    "tmdb": 39862
+  },
+  "last_updated": "2026-08-17"
+}

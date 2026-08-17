@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prophet_2011",
+  "title": "The Prophet",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3490183",
+    "imdb": "tt2096653",
+    "tmdb": 133300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 75
+}

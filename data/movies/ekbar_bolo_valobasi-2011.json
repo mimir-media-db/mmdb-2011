@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_ekbar_bolo_valobasi_2011",
+  "title": "EkBar Bolo Valobasi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5350163",
+    "imdb": "tt34534112"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

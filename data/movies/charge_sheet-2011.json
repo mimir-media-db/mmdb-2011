@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charge_sheet_2011",
+  "title": "Charge Sheet",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5074249",
+    "imdb": "tt1368453",
+    "tmdb": 1048178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

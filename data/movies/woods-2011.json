@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woods_2011",
+  "title": "The Woods",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7775747",
+    "imdb": "tt1754733",
+    "tmdb": 105565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

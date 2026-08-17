@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sket_2011",
+  "title": "Sket",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7534711",
+    "imdb": "tt1658820",
+    "tmdb": 92391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

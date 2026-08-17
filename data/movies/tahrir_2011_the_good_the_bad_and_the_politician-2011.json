@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tahrir_2011_the_good_the_bad_and_the_politician_2011",
+  "title": "Tahrir 2011: The Good, the Bad, and the Politician",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7675653",
+    "imdb": "tt2044012",
+    "tmdb": 101284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

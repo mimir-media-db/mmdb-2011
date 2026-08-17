@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_strawberry_cliff_2011",
+  "title": "Strawberry Cliff",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4185487",
+    "imdb": "tt1350510",
+    "tmdb": 275665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

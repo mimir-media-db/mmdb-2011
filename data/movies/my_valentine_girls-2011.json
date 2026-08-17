@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_valentine_girls_2011",
+  "title": "My Valentine Girls",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6946566",
+    "imdb": "tt1822268",
+    "tmdb": 63895
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

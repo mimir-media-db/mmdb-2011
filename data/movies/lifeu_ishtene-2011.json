@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lifeu_ishtene_2011",
+  "title": "Lifeu Ishtene",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6545547",
+    "imdb": "tt3031204",
+    "tmdb": 224595
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

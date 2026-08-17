@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bucky_larson_born_to_be_a_star_2011",
+  "title": "Bucky Larson: Born to Be a Star",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2665674",
+    "imdb": "tt1411664",
+    "tmdb": 67911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

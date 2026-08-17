@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_red_state_2011",
+  "title": "Red State",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1255499",
+    "imdb": "tt0873886",
+    "tmdb": 48572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 88
+}

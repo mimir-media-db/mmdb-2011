@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stuck_between_stations_2011",
+  "title": "Stuck Between Stations",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7627428",
+    "imdb": "tt1536440",
+    "tmdb": 89883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unbowed_2011",
+  "title": "Unbowed",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q492458",
+    "imdb": "tt2085765",
+    "tmdb": 116323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

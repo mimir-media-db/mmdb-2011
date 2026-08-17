@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_made_in_chelsea",
+  "title": "Made in Chelsea",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6726715",
+    "imdb": "tt1933854",
+    "tmdb": 39148
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 31,
+  "total_episodes": 157
+}

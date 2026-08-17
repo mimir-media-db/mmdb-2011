@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joe_belle_2011",
+  "title": "Joe + Belle",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3179957",
+    "imdb": "tt1930371",
+    "tmdb": 144271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paul_mertons_birth_of_hollywood",
+  "title": "Paul Merton's Birth of Hollywood",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q14954403",
+    "imdb": "tt1959896",
+    "tmdb": 39417
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

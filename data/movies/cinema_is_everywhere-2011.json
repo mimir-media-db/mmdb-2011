@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinema_is_everywhere_2011",
+  "title": "Cinema Is Everywhere",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5120735",
+    "imdb": "tt1667421",
+    "tmdb": 106304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

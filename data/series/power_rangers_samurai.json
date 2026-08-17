@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_power_rangers_samurai",
+  "title": "Power Rangers Samurai",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q848992",
+    "imdb": "tt1704503",
+    "tmdb": 325512
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

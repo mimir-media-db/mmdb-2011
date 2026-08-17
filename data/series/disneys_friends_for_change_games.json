@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_disneys_friends_for_change_games",
+  "title": "Disney's Friends for Change Games",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1229101",
+    "imdb": "tt1980952"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_street_kings_2_motor_city_2011",
+  "title": "Street Kings 2: Motor City",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q666537",
+    "imdb": "tt1707687",
+    "tmdb": 58625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

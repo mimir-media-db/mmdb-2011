@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ladda_land_2011",
+  "title": "Ladda Land",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6469300",
+    "imdb": "tt2063782",
+    "tmdb": 64215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 125
+}

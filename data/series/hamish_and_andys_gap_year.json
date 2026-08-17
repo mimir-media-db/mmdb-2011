@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hamish_and_andys_gap_year",
+  "title": "Hamish and Andy's Gap Year",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5645407"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 29
+}

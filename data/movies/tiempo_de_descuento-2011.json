@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiempo_de_descuento_2011",
+  "title": "Tiempo de descuento",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6146496",
+    "imdb": "tt2281240",
+    "tmdb": 665273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 10
+}

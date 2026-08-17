@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cellmates_2011",
+  "title": "Cellmates",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5058287",
+    "imdb": "tt1615480",
+    "tmdb": 109411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

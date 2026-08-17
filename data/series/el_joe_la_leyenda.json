@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_el_joe_la_leyenda",
+  "title": "El Joe, la leyenda",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q8773105",
+    "imdb": "tt1852362"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 136
+}

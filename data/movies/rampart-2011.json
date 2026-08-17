@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rampart_2011",
+  "title": "Rampart",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138084",
+    "imdb": "tt1640548",
+    "tmdb": 75622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 104
+}

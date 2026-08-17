@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ein_fall_fur_die_anrheiner",
+  "title": "Ein Fall für die Anrheiner",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q996894",
+    "imdb": "tt1915903",
+    "tmdb": 40637
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 111
+}

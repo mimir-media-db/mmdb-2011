@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_one_man_and_his_campervan",
+  "title": "One Man and His Campervan",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20439349",
+    "imdb": "tt1848277",
+    "tmdb": 38582
+  },
+  "last_updated": "2026-08-17"
+}

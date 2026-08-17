@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pig_2011",
+  "title": "Pig",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7193200",
+    "imdb": "tt1262414",
+    "tmdb": 185248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

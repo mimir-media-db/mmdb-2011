@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bin_bulaye_baraati_2011",
+  "title": "Bin Bulaye Baraati",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4913767",
+    "imdb": "tt1947973",
+    "tmdb": 67386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

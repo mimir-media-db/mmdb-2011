@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maiden_danced_to_death_2011",
+  "title": "The Maiden Danced to Death",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7749628",
+    "imdb": "tt1453262",
+    "tmdb": 198065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

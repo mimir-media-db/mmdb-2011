@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_nagy_duett",
+  "title": "A nagy duett",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q470206",
+    "imdb": "tt3446438"
+  },
+  "last_updated": "2026-08-17"
+}

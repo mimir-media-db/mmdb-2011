@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dun_film_a_lautre_2011",
+  "title": "D'un film à l'autre",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3010985",
+    "imdb": "tt1906353",
+    "tmdb": 426460
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 144
+}

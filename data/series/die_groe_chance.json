@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_die_groe_chance",
+  "title": "Die große Chance",
+  "start_year": 2010,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q74854287",
+    "imdb": "tt2054969",
+    "tmdb": 127322
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 38
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_michael_tuesdays_and_thursdays",
+  "title": "Michael: Tuesdays and Thursdays",
+  "start_year": 2011,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q17109675",
+    "imdb": "tt1757812",
+    "tmdb": 39873
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

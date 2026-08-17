@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demons_never_die_2011",
+  "title": "Demons Never Die",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5256293",
+    "imdb": "tt1777612",
+    "tmdb": 54094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

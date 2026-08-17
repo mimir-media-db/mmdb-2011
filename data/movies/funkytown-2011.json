@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_funkytown_2011",
+  "title": "Funkytown",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3090959",
+    "imdb": "tt0981286",
+    "tmdb": 61542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 132
+}

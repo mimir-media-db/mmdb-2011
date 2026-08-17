@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_its_worth_what",
+  "title": "It's Worth What?",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6090912",
+    "imdb": "tt1958848",
+    "tmdb": 39818
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_virus_attack",
+  "title": "Virus Attack",
+  "start_year": 2011,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q4014735",
+    "imdb": "tt1883094",
+    "tmdb": 223141
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_palace",
+  "title": "Palace",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q704820",
+    "imdb": "tt2475280",
+    "tmdb": 37709
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 35
+}

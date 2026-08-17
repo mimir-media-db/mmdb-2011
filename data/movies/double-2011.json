@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_double_2011",
+  "title": "The Double",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q385036",
+    "imdb": "tt1646980",
+    "tmdb": 73499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

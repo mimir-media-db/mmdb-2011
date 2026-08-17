@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_io_sono_storie_di_schiavitu_2011",
+  "title": "Io Sono. Storie di Schiavitù",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3801082"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 61
+}

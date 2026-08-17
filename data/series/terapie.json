@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_terapie",
+  "title": "Terapie",
+  "start_year": 2011,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q7701590",
+    "imdb": "tt1990040",
+    "tmdb": 78180
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 45
+}

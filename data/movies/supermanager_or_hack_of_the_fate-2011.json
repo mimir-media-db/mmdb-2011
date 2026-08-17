@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_supermanager_or_hack_of_the_fate_2011",
+  "title": "SuperManager, or Hack of the Fate",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1653410",
+    "imdb": "tt1844048",
+    "tmdb": 67958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 78
+}

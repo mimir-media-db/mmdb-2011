@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_americas_most_hated_family_in_crisis_2011",
+  "title": "America's Most Hated Family in Crisis",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4742564",
+    "imdb": "tt1883251",
+    "tmdb": 206953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 60
+}

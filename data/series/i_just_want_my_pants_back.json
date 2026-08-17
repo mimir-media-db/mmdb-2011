@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_just_want_my_pants_back",
+  "title": "I Just Want My Pants Back",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3797250",
+    "imdb": "tt2008890",
+    "tmdb": 42003
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

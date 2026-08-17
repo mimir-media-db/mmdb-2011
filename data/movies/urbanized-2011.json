@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_urbanized_2011",
+  "title": "Urbanized",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7900236",
+    "imdb": "tt1701976",
+    "tmdb": 77269
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

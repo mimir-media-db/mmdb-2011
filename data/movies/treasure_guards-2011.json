@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_treasure_guards_2011",
+  "title": "Treasure Guards",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3790919",
+    "imdb": "tt1786742",
+    "tmdb": 75713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

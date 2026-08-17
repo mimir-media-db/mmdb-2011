@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_may_not_kiss_the_bride_2011",
+  "title": "You May Not Kiss the Bride",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5849131",
+    "imdb": "tt1381418",
+    "tmdb": 73500
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

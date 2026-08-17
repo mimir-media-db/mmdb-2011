@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vedi_2011",
+  "title": "Vedi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3526688",
+    "imdb": "tt2073138",
+    "tmdb": 76897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

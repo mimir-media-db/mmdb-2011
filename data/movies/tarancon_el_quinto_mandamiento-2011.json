@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tarancon_el_quinto_mandamiento_2011",
+  "title": "Tarancón. El quinto mandamiento",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2889625",
+    "imdb": "tt1542987",
+    "tmdb": 199625
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vera",
+  "title": "Vera",
+  "start_year": 2011,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q4336346",
+    "imdb": "tt1693592",
+    "tmdb": 39185
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 14,
+  "total_episodes": 56
+}

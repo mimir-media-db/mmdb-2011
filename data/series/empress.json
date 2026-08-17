@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_empress",
+  "title": "The Empress",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16262204",
+    "imdb": "tt6357238",
+    "tmdb": 94815
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

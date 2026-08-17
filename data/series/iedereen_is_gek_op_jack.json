@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_iedereen_is_gek_op_jack",
+  "title": "Iedereen is gek op Jack",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2099577",
+    "imdb": "tt1857129",
+    "tmdb": 38319
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

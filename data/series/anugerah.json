@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_anugerah",
+  "title": "Anugerah",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3472123",
+    "tmdb": 50142
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 473
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_detectives_in_trouble",
+  "title": "Detectives in Trouble",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q487040",
+    "imdb": "tt3206006",
+    "tmdb": 39085
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

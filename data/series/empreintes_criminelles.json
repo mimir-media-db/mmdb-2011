@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_empreintes_criminelles",
+  "title": "Empreintes criminelles",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3053368",
+    "imdb": "tt1464925",
+    "tmdb": 98135
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

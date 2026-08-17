@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_private_life_of_cinema_2011",
+  "title": "The Private Life of Cinema",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3213700",
+    "imdb": "tt1949208",
+    "tmdb": 610420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

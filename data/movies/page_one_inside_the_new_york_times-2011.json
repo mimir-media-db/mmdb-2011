@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_page_one_inside_the_new_york_times_2011",
+  "title": "Page One: Inside the New York Times",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3576822",
+    "imdb": "tt1787777",
+    "tmdb": 63144
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

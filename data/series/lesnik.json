@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lesnik",
+  "title": "Lesnik",
+  "start_year": 2011,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q29042684",
+    "imdb": "tt2019343",
+    "tmdb": 121991
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 204
+}

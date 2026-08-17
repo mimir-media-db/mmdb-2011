@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_americas_supernanny",
+  "title": "America's Supernanny",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q4742591",
+    "imdb": "tt2016382",
+    "tmdb": 42756
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

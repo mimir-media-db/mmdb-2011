@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guerrero_12_2011",
+  "title": "Guerrero 12",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5614972",
+    "imdb": "tt1835985",
+    "tmdb": 1025048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

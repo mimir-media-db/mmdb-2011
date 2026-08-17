@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eat_st",
+  "title": "Eat St.",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q5331243",
+    "imdb": "tt1865700",
+    "tmdb": 43521
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 94
+}

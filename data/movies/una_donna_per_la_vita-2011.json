@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_donna_per_la_vita_2011",
+  "title": "Una donna per la vita",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4004216",
+    "imdb": "tt2166285",
+    "tmdb": 160844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

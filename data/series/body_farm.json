@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_body_farm",
+  "title": "The Body Farm",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q3641539",
+    "imdb": "tt1842973",
+    "tmdb": 35051
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

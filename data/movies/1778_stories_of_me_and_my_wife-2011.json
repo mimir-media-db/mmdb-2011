@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1778_stories_of_me_and_my_wife_2011",
+  "title": "1,778 Stories of Me and My Wife",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4545709",
+    "imdb": "tt1545979",
+    "tmdb": 72524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 139
+}

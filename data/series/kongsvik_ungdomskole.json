@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kongsvik_ungdomskole",
+  "title": "Kongsvik Ungdomskole",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11981721",
+    "imdb": "tt1863783",
+    "tmdb": 38469
+  },
+  "last_updated": "2026-08-17"
+}

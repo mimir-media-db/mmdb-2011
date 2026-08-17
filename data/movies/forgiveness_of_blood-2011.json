@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forgiveness_of_blood_2011",
+  "title": "The Forgiveness of Blood",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3423831",
+    "imdb": "tt1787127",
+    "tmdb": 82624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 109
+}

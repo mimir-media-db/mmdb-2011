@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_source_2011",
+  "title": "The Source",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2709092",
+    "imdb": "tt1686067",
+    "tmdb": 56418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 135
+}

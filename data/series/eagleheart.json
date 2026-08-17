@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eagleheart",
+  "title": "Eagleheart",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5325334",
+    "imdb": "tt1728860",
+    "tmdb": 32752
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 34
+}

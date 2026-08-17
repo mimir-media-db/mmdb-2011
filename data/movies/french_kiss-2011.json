@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_french_kiss_2011",
+  "title": "French Kiss",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3087458",
+    "imdb": "tt1854533",
+    "tmdb": 69112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

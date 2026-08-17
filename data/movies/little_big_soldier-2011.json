@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_big_soldier_2011",
+  "title": "Little Big Soldier",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q958097",
+    "imdb": "tt1319718",
+    "tmdb": 35138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

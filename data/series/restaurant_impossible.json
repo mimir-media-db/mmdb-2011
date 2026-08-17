@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_restaurant_impossible",
+  "title": "Restaurant: Impossible",
+  "start_year": 2011,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q7316077",
+    "imdb": "tt1771742",
+    "tmdb": 35358
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 13,
+  "total_episodes": 160
+}

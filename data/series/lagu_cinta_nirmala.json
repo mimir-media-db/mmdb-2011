@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lagu_cinta_nirmala",
+  "title": "Lagu Cinta Nirmala",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q12493461",
+    "tmdb": 50392
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 39
+}

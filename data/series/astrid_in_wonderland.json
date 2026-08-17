@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_astrid_in_wonderland",
+  "title": "Astrid in Wonderland",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q778338",
+    "imdb": "tt1841982",
+    "tmdb": 38229
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 50
+}

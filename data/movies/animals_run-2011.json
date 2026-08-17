@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_animals_run_2011",
+  "title": "Animal's Run",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4764736",
+    "imdb": "tt1878969",
+    "tmdb": 405519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 73
+}

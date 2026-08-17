@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_500_miles_north_2011",
+  "title": "500 Miles North",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4639738",
+    "imdb": "tt1959318"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

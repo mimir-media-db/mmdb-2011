@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_yusha_yoshihiko",
+  "title": "Yūsha Yoshihiko",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5953147",
+    "imdb": "tt1935719",
+    "tmdb": 45890
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

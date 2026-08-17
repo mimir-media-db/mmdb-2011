@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_balita_pilipinas",
+  "title": "Balita Pilipinas",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q4851015",
+    "tmdb": 38903
+  },
+  "last_updated": "2026-08-17"
+}

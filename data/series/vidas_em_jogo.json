@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vidas_em_jogo",
+  "title": "Vidas em Jogo",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q10390476",
+    "imdb": "tt1956366",
+    "tmdb": 158229
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 243
+}

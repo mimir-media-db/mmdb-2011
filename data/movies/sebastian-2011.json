@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sebastian_2011",
+  "title": "Sebastian",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2262557",
+    "imdb": "tt2318669",
+    "tmdb": 449854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 108
+}

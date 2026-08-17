@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_myn_bala_2011",
+  "title": "Myn Bala",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3719600",
+    "imdb": "tt1852040",
+    "tmdb": 136741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 132
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_las_cronicas_de_maia",
+  "title": "Las crónicas de Maia",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5971019"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

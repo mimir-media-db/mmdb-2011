@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_epochal_trip_of_mr_triska_to_russia_2011",
+  "title": "The Epochal Trip of Mr. Tríska to Russia",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4532265",
+    "imdb": "tt3617196",
+    "tmdb": 1229039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 57
+}

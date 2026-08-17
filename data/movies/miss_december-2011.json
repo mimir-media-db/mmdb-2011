@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_december_2011",
+  "title": "Miss December",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6876438",
+    "imdb": "tt1611816",
+    "tmdb": 198207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

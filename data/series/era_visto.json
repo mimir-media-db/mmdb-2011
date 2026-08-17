@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_era_visto",
+  "title": "Era visto!",
+  "start_year": 2011,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q12387915",
+    "imdb": "tt2877196",
+    "tmdb": 61795
+  },
+  "last_updated": "2026-08-17"
+}

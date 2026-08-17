@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_love_with_alma_cogan_2011",
+  "title": "In Love with Alma Cogan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6009901",
+    "imdb": "tt1792085",
+    "tmdb": 180955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

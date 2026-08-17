@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_madeas_big_happy_family_2011",
+  "title": "Madea's Big Happy Family",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6726798",
+    "imdb": "tt1787759",
+    "tmdb": 51017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 106
+}

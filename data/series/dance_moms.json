@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dance_moms",
+  "title": "Dance Moms",
+  "start_year": 2011,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q1159312",
+    "imdb": "tt1991410",
+    "tmdb": 40026
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 224
+}

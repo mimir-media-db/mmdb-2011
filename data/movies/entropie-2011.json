@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_entropie_2011",
+  "title": "Entropie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1345179",
+    "imdb": "tt1886532",
+    "tmdb": 65618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 78
+}

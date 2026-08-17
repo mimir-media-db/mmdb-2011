@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rodzinkapl",
+  "title": "Rodzinka.pl",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q9311665",
+    "imdb": "tt1973695",
+    "tmdb": 48175
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 16,
+  "total_episodes": 287
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_holos_krayiny",
+  "title": "Holos Krayiny",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4142160",
+    "imdb": "tt7787336",
+    "tmdb": 40122
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 61
+}

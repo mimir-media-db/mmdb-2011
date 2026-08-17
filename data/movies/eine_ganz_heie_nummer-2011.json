@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eine_ganz_heie_nummer_2011",
+  "title": "Eine ganz heiße Nummer",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1306746",
+    "imdb": "tt1712175",
+    "tmdb": 74894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 95
+}

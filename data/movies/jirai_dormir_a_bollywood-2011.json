@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jirai_dormir_a_bollywood_2011",
+  "title": "J'irai dormir à Bollywood",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3156677",
+    "imdb": "tt14143120",
+    "tmdb": 172955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

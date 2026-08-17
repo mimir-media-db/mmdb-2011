@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_anstalten",
+  "title": "Anstalten",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q12301935",
+    "imdb": "tt1880451",
+    "tmdb": 43637
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_earthflight",
+  "title": "Earthflight",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1704911",
+    "imdb": "tt2346091",
+    "tmdb": 43388
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_haunted_collector",
+  "title": "Haunted Collector",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q14541955",
+    "imdb": "tt1873887",
+    "tmdb": 39404
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

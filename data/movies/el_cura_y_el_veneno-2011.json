@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_cura_y_el_veneno_2011",
+  "title": "El Cura y el Veneno",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5821674",
+    "imdb": "tt1891790",
+    "tmdb": 1542857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 115
+}

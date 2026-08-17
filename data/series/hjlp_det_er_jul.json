@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hjlp_det_er_jul",
+  "title": "Hjælp, det er jul",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q32656719",
+    "imdb": "tt2124379",
+    "tmdb": 51092
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

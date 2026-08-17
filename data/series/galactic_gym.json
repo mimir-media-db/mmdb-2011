@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_galactic_gym",
+  "title": "Galactic Gym",
+  "start_year": 2010,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q105089895",
+    "imdb": "tt12269748",
+    "tmdb": 103097
+  },
+  "last_updated": "2026-08-17"
+}

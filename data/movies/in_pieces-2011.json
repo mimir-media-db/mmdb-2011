@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_pieces_2011",
+  "title": "In Pieces",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3538499",
+    "imdb": "tt2294921",
+    "tmdb": 476453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

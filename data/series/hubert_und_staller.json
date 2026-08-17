@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hubert_und_staller",
+  "title": "Hubert und Staller",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1601380",
+    "imdb": "tt2090883",
+    "tmdb": 53193
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 144
+}

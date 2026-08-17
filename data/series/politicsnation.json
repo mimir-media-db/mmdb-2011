@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_politicsnation",
+  "title": "PoliticsNation",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7225161",
+    "imdb": "tt2563482",
+    "tmdb": 40479
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ogawa_no_hotori_2011",
+  "title": "Ogawa no Hotori",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4184311",
+    "imdb": "tt1720183",
+    "tmdb": 149141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

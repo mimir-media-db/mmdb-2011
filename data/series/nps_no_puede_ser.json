@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nps_no_puede_ser",
+  "title": "NPS: No puede ser",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1968105",
+    "imdb": "tt7696682",
+    "tmdb": 104420
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_7aum_arivu_2011",
+  "title": "7aum Arivu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3089385",
+    "imdb": "tt1725795",
+    "tmdb": 86718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

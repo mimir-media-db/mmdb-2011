@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_titeuf_2011",
+  "title": "Titeuf",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2057648",
+    "imdb": "tt1757912",
+    "tmdb": 61672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

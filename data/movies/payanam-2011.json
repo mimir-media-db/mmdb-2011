@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_payanam_2011",
+  "title": "Payanam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7156673",
+    "imdb": "tt1836883",
+    "tmdb": 59900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 115
+}

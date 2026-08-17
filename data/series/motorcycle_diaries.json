@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_motorcycle_diaries",
+  "title": "Motorcycle Diaries",
+  "start_year": 2011,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q6918237",
+    "tmdb": 40677
+  },
+  "last_updated": "2026-08-17"
+}

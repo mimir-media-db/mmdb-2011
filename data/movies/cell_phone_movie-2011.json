@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cell_phone_movie_2011",
+  "title": "A Cell Phone Movie",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4655776",
+    "imdb": "tt2838016",
+    "tmdb": 547855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 62
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_color_of_woman",
+  "title": "Color of Woman",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6825154",
+    "imdb": "tt6273112",
+    "tmdb": 86245
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

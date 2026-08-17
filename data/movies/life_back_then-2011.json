@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_back_then_2011",
+  "title": "Life Back Then",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5368871",
+    "imdb": "tt1848784",
+    "tmdb": 121725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 131
+}

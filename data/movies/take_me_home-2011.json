@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_take_me_home_2011",
+  "title": "Take Me Home",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7677693",
+    "imdb": "tt1261954",
+    "tmdb": 85431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

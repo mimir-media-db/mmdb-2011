@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cafe_de_flore_2011",
+  "title": "Café de Flore",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1058682",
+    "imdb": "tt1550312",
+    "tmdb": 85033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 120
+}

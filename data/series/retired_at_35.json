@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_retired_at_35",
+  "title": "Retired at 35",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2052531",
+    "imdb": "tt1570987",
+    "tmdb": 33204
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

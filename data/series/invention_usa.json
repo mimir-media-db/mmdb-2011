@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_invention_usa",
+  "title": "Invention USA",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6059854",
+    "imdb": "tt2100004",
+    "tmdb": 42775
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

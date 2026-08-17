@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_arte_lilia_silvi_2011",
+  "title": "In arte Lilia Silvi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3797227",
+    "imdb": "tt2558672"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 65
+}

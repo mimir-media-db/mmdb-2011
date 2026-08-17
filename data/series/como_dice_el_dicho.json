@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_como_dice_el_dicho",
+  "title": "Como dice el dicho",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5779549",
+    "imdb": "tt1831897",
+    "tmdb": 68845
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 684
+}

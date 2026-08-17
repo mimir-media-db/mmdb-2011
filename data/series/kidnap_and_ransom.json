@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kidnap_and_ransom",
+  "title": "Kidnap and Ransom",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2395179",
+    "imdb": "tt1698158",
+    "tmdb": 43252
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

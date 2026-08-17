@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babang_luksa_2011",
+  "title": "Babang Luksa",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4837498",
+    "imdb": "tt2100402",
+    "tmdb": 109083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 64
+}

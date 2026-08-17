@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_taxi",
+  "title": "Taxi",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12005287",
+    "imdb": "tt2143763",
+    "tmdb": 66377
+  },
+  "last_updated": "2026-08-17"
+}

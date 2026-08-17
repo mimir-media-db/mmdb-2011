@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_hong_kong_2011",
+  "title": "I Love Hong Kong",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4185573",
+    "imdb": "tt1845842",
+    "tmdb": 57880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

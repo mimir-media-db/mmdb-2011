@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fermentation_family",
+  "title": "Fermentation Family",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q492249",
+    "imdb": "tt3206030",
+    "tmdb": 44200
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

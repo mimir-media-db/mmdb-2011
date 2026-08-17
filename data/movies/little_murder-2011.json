@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_murder_2011",
+  "title": "Little Murder",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q280220",
+    "imdb": "tt1493815",
+    "tmdb": 79123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

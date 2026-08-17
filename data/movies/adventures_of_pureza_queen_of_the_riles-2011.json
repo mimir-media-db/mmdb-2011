@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_pureza_queen_of_the_riles_2011",
+  "title": "The Adventures of Pureza: Queen of the Riles",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7712616",
+    "imdb": "tt1980263",
+    "tmdb": 73086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

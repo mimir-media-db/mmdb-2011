@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mia_2011",
+  "title": "Mía",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6036045",
+    "imdb": "tt1806971",
+    "tmdb": 115173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

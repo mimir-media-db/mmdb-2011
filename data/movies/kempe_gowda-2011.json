@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kempe_gowda_2011",
+  "title": "Kempe Gowda",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6387046",
+    "imdb": "tt1964837",
+    "tmdb": 256018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

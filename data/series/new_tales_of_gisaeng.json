@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_new_tales_of_gisaeng",
+  "title": "New Tales of Gisaeng",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7230941",
+    "imdb": "tt2788196",
+    "tmdb": 46578
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

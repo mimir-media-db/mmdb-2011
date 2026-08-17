@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_battle_of_los_angeles_2011",
+  "title": "Battle of Los Angeles",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1139266",
+    "imdb": "tt1758570",
+    "tmdb": 59197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

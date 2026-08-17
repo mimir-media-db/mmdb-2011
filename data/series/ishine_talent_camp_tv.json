@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ishine_talent_camp_tv",
+  "title": "I-Shine Talent Camp TV",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5967681",
+    "imdb": "tt2027733",
+    "tmdb": 39490
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 29
+}

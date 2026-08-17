@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_downtown_precinct",
+  "title": "Downtown Precinct",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6970755",
+    "imdb": "tt2111684",
+    "tmdb": 50973
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

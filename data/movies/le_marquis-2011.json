@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_marquis_2011",
+  "title": "Le marquis",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3224326",
+    "imdb": "tt1779824",
+    "tmdb": 58858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 88
+}

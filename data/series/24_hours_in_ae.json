@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_24_hours_in_ae",
+  "title": "24 Hours in A&E",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4631870",
+    "imdb": "tt2674484",
+    "tmdb": 39706
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 34,
+  "total_episodes": 312
+}

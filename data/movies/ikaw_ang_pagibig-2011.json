@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ikaw_ang_pagibig_2011",
+  "title": "Ikaw Ang Pag-ibig",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5995463",
+    "imdb": "tt1825813",
+    "tmdb": 399244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

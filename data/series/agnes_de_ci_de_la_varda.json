@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_agnes_de_ci_de_la_varda",
+  "title": "Agnès de ci de là Varda",
+  "start_year": 2011,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q2827036",
+    "imdb": "tt2125012",
+    "tmdb": 76372
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

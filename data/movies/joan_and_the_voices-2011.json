@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_joan_and_the_voices_2011",
+  "title": "Joan and the Voices",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6205587",
+    "imdb": "tt2087828",
+    "tmdb": 488698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

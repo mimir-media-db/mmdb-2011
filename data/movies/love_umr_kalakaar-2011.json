@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_umr_kalakaar_2011",
+  "title": "Love U...Mr. Kalakaar!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6691462",
+    "imdb": "tt1695793",
+    "tmdb": 64661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

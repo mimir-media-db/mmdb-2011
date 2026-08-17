@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eighteen_the_world_at_my_feet_2011",
+  "title": "Eighteen: The World at My Feet",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3706932",
+    "imdb": "tt1753697",
+    "tmdb": 62354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

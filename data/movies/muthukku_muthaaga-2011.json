@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muthukku_muthaaga_2011",
+  "title": "Muthukku Muthaaga",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6943878",
+    "imdb": "tt4327678",
+    "tmdb": 262556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

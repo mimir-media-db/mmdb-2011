@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_varnam_2011",
+  "title": "Varnam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7916013",
+    "imdb": "tt2123348",
+    "tmdb": 115272
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

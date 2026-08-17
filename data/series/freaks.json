@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_freaks",
+  "title": "Freaks!",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3752546",
+    "imdb": "tt1926555",
+    "tmdb": 97018
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

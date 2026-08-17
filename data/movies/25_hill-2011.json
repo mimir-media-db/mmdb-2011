@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_25_hill_2011",
+  "title": "25 Hill",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4632160",
+    "imdb": "tt1618368",
+    "tmdb": 93872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 108
+}

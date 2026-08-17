@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_birdie_buddy",
+  "title": "Birdie Buddy",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4915991",
+    "imdb": "tt2424754",
+    "tmdb": 40017
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_pm",
+  "title": "PM",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6055434",
+    "imdb": "tt1271991"
+  },
+  "last_updated": "2026-08-17"
+}

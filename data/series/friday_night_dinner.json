@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_friday_night_dinner",
+  "title": "Friday Night Dinner",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q5503510",
+    "imdb": "tt1844923",
+    "tmdb": 34435
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 19
+}

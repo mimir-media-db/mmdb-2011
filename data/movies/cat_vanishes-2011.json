@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cat_vanishes_2011",
+  "title": "The Cat Vanishes",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7721638",
+    "imdb": "tt1841584",
+    "tmdb": 69985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

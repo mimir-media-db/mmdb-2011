@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reunion_2011",
+  "title": "The Reunion",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7760475",
+    "imdb": "tt1792543",
+    "tmdb": 77879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

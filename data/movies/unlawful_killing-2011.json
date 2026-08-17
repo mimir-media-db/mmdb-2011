@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unlawful_killing_2011",
+  "title": "Unlawful Killing",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4752743",
+    "imdb": "tt1979385",
+    "tmdb": 110958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

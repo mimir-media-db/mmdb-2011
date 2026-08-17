@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paranormal_witness",
+  "title": "Paranormal Witness",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7135550",
+    "imdb": "tt1874066",
+    "tmdb": 40919
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 51
+}

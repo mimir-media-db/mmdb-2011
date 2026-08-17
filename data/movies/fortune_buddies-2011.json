@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fortune_buddies_2011",
+  "title": "The Fortune Buddies",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7734896",
+    "imdb": "tt1997561",
+    "tmdb": 76612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

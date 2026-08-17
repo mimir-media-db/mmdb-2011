@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_without_a_cell_phone_2011",
+  "title": "Man Without a Cell Phone",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3546637",
+    "imdb": "tt1728240",
+    "tmdb": 230140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pilla_zamindar_2011",
+  "title": "Pilla Zamindar",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7194108",
+    "imdb": "tt2098782",
+    "tmdb": 85818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

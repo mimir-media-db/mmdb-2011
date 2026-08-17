@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_operation_osmin",
+  "title": "Operation Osmin",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1824912",
+    "imdb": "tt1974827",
+    "tmdb": 43842
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

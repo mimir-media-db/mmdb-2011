@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_singh_2011",
+  "title": "I Am Singh",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5976061",
+    "imdb": "tt1504687",
+    "tmdb": 83318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

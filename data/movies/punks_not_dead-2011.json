@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_punks_not_dead_2011",
+  "title": "Punk's Not Dead",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7260370",
+    "imdb": "tt1493068",
+    "tmdb": 79004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 104
+}

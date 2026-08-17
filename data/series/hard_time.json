@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hard_time",
+  "title": "Hard Time",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5655421",
+    "imdb": "tt1458809",
+    "tmdb": 41375
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 32
+}

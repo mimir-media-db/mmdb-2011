@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dum_maaro_dum_2011",
+  "title": "Dum Maaro Dum",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3041142",
+    "imdb": "tt1618430",
+    "tmdb": 63006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 128
+}

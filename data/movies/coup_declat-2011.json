@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coup_declat_2011",
+  "title": "Coup d'éclat",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2998929",
+    "imdb": "tt1900856",
+    "tmdb": 73568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

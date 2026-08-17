@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wet_dream_on_elm_street_2011",
+  "title": "A Wet Dream on Elm Street",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4660616",
+    "imdb": "tt2121249",
+    "tmdb": 343861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 106
+}

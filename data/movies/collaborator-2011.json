@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_collaborator_2011",
+  "title": "Collaborator",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5145864",
+    "imdb": "tt1555058",
+    "tmdb": 107753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lezioni_di_cioccolato_2_2011",
+  "title": "Lezioni di cioccolato 2",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3831472",
+    "imdb": "tt2106519",
+    "tmdb": 79036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 103
+}

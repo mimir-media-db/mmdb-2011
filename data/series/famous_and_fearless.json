@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_famous_and_fearless",
+  "title": "Famous and Fearless",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5433483",
+    "imdb": "tt1811817"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

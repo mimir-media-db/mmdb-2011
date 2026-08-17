@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_news_team_13",
+  "title": "News Team 13",
+  "start_year": 2011,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q13580460"
+  },
+  "last_updated": "2026-08-17"
+}

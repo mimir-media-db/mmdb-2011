@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mortified_sessions",
+  "title": "The Mortified Sessions",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7752322",
+    "imdb": "tt1861097",
+    "tmdb": 43831
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

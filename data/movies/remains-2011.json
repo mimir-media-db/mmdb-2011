@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_remains_2011",
+  "title": "Remains",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7311516",
+    "imdb": "tt1870527",
+    "tmdb": 84449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

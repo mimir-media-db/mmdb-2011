@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_fu_2011",
+  "title": "Dance Fu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5215128",
+    "imdb": "tt1204285",
+    "tmdb": 153976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

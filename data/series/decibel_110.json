@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_decibel_110",
+  "title": "Decibel 110",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5801082",
+    "imdb": "tt2842248",
+    "tmdb": 290533
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 60
+}

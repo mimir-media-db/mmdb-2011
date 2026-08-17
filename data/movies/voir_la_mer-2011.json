@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voir_la_mer_2011",
+  "title": "Voir la mer",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3562360",
+    "imdb": "tt1784720",
+    "tmdb": 74795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

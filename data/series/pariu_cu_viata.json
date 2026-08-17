@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pariu_cu_viata",
+  "title": "Pariu cu viața",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7137542",
+    "imdb": "tt2071140",
+    "tmdb": 41878
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 100
+}

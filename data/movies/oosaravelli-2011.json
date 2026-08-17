@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oosaravelli_2011",
+  "title": "Oosaravelli",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3764194",
+    "imdb": "tt1890493",
+    "tmdb": 80281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 162
+}
