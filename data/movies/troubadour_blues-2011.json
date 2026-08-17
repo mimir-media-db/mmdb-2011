@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_troubadour_blues_2011",
+  "title": "Troubadour Blues",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1342682",
+    "imdb": "tt1766178",
+    "tmdb": 279906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

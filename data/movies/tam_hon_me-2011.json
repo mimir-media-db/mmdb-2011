@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tam_hon_me_2011",
+  "title": "Tâm hồn me",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3577071",
+    "imdb": "tt2359331",
+    "tmdb": 769521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

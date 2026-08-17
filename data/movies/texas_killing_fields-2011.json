@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_texas_killing_fields_2011",
+  "title": "Texas Killing Fields",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2636031",
+    "imdb": "tt1389127",
+    "tmdb": 72477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 101
+}

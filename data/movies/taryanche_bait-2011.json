@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taryanche_bait_2011",
+  "title": "Taryanche Bait",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7686983",
+    "imdb": "tt1906471",
+    "tmdb": 263314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

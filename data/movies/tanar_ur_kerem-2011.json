@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tanar_ur_kerem_2011",
+  "title": "Tanár úr, kérem",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1315667",
+    "imdb": "tt1808520",
+    "tmdb": 430210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 58
+}

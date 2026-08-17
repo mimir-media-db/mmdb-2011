@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tutta_colpa_della_musica_2011",
+  "title": "Tutta colpa della musica",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4000751",
+    "imdb": "tt2044070",
+    "tmdb": 82542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

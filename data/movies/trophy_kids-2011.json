@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trophy_kids_2011",
+  "title": "Trophy Kids",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7845714",
+    "imdb": "tt1457045",
+    "tmdb": 301049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

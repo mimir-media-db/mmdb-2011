@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_talihina_sky_2011",
+  "title": "Talihina Sky",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7679507",
+    "imdb": "tt1884431",
+    "tmdb": 73350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

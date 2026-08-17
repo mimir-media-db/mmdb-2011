@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_take_this_lollipop_2011",
+  "title": "Take This Lollipop",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7677806",
+    "imdb": "tt2290689",
+    "tmdb": 258855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
