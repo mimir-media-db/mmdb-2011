@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_victorville_massacre_2011",
+  "title": "The Victorville Massacre",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33060684",
+    "imdb": "tt1595025",
+    "tmdb": 295576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-26"
+}

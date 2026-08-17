@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vanishing_spring_light_2011",
+  "title": "The Vanishing Spring Light",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65350685",
+    "imdb": "tt2027251",
+    "tmdb": 137361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 112
+}

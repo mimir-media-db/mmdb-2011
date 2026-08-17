@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vysotsky_thank_you_for_being_alive_2011",
+  "title": "Vysotsky. Thank You For Being Alive",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q934144",
+    "imdb": "tt2116974",
+    "tmdb": 79733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-01",
+  "runtime_minutes": 132
+}

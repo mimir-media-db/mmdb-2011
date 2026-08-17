@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vacation_2011",
+  "title": "Vacation!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65150637",
+    "imdb": "tt1615902",
+    "tmdb": 112963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-13"
+}

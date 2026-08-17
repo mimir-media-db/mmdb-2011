@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_varg_veum_i_mrket_er_alle_ulver_gra_2011",
+  "title": "Varg Veum – I mørket er alle ulver grå",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17416332",
+    "imdb": "tt2102465",
+    "tmdb": 76304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

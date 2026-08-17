@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_violent_blue_2011",
+  "title": "Violent Blue",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17088785",
+    "imdb": "tt1303773",
+    "tmdb": 54810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

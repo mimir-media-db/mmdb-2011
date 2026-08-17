@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vidas_pequenas_2011",
+  "title": "Vidas Pequenas",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96475143",
+    "imdb": "tt0444531",
+    "tmdb": 59350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-18",
+  "runtime_minutes": 115
+}

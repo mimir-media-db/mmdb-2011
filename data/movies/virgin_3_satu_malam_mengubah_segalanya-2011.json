@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_virgin_3_satu_malam_mengubah_segalanya_2011",
+  "title": "Virgin 3: Satu Malam Mengubah Segalanya",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19744925",
+    "imdb": "tt1930549",
+    "tmdb": 237405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 82
+}
