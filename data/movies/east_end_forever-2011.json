@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_east_end_forever_2011",
+  "title": "East End Forever",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5328302",
+    "imdb": "tt1895438",
+    "tmdb": 1140977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

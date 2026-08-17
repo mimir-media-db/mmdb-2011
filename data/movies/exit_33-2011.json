@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_exit_33_2011",
+  "title": "Exit 33",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5420385",
+    "imdb": "tt1772850",
+    "tmdb": 69884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

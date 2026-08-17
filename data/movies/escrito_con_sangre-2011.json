@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_escrito_con_sangre_2011",
+  "title": "Escrito con sangre",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5837736",
+    "imdb": "tt1650522",
+    "tmdb": 344469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

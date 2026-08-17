@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eternal_moment_2011",
+  "title": "Eternal Moment",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5402674",
+    "imdb": "tt1753976",
+    "tmdb": 65652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

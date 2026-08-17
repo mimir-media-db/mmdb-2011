@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_perfecto_desconocido_2011",
+  "title": "El Perfecto Desconocido",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5351821",
+    "imdb": "tt1763217",
+    "tmdb": 89261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_engaeyum_eppothum_2011",
+  "title": "Engaeyum Eppothum",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5377392",
+    "imdb": "tt2065924",
+    "tmdb": 79354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ee_rojullo_2011",
+  "title": "Ee Rojullo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5347014",
+    "imdb": "tt2391817",
+    "tmdb": 199547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
