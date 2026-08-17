@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morgen_das_leben_2011",
+  "title": "Morgen das Leben",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18921017",
+    "imdb": "tt1670684",
+    "tmdb": 118061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-02",
+  "runtime_minutes": 92
+}

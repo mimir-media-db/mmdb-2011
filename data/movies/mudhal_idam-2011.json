@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mudhal_idam_2011",
+  "title": "Mudhal Idam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6931757",
+    "imdb": "tt4339008",
+    "tmdb": 81165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-19"
+}

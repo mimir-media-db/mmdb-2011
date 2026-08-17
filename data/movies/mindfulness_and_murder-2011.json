@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mindfulness_and_murder_2011",
+  "title": "Mindfulness and Murder",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52527250",
+    "imdb": "tt1693746",
+    "tmdb": 218901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

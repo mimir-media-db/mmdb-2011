@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_me_facing_life_cyntoias_story_2011",
+  "title": "Me Facing Life: Cyntoia's Story",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19880914",
+    "imdb": "tt1349642",
+    "tmdb": 488783
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-01"
+}

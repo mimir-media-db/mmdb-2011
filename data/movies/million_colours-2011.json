@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_million_colours_2011",
+  "title": "A Million Colours",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4658250",
+    "imdb": "tt1622961",
+    "tmdb": 105730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-27"
+}

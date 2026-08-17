@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monika_2011",
+  "title": "Monika",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27991568",
+    "imdb": "tt1809307",
+    "tmdb": 447715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 53
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_sucky_teen_romance_2011",
+  "title": "My Sucky Teen Romance",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253474",
+    "imdb": "tt1707821",
+    "tmdb": 84391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mirror_boy_2011",
+  "title": "The Mirror Boy",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6874556",
+    "imdb": "tt1730705",
+    "tmdb": 491179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-14",
+  "runtime_minutes": 84
+}

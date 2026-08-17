@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morente_2011",
+  "title": "Morente",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97138713",
+    "imdb": "tt1865454",
+    "tmdb": 167436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-08",
+  "runtime_minutes": 92
+}

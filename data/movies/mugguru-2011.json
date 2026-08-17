@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mugguru_2011",
+  "title": "Mugguru",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6932144",
+    "imdb": "tt2419682",
+    "tmdb": 307773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-14"
+}

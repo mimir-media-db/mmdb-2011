@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mu_premi_mu_pagala_2011",
+  "title": "Mu Premi Mu Pagala",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45036360",
+    "imdb": "tt2022471"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-12"
+}

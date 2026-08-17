@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_representation_2011",
+  "title": "Miss Representation",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6877356",
+    "imdb": "tt1784538",
+    "tmdb": 77801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-20",
+  "runtime_minutes": 85
+}

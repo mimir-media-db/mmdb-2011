@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_men_with_blue_dots_2011",
+  "title": "The Men with Blue Dots",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10558345",
+    "imdb": "tt2143414",
+    "tmdb": 508446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

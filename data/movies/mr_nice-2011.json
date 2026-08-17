@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_nice_2011",
+  "title": "Mr. Nice",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1250780",
+    "imdb": "tt1183911",
+    "tmdb": 46934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-23",
+  "runtime_minutes": 121
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_make_up_2011",
+  "title": "Make Up",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10921306",
+    "imdb": "tt1854552",
+    "tmdb": 80212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 107
+}

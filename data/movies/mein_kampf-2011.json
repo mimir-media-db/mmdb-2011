@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mein_kampf_2011",
+  "title": "Mein Kampf",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17124728",
+    "imdb": "tt1038045",
+    "tmdb": 48742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-03",
+  "runtime_minutes": 110
+}

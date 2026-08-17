@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marley_me_the_puppy_years_2011",
+  "title": "Marley & Me: The Puppy Years",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3801069",
+    "imdb": "tt1704614",
+    "tmdb": 72391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-01",
+  "runtime_minutes": 86
+}

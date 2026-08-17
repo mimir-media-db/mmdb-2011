@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_name_is_bernadette_2011",
+  "title": "My Name is Bernadette",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3163436",
+    "imdb": "tt1754212",
+    "tmdb": 397074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-30",
+  "runtime_minutes": 109
+}

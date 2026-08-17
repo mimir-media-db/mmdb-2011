@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_morning_glory_2011",
+  "title": "Morning Glory",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q856602",
+    "imdb": "tt1126618",
+    "tmdb": 38357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-13",
+  "runtime_minutes": 108
+}

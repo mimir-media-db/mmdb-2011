@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mars_needs_moms_2011",
+  "title": "Mars Needs Moms",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1320985",
+    "imdb": "tt1305591",
+    "tmdb": 50321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-11",
+  "runtime_minutes": 88
+}

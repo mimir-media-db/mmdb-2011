@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mega_mindy_en_de_snoepbaron_2011",
+  "title": "Mega Mindy en de Snoepbaron",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13824269",
+    "imdb": "tt2145791",
+    "tmdb": 81853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-21"
+}

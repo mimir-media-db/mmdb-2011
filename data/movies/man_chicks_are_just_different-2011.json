@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_chicks_are_just_different_2011",
+  "title": "Man, Chicks Are Just Different",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9163830",
+    "imdb": "tt1807958",
+    "tmdb": 92108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-09",
+  "runtime_minutes": 90
+}

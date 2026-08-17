@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mahindagamanaya_2011",
+  "title": "Mahindagamanaya",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29830830",
+    "imdb": "tt7647828",
+    "tmdb": 1365340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-18"
+}

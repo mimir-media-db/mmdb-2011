@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monte_carlo_2011",
+  "title": "Monte Carlo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q550248",
+    "imdb": "tt1067774",
+    "tmdb": 59860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-30",
+  "runtime_minutes": 109
+}

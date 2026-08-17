@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_with_style_2011",
+  "title": "A Man with Style",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11257515",
+    "imdb": "tt1705047",
+    "tmdb": 103021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

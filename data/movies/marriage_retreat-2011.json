@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marriage_retreat_2011",
+  "title": "Marriage Retreat",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511230",
+    "imdb": "tt1684558",
+    "tmdb": 73335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

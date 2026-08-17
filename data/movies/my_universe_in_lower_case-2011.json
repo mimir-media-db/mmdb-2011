@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_universe_in_lower_case_2011",
+  "title": "My Universe in Lower Case",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17081127",
+    "imdb": "tt2047789",
+    "tmdb": 171796
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

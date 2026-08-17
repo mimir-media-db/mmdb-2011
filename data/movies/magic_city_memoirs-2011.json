@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_city_memoirs_2011",
+  "title": "Magic City Memoirs",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6730670",
+    "imdb": "tt1466058",
+    "tmdb": 59805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-11"
+}

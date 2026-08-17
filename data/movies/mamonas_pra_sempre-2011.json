@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mamonas_pra_sempre_2011",
+  "title": "Mamonas pra Sempre",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10323474",
+    "imdb": "tt2154685",
+    "tmdb": 139432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mangus_2011",
+  "title": "Mangus!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6749191",
+    "imdb": "tt1571406",
+    "tmdb": 91349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-25"
+}

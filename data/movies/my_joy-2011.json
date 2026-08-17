@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_joy_2011",
+  "title": "My Joy",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1857679",
+    "imdb": "tt1646114",
+    "tmdb": 60981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-03",
+  "runtime_minutes": 128
+}

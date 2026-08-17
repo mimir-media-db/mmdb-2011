@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miracle_on_jongno_street_2011",
+  "title": "Miracle on Jongno Street",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11318486",
+    "imdb": "tt1828245",
+    "tmdb": 108357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
