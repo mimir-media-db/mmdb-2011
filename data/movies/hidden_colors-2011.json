@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_colors_2011",
+  "title": "Hidden Colors",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5751768",
+    "imdb": "tt1857724",
+    "tmdb": 107768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_howling_reborn_2011",
+  "title": "The Howling: Reborn",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4122507",
+    "imdb": "tt1554092",
+    "tmdb": 75623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

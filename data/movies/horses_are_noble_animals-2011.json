@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_horses_are_noble_animals_2011",
+  "title": "Horses are Noble Animals",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5932615",
+    "imdb": "tt1843849",
+    "tmdb": 420528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

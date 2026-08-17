@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hostel_part_iii_2011",
+  "title": "Hostel: Part III",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1338994",
+    "imdb": "tt1255916",
+    "tmdb": 71670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 88
+}

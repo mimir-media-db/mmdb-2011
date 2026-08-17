@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_harakiri_death_of_a_samurai_2011",
+  "title": "Hara-Kiri: Death of a Samurai",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1058015",
+    "imdb": "tt1728196",
+    "tmdb": 85836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 126
+}

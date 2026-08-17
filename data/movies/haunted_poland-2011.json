@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_poland_2011",
+  "title": "Haunted Poland",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5682705",
+    "imdb": "tt2040370",
+    "tmdb": 78042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 103
+}

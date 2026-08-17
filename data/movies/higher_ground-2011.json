@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_higher_ground_2011",
+  "title": "Higher Ground",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5758155",
+    "imdb": "tt1562568",
+    "tmdb": 50875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 114
+}

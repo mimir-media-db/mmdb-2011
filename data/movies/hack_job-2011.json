@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hack_job_2011",
+  "title": "Hack Job",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5637176",
+    "imdb": "tt1907681",
+    "tmdb": 104760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

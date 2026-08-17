@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_2011",
+  "title": "Happy",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5652429",
+    "imdb": "tt1613092",
+    "tmdb": 86577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 76
+}

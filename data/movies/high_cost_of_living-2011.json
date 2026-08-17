@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_high_cost_of_living_2011",
+  "title": "The High Cost of Living",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3225974",
+    "imdb": "tt1479388",
+    "tmdb": 73474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

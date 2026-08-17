@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_romanticer_2011",
+  "title": "Hard Romantic-er",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q900894",
+    "imdb": "tt1924283",
+    "tmdb": 131331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 108
+}

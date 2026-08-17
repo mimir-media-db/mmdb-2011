@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hasta_el_final_del_camino_2011",
+  "title": "Hasta el final del camino",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5892681",
+    "imdb": "tt2039348",
+    "tmdb": 469574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 25
+}

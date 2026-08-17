@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hide_away_2011",
+  "title": "Hide Away",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5752159",
+    "imdb": "tt1536374",
+    "tmdb": 109894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 88
+}

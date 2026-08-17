@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_sex_wars_2011",
+  "title": "Hollywood Sex Wars",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5882923",
+    "imdb": "tt1764366",
+    "tmdb": 82510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 106
+}

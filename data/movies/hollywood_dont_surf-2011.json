@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_dont_surf_2011",
+  "title": "Hollywood Don't Surf!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5882692",
+    "imdb": "tt1372711",
+    "tmdb": 980899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
