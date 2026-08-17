@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_orillas_2011",
+  "title": "Orillas",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76511703",
+    "imdb": "tt1841781",
+    "tmdb": 402618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

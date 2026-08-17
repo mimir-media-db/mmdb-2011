@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_odysseus_gambit_2011",
+  "title": "Odysseus' Gambit",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253789",
+    "imdb": "tt1886621",
+    "tmdb": 314567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 13
+}

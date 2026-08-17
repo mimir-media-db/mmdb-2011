@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_warrior_2011",
+  "title": "Once Upon a Warrior",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3473876",
+    "imdb": "tt1621994",
+    "tmdb": 72440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-21"
+}

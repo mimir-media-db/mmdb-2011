@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_official_basic_instinct_parody_2011",
+  "title": "Official Basic Instinct Parody",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15837382",
+    "imdb": "tt2017562",
+    "tmdb": 62811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-19"
+}

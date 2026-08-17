@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_2011",
+  "title": "The One",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q69065400",
+    "imdb": "tt1681371",
+    "tmdb": 79640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 89
+}

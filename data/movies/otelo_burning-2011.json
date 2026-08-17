@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_otelo_burning_2011",
+  "title": "Otelo Burning",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7108511",
+    "imdb": "tt1986926",
+    "tmdb": 111980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oggetti_smarriti_2011",
+  "title": "Oggetti smarriti",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20005588",
+    "imdb": "tt1730709",
+    "tmdb": 203583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_old_master_q_and_little_ocean_tiger_2011",
+  "title": "Old Master Q and Little Ocean Tiger",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85883566",
+    "imdb": "tt12263866",
+    "tmdb": 286076
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-27"
+}

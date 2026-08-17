@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_official_sons_of_anarchy_parody_2011",
+  "title": "Official Sons of Anarchy Parody",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50412722",
+    "imdb": "tt1830743",
+    "tmdb": 703985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

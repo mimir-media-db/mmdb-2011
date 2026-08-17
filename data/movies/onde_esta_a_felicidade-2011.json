@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_onde_esta_a_felicidade_2011",
+  "title": "Onde está a Felicidade?",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10340956",
+    "imdb": "tt1891885",
+    "tmdb": 85812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 110
+}
