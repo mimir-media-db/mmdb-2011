@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cape_nostalgia_2011",
+  "title": "Cape Nostalgia",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18337682",
+    "imdb": "tt3413692",
+    "tmdb": 287777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-22",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_committed_2011",
+  "title": "Committed",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5779524",
+    "imdb": "tt1787120",
+    "tmdb": 191005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-12"
+}

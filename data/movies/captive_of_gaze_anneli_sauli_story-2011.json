@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_captive_of_gaze_anneli_sauli_story_2011",
+  "title": "Captive of Gaze - Anneli Sauli Story",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113401655",
+    "imdb": "tt1897947"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-21",
+  "runtime_minutes": 75
+}

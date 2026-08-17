@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_case_for_christmas_2011",
+  "title": "The Case for Christmas",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303275",
+    "imdb": "tt2039389",
+    "tmdb": 148888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-19"
+}

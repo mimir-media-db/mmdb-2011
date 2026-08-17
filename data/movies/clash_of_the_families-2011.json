@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_clash_of_the_families_2011",
+  "title": "Clash of the Families",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16168291",
+    "imdb": "tt1884495",
+    "tmdb": 76435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-31",
+  "runtime_minutes": 118
+}

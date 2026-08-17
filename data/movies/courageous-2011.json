@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_courageous_2011",
+  "title": "Courageous",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3285929",
+    "imdb": "tt1630036",
+    "tmdb": 72213
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-26",
+  "runtime_minutes": 129
+}

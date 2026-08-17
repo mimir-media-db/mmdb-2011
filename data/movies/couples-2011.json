@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_couples_2011",
+  "title": "Couples",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16262311",
+    "imdb": "tt2114417",
+    "tmdb": 91239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-02",
+  "runtime_minutes": 110
+}

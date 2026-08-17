@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clouded_leopard_rescue_2011",
+  "title": "Clouded Leopard Rescue",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12041711",
+    "imdb": "tt3075232",
+    "tmdb": 876931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

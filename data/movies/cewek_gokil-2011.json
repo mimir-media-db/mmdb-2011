@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cewek_gokil_2011",
+  "title": "Cewek Gokil",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12478563",
+    "imdb": "tt1859466",
+    "tmdb": 965984
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

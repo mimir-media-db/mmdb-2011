@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_caller_2011",
+  "title": "The Caller",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7721028",
+    "imdb": "tt1525890",
+    "tmdb": 73588
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-15",
+  "runtime_minutes": 92
+}

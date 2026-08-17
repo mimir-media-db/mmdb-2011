@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camminando_verso_2011",
+  "title": "Camminando verso",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25389453",
+    "imdb": "tt1774668",
+    "tmdb": 202447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 74
+}

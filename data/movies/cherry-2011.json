@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cherry_2011",
+  "title": "Cherry",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16627683",
+    "imdb": "tt1975133",
+    "tmdb": 84563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

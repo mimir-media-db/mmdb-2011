@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coming_back_2011",
+  "title": "Coming Back",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10925550",
+    "imdb": "tt1967478",
+    "tmdb": 240874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

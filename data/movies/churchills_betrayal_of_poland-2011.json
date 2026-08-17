@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_churchills_betrayal_of_poland_2011",
+  "title": "Churchill's Betrayal of Poland",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1089892",
+    "imdb": "tt1961233",
+    "tmdb": 994357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-01",
+  "runtime_minutes": 52
+}

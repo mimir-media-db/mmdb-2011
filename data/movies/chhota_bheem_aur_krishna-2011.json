@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chhota_bheem_aur_krishna_2011",
+  "title": "Chhota Bheem Aur Krishna",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5094938",
+    "imdb": "tt2827516",
+    "tmdb": 614385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_code_2600_2011",
+  "title": "Code 2600",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123785205",
+    "imdb": "tt1830538",
+    "tmdb": 97972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

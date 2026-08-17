@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crown_jewels_2011",
+  "title": "The Crown Jewels",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6438945",
+    "imdb": "tt1815782",
+    "tmdb": 72993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-29",
+  "runtime_minutes": 120
+}

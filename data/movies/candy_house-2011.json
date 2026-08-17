@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_candy_house_2011",
+  "title": "Candy House",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98123286",
+    "imdb": "tt1988776",
+    "tmdb": 171390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-26",
+  "runtime_minutes": 85
+}

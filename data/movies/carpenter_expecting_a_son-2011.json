@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carpenter_expecting_a_son_2011",
+  "title": "Carpenter Expecting a Son",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21467352",
+    "imdb": "tt5424012"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 15
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cewek_saweran_2011",
+  "title": "Cewek Saweran",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19724716",
+    "imdb": "tt1930302",
+    "tmdb": 386660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

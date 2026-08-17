@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carne_osso_2011",
+  "title": "Carne, Osso",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80684287",
+    "imdb": "tt1863174",
+    "tmdb": 226953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
