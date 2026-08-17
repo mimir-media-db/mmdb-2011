@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_four_hands_2011",
+  "title": "Four Hands",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26000029",
+    "tmdb": 111380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-14"
+}

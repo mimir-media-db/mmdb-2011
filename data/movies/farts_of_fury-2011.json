@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farts_of_fury_2011",
+  "title": "Farts of Fury",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31271935",
+    "imdb": "tt1869514",
+    "tmdb": 79431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 115
+}

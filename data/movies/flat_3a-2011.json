@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flat_3a_2011",
+  "title": "Flat 3A",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12686630",
+    "imdb": "tt2074362",
+    "tmdb": 70948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

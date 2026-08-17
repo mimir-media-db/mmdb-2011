@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_friends_with_benefits_2011",
+  "title": "Friends with Benefits",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q629596",
+    "imdb": "tt1632708",
+    "tmdb": 50544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-18",
+  "runtime_minutes": 109
+}

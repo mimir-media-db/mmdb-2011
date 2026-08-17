@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_franca_la_prima_2011",
+  "title": "Franca, la prima",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16557038",
+    "imdb": "tt2299429",
+    "tmdb": 321844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 70
+}

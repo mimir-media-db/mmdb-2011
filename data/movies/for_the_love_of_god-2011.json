@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_the_love_of_god_2011",
+  "title": "For the Love of God",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3400431",
+    "imdb": "tt2035601",
+    "tmdb": 82019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-24",
+  "runtime_minutes": 92
+}

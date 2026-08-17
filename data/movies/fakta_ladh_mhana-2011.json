@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fakta_ladh_mhana_2011",
+  "title": "Fakta Ladh Mhana",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5431593",
+    "imdb": "tt2130033",
+    "tmdb": 86279
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-05"
+}

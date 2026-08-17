@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fille_ou_garcon_mon_sexe_nest_pas_mon_genre_2011",
+  "title": "Fille ou garçon, mon sexe n'est pas mon genre",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125546597",
+    "imdb": "tt2076201",
+    "tmdb": 496666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

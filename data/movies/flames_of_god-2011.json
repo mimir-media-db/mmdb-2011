@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_flames_of_god_2011",
+  "title": "Flames of God",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108782380",
+    "imdb": "tt7296714",
+    "tmdb": 1199776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

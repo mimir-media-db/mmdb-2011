@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_french_immersion_2011",
+  "title": "French Immersion",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21869360",
+    "imdb": "tt1674692",
+    "tmdb": 84890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-07"
+}

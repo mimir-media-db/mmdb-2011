@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_footloose_2011",
+  "title": "Footloose",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1197869",
+    "imdb": "tt1068242",
+    "tmdb": 68817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-06",
+  "runtime_minutes": 113
+}

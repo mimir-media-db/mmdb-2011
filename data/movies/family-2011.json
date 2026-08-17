@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_2011",
+  "title": "A Family",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1306297",
+    "imdb": "tt1568815",
+    "tmdb": 58483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-24",
+  "runtime_minutes": 102
+}

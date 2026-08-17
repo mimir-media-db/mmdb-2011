@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fimfarum_do_tretice_vseho_dobreho_3d_2011",
+  "title": "Fimfárum do tretice vseho dobrého 3D",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12011546",
+    "imdb": "tt2053359",
+    "tmdb": 56033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 75
+}
