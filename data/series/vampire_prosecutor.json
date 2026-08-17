@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vampire_prosecutor",
+  "title": "Vampire Prosecutor",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7913000",
+    "imdb": "tt2368922",
+    "tmdb": 42389
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

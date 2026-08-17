@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_van_god_los",
+  "title": "Van God los",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2105048",
+    "imdb": "tt1947866",
+    "tmdb": 48897
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 31
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_voice_portugal",
+  "title": "The Voice Portugal",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4660517",
+    "imdb": "tt3632686",
+    "tmdb": 224970
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 32
+}
