@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_111111_2011",
+  "title": "11-11-11",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q169227",
+    "imdb": "tt1712159",
+    "tmdb": 51248
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-01",
+  "runtime_minutes": 90
+}

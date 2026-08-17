@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_14_days_with_victor_2011",
+  "title": "14 Days with Victor",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5473919",
+    "imdb": "tt1576360",
+    "tmdb": 169384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-04",
+  "runtime_minutes": 88
+}
