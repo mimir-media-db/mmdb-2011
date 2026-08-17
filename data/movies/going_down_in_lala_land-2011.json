@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_going_down_in_lala_land_2011",
+  "title": "Going Down in LA-LA Land",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4438260",
+    "imdb": "tt1599296",
+    "tmdb": 105789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 104
+}

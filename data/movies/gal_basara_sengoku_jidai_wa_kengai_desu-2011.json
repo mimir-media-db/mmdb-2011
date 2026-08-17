@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gal_basara_sengoku_jidai_wa_kengai_desu_2011",
+  "title": "Gal Basara: Sengoku Jidai wa Kengai Desu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4184423",
+    "imdb": "tt2032454",
+    "tmdb": 106416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guilty_2011",
+  "title": "Guilty",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3409260",
+    "imdb": "tt1582244",
+    "tmdb": 83801
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 102
+}

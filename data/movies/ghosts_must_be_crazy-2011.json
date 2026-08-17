@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghosts_must_be_crazy_2011",
+  "title": "The Ghosts Must Be Crazy",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7736339",
+    "imdb": "tt6423546",
+    "tmdb": 73910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

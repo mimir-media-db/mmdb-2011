@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goy_2011",
+  "title": "Goy",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5590153",
+    "imdb": "tt1848913",
+    "tmdb": 4439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

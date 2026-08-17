@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_genji_monogatari_sennen_no_nazo_2011",
+  "title": "Genji Monogatari: Sennen no Nazo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5533292",
+    "imdb": "tt1705064",
+    "tmdb": 146309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 136
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_god_bless_america_2011",
+  "title": "God Bless America",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1533597",
+    "imdb": "tt1912398",
+    "tmdb": 74306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

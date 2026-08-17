@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gun_hill_road_2011",
+  "title": "Gun Hill Road",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5618322",
+    "imdb": "tt1525838",
+    "tmdb": 65953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 88
+}

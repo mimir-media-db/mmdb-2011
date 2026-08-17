@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_2011",
+  "title": "Goodbye",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5583210",
+    "imdb": "tt1926992",
+    "tmdb": 87408
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}

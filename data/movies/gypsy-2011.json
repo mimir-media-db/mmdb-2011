@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gypsy_2011",
+  "title": "Gypsy",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q254726",
+    "imdb": "tt1980935",
+    "tmdb": 79388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}
