@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_be_afraid_of_the_dark_2011",
+  "title": "Don't Be Afraid of the Dark",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2299378",
+    "imdb": "tt1270761",
+    "tmdb": 46261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 99
+}

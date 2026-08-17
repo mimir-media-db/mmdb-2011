@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_days_of_power_2011",
+  "title": "Days of Power",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5815928",
+    "imdb": "tt1971382",
+    "tmdb": 325659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

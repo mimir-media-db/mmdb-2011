@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_rock_2011",
+  "title": "The Devil's Rock",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2410853",
+    "imdb": "tt1712578",
+    "tmdb": 70386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

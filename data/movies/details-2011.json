@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_details_2011",
+  "title": "The Details",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3986596",
+    "imdb": "tt1433207",
+    "tmdb": 135647
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

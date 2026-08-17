@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dragon_2011",
+  "title": "Dragon",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q213138",
+    "imdb": "tt1718199",
+    "tmdb": 70057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 115
+}

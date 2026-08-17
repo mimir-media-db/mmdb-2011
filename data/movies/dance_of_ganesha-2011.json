@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_of_ganesha_2011",
+  "title": "Dance of Ganesha",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5215265",
+    "imdb": "tt2053399",
+    "tmdb": 465972
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

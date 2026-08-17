@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dad_made_dirty_movies_2011",
+  "title": "Dad Made Dirty Movies",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5207851",
+    "imdb": "tt2107682",
+    "tmdb": 211697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 58
+}

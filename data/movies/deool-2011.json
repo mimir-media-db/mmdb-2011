@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deool_2011",
+  "title": "Deool",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3595079",
+    "imdb": "tt2085783",
+    "tmdb": 94935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

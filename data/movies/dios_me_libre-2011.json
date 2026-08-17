@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dios_me_libre_2011",
+  "title": "Dios me libre",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5807658",
+    "imdb": "tt2405724",
+    "tmdb": 104771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 102
+}

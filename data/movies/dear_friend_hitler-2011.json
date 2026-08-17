@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_friend_hitler_2011",
+  "title": "Dear Friend Hitler",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5246862",
+    "imdb": "tt1980970",
+    "tmdb": 72580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_gold_2011",
+  "title": "Deep Gold",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5250205",
+    "imdb": "tt0929742",
+    "tmdb": 48751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

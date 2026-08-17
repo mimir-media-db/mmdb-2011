@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dekh_indian_circus_2011",
+  "title": "Dekh Indian Circus",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5252806",
+    "imdb": "tt2086826",
+    "tmdb": 1263060
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

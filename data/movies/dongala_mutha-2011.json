@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dongala_mutha_2011",
+  "title": "Dongala Mutha",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5295811",
+    "imdb": "tt1860215",
+    "tmdb": 137249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
