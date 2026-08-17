@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swell_season_2011",
+  "title": "The Swell Season",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60152202",
+    "imdb": "tt1722476",
+    "tmdb": 91352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

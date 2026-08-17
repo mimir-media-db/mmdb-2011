@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swans_2011",
+  "title": "Swans",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23666923",
+    "imdb": "tt1766120",
+    "tmdb": 70756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-12",
+  "runtime_minutes": 121
+}

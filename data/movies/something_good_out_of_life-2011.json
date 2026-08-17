@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_something_good_out_of_life_2011",
+  "title": "Something Good Out of Life",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18538896",
+    "imdb": "tt2071429",
+    "tmdb": 1409854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

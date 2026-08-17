@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slove_2011",
+  "title": "Slove. Прямо в сердце",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20072419",
+    "imdb": "tt1822308",
+    "tmdb": 58692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

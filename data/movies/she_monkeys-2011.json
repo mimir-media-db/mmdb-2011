@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_monkeys_2011",
+  "title": "She Monkeys",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5475151",
+    "imdb": "tt1827358",
+    "tmdb": 78646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-02",
+  "runtime_minutes": 84
+}

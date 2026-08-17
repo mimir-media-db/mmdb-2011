@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_sun_of_the_dead_2011",
+  "title": "Sun of The Dead",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11305633",
+    "tmdb": 1121227
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-21"
+}

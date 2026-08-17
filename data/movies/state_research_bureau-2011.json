@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_state_research_bureau_2011",
+  "title": "State Research Bureau",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18392940",
+    "imdb": "tt23459326"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-25"
+}

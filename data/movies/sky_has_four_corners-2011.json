@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sky_has_four_corners_2011",
+  "title": "The Sky Has Four Corners",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64787158",
+    "imdb": "tt1642613",
+    "tmdb": 79918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_septien_2011",
+  "title": "Septien",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17116750",
+    "imdb": "tt1763280",
+    "tmdb": 54598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

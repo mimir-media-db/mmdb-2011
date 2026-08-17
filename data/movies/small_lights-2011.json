@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_small_lights_2011",
+  "title": "Small Lights",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106718756",
+    "imdb": "tt1572774",
+    "tmdb": 118240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-22"
+}

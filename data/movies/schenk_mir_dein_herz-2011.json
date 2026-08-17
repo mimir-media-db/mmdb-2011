@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schenk_mir_dein_herz_2011",
+  "title": "Schenk mir dein Herz",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14658872",
+    "imdb": "tt1740726",
+    "tmdb": 178909
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

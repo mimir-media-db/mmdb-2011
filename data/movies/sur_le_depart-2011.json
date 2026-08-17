@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sur_le_depart_2011",
+  "title": "Sur le départ",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126965664",
+    "imdb": "tt2084102",
+    "tmdb": 509131
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 53
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_semesta_mendukung_2011",
+  "title": "Semesta Mendukung",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7449244",
+    "imdb": "tt2323653",
+    "tmdb": 877901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-20"
+}

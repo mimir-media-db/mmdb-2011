@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spirit_of_kiseng_2011",
+  "title": "Spirit of Kiseng",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19483628",
+    "imdb": "tt2095647",
+    "tmdb": 100702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-04"
+}

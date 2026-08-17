@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_historian_2011",
+  "title": "The Silent Historian",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21869821",
+    "imdb": "tt7803362"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_dogz_and_rock_n_roll_2011",
+  "title": "Sex, Dogz and Rock n' Roll",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57647791",
+    "imdb": "tt1651332",
+    "tmdb": 75952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

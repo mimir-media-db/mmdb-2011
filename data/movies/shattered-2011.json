@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shattered_2011",
+  "title": "Shattered",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17109316",
+    "imdb": "tt2124832",
+    "tmdb": 456079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soubrettes_services_special_stars_2011",
+  "title": "Soubrettes Services: Special Stars",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139850382",
+    "imdb": "tt2397567",
+    "tmdb": 83194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-07",
+  "runtime_minutes": 116
+}

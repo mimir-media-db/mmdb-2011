@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spot_and_splodge_on_the_spot_2011",
+  "title": "Spot and Splodge on the Spot",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128601215",
+    "imdb": "tt7346166",
+    "tmdb": 175919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 41
+}

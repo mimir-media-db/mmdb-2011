@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_speed_2011",
+  "title": "Speed",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2308416",
+    "imdb": "tt1733291",
+    "tmdb": 70613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-06",
+  "runtime_minutes": 197
+}

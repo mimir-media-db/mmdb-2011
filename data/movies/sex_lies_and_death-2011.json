@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_lies_and_death_2011",
+  "title": "Sex, Lies and Death",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55804519",
+    "imdb": "tt1977903",
+    "tmdb": 72246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

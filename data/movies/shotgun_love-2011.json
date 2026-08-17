@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shotgun_love_2011",
+  "title": "Shotgun Love",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16162460",
+    "imdb": "tt1741669",
+    "tmdb": 72442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-10",
+  "runtime_minutes": 112
+}

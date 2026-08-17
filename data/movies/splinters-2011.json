@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_splinters_2011",
+  "title": "Splinters",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q92755633",
+    "imdb": "tt27479749",
+    "tmdb": 1229059
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 42
+}

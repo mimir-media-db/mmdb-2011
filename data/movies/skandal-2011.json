@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skandal_2011",
+  "title": "Skandal",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19734523",
+    "imdb": "tt1930486",
+    "tmdb": 495815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sri_rama_rajyam_2011",
+  "title": "Sri Rama Rajyam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1133230",
+    "imdb": "tt1783377",
+    "tmdb": 94987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-17"
+}

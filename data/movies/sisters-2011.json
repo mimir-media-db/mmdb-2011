@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_2011",
+  "title": "The Sisters",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3446222",
+    "imdb": "tt1797491",
+    "tmdb": 110633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-10",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sajadah_kabah_2011",
+  "title": "Sajadah Ka'bah",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12511522",
+    "imdb": "tt2323649",
+    "tmdb": 736409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-17",
+  "runtime_minutes": 107
+}

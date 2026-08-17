@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_8_2011",
+  "title": "Super 8",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q379877",
+    "imdb": "tt1650062",
+    "tmdb": 37686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-10",
+  "runtime_minutes": 112
+}

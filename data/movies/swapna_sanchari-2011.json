@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_swapna_sanchari_2011",
+  "title": "Swapna Sanchari",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7653806",
+    "imdb": "tt2125630",
+    "tmdb": 151920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-25"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_state_of_shock_2011",
+  "title": "The State of Shock",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28750121",
+    "imdb": "tt1690518",
+    "tmdb": 78689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soukromy_vesmir_2011",
+  "title": "Soukromý vesmír",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123614097",
+    "imdb": "tt2099698",
+    "tmdb": 154811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 83
+}

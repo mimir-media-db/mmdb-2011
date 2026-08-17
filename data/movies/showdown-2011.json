@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_showdown_2011",
+  "title": "The Showdown",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18116864",
+    "imdb": "tt2041374",
+    "tmdb": 52421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 112
+}
