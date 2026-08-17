@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glove_2011",
+  "title": "Glove",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5572136",
+    "imdb": "tt1832362",
+    "tmdb": 64396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-05",
+  "runtime_minutes": 144
+}

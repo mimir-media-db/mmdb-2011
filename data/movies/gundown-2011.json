@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gundown_2011",
+  "title": "The Gundown",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30753770",
+    "imdb": "tt1555110",
+    "tmdb": 67328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

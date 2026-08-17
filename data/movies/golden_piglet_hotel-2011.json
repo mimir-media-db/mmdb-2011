@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_piglet_hotel_2011",
+  "title": "The Golden Piglet Hotel",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10526581",
+    "imdb": "tt1781835",
+    "tmdb": 60593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-23",
+  "runtime_minutes": 90
+}

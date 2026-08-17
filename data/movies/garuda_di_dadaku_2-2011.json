@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_garuda_di_dadaku_2_2011",
+  "title": "Garuda di Dadaku 2",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19725821",
+    "imdb": "tt1987569",
+    "tmdb": 247622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

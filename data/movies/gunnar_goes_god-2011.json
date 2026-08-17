@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gunnar_goes_god_2011",
+  "title": "Gunnar Goes God",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11973290",
+    "imdb": "tt1827425",
+    "tmdb": 307177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-11",
+  "runtime_minutes": 85
+}

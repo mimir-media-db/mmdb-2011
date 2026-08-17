@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gamani_2011",
+  "title": "Gamani",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30600155",
+    "imdb": "tt2410798",
+    "tmdb": 84694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

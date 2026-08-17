@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gang_story_2011",
+  "title": "A Gang Story",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q593",
+    "imdb": "tt1741542",
+    "tmdb": 56415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-10",
+  "runtime_minutes": 103
+}

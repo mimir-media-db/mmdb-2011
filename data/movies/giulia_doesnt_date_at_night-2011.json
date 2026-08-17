@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_giulia_doesnt_date_at_night_2011",
+  "title": "Giulia Doesn't Date at Night",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1527891",
+    "imdb": "tt1261055",
+    "tmdb": 42679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-01",
+  "runtime_minutes": 105
+}

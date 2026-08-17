@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_day_2011",
+  "title": "Great Day",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18652394",
+    "imdb": "tt2069783",
+    "tmdb": 73662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

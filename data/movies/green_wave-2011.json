@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_wave_2011",
+  "title": "The Green Wave",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3225925",
+    "imdb": "tt1667130",
+    "tmdb": 76686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-24",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_model_2011",
+  "title": "Girl Model",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14733764",
+    "imdb": "tt1806911",
+    "tmdb": 83443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 78
+}

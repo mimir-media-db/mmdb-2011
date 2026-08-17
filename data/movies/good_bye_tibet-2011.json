@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_bye_tibet_2011",
+  "title": "Good Bye Tibet",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21441805",
+    "imdb": "tt1793918",
+    "tmdb": 979709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-12"
+}

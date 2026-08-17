@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gang_of_oss_2011",
+  "title": "The Gang of Oss",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2055242",
+    "imdb": "tt1714193",
+    "tmdb": 72370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-21",
+  "runtime_minutes": 112
+}

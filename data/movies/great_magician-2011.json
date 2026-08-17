@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_magician_2011",
+  "title": "The Great Magician",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1054393",
+    "imdb": "tt1869721",
+    "tmdb": 83721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-22",
+  "runtime_minutes": 128
+}

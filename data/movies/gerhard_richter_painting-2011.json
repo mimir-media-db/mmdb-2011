@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gerhard_richter_painting_2011",
+  "title": "Gerhard Richter – Painting",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1512339",
+    "imdb": "tt1982113",
+    "tmdb": 96574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-09-08",
+  "runtime_minutes": 97
+}
