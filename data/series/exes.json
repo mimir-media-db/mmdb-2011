@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_exes",
+  "title": "The Exes",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q1638855",
+    "imdb": "tt1830888",
+    "tmdb": 40505
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 64
+}

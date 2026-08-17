@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_elizabeth_stantons_great_big_world",
+  "title": "Elizabeth Stanton's Great Big World",
+  "start_year": 2011,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q5363552",
+    "imdb": "tt1837169",
+    "tmdb": 58408
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 91
+}

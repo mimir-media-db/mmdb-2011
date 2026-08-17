@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_een_huis_vol",
+  "title": "Een huis vol",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15874821",
+    "imdb": "tt36727337",
+    "tmdb": 106168
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 21
+}

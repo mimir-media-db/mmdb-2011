@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_arbol_de_gabriel",
+  "title": "El árbol de Gabriel",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3050365",
+    "imdb": "tt3376556",
+    "tmdb": 107025
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 171
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_etazhna_sobstvenost",
+  "title": "Etazhna sobstvenost",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q12279978"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 48
+}
