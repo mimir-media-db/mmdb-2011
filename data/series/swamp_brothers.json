@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_swamp_brothers",
+  "title": "Swamp Brothers",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q27645634",
+    "imdb": "tt1911204",
+    "tmdb": 49295
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 32
+}

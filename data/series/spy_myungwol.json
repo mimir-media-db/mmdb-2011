@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_spy_myungwol",
+  "title": "Spy Myung-wol",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q492713",
+    "imdb": "tt5120734",
+    "tmdb": 40379
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

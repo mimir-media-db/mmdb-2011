@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_say_that_i_am",
+  "title": "Say That I am",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125992212",
+    "imdb": "tt13627694",
+    "tmdb": 237427
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

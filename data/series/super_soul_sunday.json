@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_super_soul_sunday",
+  "title": "Super Soul Sunday",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7642792",
+    "imdb": "tt2402865",
+    "tmdb": 51849
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 133
+}

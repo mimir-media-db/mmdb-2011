@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_single_ladies",
+  "title": "Single Ladies",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q7523870",
+    "imdb": "tt1650552",
+    "tmdb": 39640
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 42
+}

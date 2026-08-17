@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sweet_genius",
+  "title": "Sweet Genius",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7655321",
+    "imdb": "tt2244417",
+    "tmdb": 44998
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 34
+}

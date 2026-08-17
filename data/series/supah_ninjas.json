@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_supah_ninjas",
+  "title": "Supah Ninjas",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q205573",
+    "imdb": "tt1615925",
+    "tmdb": 35299
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 38
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sadie_j",
+  "title": "Sadie J",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7397926",
+    "imdb": "tt1824698",
+    "tmdb": 35373
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

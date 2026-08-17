@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sunny_girl",
+  "title": "Sunny Girl",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q715322",
+    "imdb": "tt1848507",
+    "tmdb": 33970
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 22
+}

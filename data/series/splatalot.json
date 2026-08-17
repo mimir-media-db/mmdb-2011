@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_splatalot",
+  "title": "Splatalot!",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7578420",
+    "imdb": "tt1859289",
+    "tmdb": 39036
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 53
+}

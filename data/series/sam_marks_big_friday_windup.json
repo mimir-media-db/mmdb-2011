@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sam_marks_big_friday_windup",
+  "title": "Sam & Mark's Big Friday Wind-Up",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7407041",
+    "imdb": "tt3527064",
+    "tmdb": 323109
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 54
+}

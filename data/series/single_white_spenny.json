@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_single_white_spenny",
+  "title": "Single White Spenny",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7523906",
+    "imdb": "tt1936732",
+    "tmdb": 39956
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

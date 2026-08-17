@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_scrabble_showdown",
+  "title": "Scrabble Showdown",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7438690",
+    "imdb": "tt2057187"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 30
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_state_of_the_nation",
+  "title": "State of the Nation",
+  "start_year": 2011,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q7603837",
+    "imdb": "tt2036153"
+  },
+  "last_updated": "2026-08-17"
+}

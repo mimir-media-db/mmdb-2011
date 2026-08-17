@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_supertorpe",
+  "title": "Supertorpe",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q1975854",
+    "imdb": "tt2223275",
+    "tmdb": 44067
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_skyweek",
+  "title": "SkyWeek",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7537213",
+    "imdb": "tt4412430"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

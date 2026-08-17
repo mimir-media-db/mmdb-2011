@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_speed_round",
+  "title": "Speed Round",
+  "start_year": 2010,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q129677652",
+    "imdb": "tt9517550"
+  },
+  "last_updated": "2026-08-17"
+}

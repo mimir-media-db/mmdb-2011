@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_so_random",
+  "title": "So Random!",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1066522",
+    "imdb": "tt1934818",
+    "tmdb": 39320
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

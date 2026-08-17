@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_salvage_hunters",
+  "title": "Salvage Hunters",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21715203",
+    "imdb": "tt2223298",
+    "tmdb": 45303
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}
