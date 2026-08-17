@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaiji_2_the_ultimate_gambler_2011",
+  "title": "Kaiji 2: The Ultimate Gambler",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3812483",
+    "imdb": "tt1904937",
+    "tmdb": 106417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 135
+}

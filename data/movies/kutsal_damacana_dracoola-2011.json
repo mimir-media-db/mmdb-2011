@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kutsal_damacana_dracoola_2011",
+  "title": "Kutsal Damacana: Dracoola",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6448527",
+    "imdb": "tt1754029",
+    "tmdb": 63363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

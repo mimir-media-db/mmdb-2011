@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_krishnanum_radhayum_2011",
+  "title": "Krishnanum Radhayum",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6437583",
+    "imdb": "tt2094870",
+    "tmdb": 135719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

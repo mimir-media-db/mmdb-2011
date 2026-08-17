@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khaddama_2011",
+  "title": "Khaddama",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6398853",
+    "imdb": "tt1922632",
+    "tmdb": 77735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

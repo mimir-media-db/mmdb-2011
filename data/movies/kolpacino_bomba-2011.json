@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kolpacino_bomba_2011",
+  "title": "Kolpaçino: Bomba",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6427861",
+    "imdb": "tt1862472",
+    "tmdb": 75640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

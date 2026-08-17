@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kniga_tundry_povest_o_vukvukaye_malenkom_kamne_2011",
+  "title": "Kniga Tundry. Povest' o Vukvukaye - malen'kom kamne",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4224687",
+    "imdb": "tt2137550",
+    "tmdb": 109664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}
