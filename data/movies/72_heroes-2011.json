@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_72_heroes_2011",
+  "title": "72 Heroes",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16057731",
+    "imdb": "tt2471242",
+    "tmdb": 81750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
