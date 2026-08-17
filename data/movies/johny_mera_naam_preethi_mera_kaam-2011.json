@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_johny_mera_naam_preethi_mera_kaam_2011",
+  "title": "Johny Mera Naam Preethi Mera Kaam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6268853",
+    "imdb": "tt3107840",
+    "tmdb": 991352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

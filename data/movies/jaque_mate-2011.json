@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jaque_mate_2011",
+  "title": "Jaque Mate",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6159383",
+    "imdb": "tt1822237",
+    "tmdb": 136736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_judy_moody_and_the_not_bummer_summer_2011",
+  "title": "Judy Moody and the Not Bummer Summer",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6304538",
+    "imdb": "tt1547230",
+    "tmdb": 60062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}
