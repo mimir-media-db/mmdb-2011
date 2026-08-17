@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_peleles",
+  "title": "Peleles",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3374446",
+    "imdb": "tt2008281",
+    "tmdb": 99130
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 83
+}

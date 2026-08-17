@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pandaerne",
+  "title": "Pandaerne",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q12330912",
+    "imdb": "tt1824619",
+    "tmdb": 38146
+  },
+  "last_updated": "2026-08-17"
+}

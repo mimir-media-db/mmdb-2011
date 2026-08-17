@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_platane",
+  "title": "Platane",
+  "start_year": 2011,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q3391798",
+    "imdb": "tt2040020",
+    "tmdb": 61375
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

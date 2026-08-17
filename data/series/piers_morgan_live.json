@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_piers_morgan_live",
+  "title": "Piers Morgan Live",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q3387969",
+    "imdb": "tt1809909",
+    "tmdb": 34988
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 403
+}

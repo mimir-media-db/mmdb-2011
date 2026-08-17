@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pelzig_halt_sich",
+  "title": "Pelzig hält sich",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2068422",
+    "imdb": "tt1841269",
+    "tmdb": 61686
+  },
+  "last_updated": "2026-08-17"
+}

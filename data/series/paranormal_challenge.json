@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paranormal_challenge",
+  "title": "Paranormal Challenge",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7135543",
+    "imdb": "tt1967680",
+    "tmdb": 39514
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

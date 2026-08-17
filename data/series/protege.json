@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_protege",
+  "title": "Protégé",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7252211",
+    "imdb": "tt2047298",
+    "tmdb": 58856
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 183
+}

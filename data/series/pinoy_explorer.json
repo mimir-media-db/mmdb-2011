@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pinoy_explorer",
+  "title": "Pinoy Explorer",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7196444",
+    "imdb": "tt2023095",
+    "tmdb": 42338
+  },
+  "last_updated": "2026-08-17"
+}

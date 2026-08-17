@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_personalan",
+  "title": "Personalan",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7170632",
+    "tmdb": 59112
+  },
+  "last_updated": "2026-08-17"
+}

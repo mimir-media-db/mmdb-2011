@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_patis_mexican_table",
+  "title": "Pati's Mexican Table",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106430420",
+    "imdb": "tt1842155",
+    "tmdb": 57602
+  },
+  "last_updated": "2026-08-17"
+}

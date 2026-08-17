@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_prime_suspect",
+  "title": "Prime Suspect",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2469905",
+    "imdb": "tt1582456",
+    "tmdb": 39684
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}
