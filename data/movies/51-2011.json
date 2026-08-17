@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_51_2011",
+  "title": "51",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28267",
+    "imdb": "tt1629439",
+    "tmdb": 57812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-26",
+  "runtime_minutes": 87
+}
