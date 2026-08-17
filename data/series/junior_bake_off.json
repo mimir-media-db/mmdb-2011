@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_junior_bake_off",
+  "title": "Junior Bake Off",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16995520",
+    "imdb": "tt2131864",
+    "tmdb": 81492
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 103
+}

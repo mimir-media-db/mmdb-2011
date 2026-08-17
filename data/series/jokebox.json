@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_jokebox",
+  "title": "Jokebox",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q11928246",
+    "imdb": "tt2394535"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

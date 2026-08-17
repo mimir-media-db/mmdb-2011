@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jessie",
+  "title": "Jessie",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q659653",
+    "imdb": "tt1865769",
+    "tmdb": 38974
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 98
+}
