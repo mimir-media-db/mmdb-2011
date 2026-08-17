@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_6_points_about_emma_2011",
+  "title": "6 Points About Emma",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6123986",
+    "imdb": "tt1798085",
+    "tmdb": 80120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}
