@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_0334_earthquake_in_chile_2011",
+  "title": "03:34: Earthquake in Chile",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4185452",
+    "imdb": "tt1862444",
+    "tmdb": 62300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 100
+}
