@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_of_giacomo_2011",
+  "title": "Summer of Giacomo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1439918",
+    "imdb": "tt2075234",
+    "tmdb": 132951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 78
+}

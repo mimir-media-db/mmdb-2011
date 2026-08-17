@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sang_penari_2011",
+  "title": "Sang Penari",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4184232",
+    "imdb": "tt1989598",
+    "tmdb": 94720
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

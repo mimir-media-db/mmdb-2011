@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silver_bullets_2011",
+  "title": "Silver Bullets",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7515880",
+    "imdb": "tt1865503",
+    "tmdb": 77884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 69
+}

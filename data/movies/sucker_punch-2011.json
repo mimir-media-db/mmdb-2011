@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sucker_punch_2011",
+  "title": "Sucker Punch",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q621587",
+    "imdb": "tt0978764",
+    "tmdb": 23629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 110
+}

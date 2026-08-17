@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_son_of_no_one_2011",
+  "title": "The Son of No One",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2110876",
+    "imdb": "tt1535612",
+    "tmdb": 74536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 95
+}

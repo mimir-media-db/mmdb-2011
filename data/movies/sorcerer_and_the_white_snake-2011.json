@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorcerer_and_the_white_snake_2011",
+  "title": "The Sorcerer and the White Snake",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q542532",
+    "imdb": "tt1857913",
+    "tmdb": 75948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 120
+}

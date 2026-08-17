@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scents_and_sensibility_2011",
+  "title": "Scents and Sensibility",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2870348",
+    "imdb": "tt1600438",
+    "tmdb": 104109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_showgirls_2_pennys_from_heaven_2011",
+  "title": "Showgirls 2: Penny's from Heaven",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7503246",
+    "imdb": "tt1693110",
+    "tmdb": 94042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 143
+}

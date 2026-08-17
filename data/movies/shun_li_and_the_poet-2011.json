@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shun_li_and_the_poet_2011",
+  "title": "Shun Li and the Poet",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2021294",
+    "imdb": "tt2036388",
+    "tmdb": 75562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

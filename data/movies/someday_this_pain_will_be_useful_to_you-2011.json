@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_someday_this_pain_will_be_useful_to_you_2011",
+  "title": "Someday This Pain Will Be Useful to You",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3023600",
+    "imdb": "tt1703125",
+    "tmdb": 93676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 95
+}

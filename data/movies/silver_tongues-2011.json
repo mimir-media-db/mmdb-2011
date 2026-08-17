@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silver_tongues_2011",
+  "title": "Silver Tongues",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7516466",
+    "imdb": "tt1580021",
+    "tmdb": 63142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

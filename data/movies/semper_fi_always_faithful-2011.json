@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_semper_fi_always_faithful_2011",
+  "title": "Semper Fi: Always Faithful",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7449769",
+    "imdb": "tt1863372",
+    "tmdb": 84553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

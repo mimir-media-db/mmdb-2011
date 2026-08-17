@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_surviving_progress_2011",
+  "title": "Surviving Progress",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7647233",
+    "imdb": "tt1462014",
+    "tmdb": 79172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

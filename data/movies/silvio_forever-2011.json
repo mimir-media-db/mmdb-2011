@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silvio_forever_2011",
+  "title": "Silvio Forever",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3960870",
+    "imdb": "tt1851050",
+    "tmdb": 59264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

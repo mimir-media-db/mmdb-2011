@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_satrangee_parachute_2011",
+  "title": "Satrangee Parachute",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7426459",
+    "imdb": "tt1886663",
+    "tmdb": 338654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

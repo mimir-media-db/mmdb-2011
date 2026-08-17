@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swat_firefight_2011",
+  "title": "S.W.A.T.: Firefight",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q372842",
+    "imdb": "tt1621429",
+    "tmdb": 54445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

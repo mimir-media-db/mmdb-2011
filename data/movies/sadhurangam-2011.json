@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sadhurangam_2011",
+  "title": "Sadhurangam",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7397889",
+    "imdb": "tt2084930",
+    "tmdb": 112121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

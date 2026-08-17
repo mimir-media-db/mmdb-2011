@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sauna_on_moon_2011",
+  "title": "Sauna on Moon",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3474243",
+    "imdb": "tt1922566",
+    "tmdb": 110951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

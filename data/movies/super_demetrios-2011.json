@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_super_demetrios_2011",
+  "title": "Super Demetrios",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7642293",
+    "imdb": "tt2071601",
+    "tmdb": 138719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

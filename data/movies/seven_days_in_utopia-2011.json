@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_days_in_utopia_2011",
+  "title": "Seven Days in Utopia",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3958466",
+    "imdb": "tt1699147",
+    "tmdb": 70876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sleeping_sickness_2011",
+  "title": "Sleeping Sickness",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2363503",
+    "imdb": "tt1822304",
+    "tmdb": 70768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

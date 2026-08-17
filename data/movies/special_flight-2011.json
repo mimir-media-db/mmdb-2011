@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_special_flight_2011",
+  "title": "Special flight",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3562678",
+    "imdb": "tt2075378",
+    "tmdb": 263253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 103
+}

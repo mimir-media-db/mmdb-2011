@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shojo_senso_2011",
+  "title": "Shojō Sensō",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7500167",
+    "imdb": "tt17050888",
+    "tmdb": 927207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_segunda_mano_2011",
+  "title": "Segunda Mano",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7446393",
+    "imdb": "tt2118720",
+    "tmdb": 97240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

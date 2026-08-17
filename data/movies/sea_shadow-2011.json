@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sea_shadow_2011",
+  "title": "Sea Shadow",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7439995",
+    "imdb": "tt1663181",
+    "tmdb": 275732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

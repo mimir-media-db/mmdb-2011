@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sandman_2011",
+  "title": "The Sandman",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q693722",
+    "imdb": "tt1801808",
+    "tmdb": 70752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}
