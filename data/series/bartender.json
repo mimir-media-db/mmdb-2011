@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bartender",
+  "title": "Bartender",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q128926142",
+    "imdb": "tt1783434",
+    "tmdb": 70975
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

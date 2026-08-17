@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bandolera",
+  "title": "Bandolera",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q3311145",
+    "imdb": "tt1790024",
+    "tmdb": 62540
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 510
+}

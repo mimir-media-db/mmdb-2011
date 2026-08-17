@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_budoy",
+  "title": "Budoy",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1654253",
+    "imdb": "tt2081650",
+    "tmdb": 206105
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 110
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_be_home_for_dinner",
+  "title": "Be Home for Dinner",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4875514",
+    "tmdb": 39011
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 158
+}

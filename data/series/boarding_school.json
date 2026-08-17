@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boarding_school",
+  "title": "The Boarding School",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q3660863",
+    "imdb": "tt2394140",
+    "tmdb": 46104
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 134
+}

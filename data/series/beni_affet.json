@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beni_affet",
+  "title": "Beni Affet",
+  "start_year": 2011,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q12808813",
+    "imdb": "tt2247207",
+    "tmdb": 119693
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 1477
+}

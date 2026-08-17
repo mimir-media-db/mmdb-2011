@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beaver_falls",
+  "title": "Beaver Falls",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2380889",
+    "imdb": "tt1919418",
+    "tmdb": 40107
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

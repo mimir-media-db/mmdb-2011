@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bountiful_blessings",
+  "title": "Bountiful Blessings",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4950042",
+    "imdb": "tt12471194",
+    "tmdb": 40529
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

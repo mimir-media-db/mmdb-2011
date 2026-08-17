@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_berlin_tag_nacht",
+  "title": "Berlin – Tag & Nacht",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q821364",
+    "imdb": "tt2053650",
+    "tmdb": 45885
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 2426
+}

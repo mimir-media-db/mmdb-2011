@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_billy_connollys_route_66",
+  "title": "Billy Connolly's Route 66",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q13629667",
+    "imdb": "tt2058779",
+    "tmdb": 43208
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

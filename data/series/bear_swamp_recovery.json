@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bear_swamp_recovery",
+  "title": "Bear Swamp Recovery",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q4876578",
+    "imdb": "tt2050901",
+    "tmdb": 41751
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

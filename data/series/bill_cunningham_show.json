@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_bill_cunningham_show",
+  "title": "The Bill Cunningham Show",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q7717982",
+    "imdb": "tt2058498",
+    "tmdb": 40504
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 604
+}

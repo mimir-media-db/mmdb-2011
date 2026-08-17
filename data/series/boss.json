@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_boss",
+  "title": "Boss",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q894496",
+    "imdb": "tt1833285",
+    "tmdb": 38922
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

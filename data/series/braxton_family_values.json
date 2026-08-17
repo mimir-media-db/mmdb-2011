@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_braxton_family_values",
+  "title": "Braxton Family Values",
+  "start_year": 2011,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q4958504",
+    "imdb": "tt1861510",
+    "tmdb": 39103
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 92
+}
