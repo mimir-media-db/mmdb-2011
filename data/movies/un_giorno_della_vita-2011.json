@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_giorno_della_vita_2011",
+  "title": "Un giorno della vita",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4003851",
+    "imdb": "tt1555864",
+    "tmdb": 62462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_cella_in_due_2011",
+  "title": "Una cella in due",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4004172",
+    "imdb": "tt1846809",
+    "tmdb": 58413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

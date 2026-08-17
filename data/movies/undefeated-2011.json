@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_undefeated_2011",
+  "title": "The Undefeated",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7771342",
+    "imdb": "tt1961604",
+    "tmdb": 80210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

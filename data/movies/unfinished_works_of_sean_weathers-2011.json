@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unfinished_works_of_sean_weathers_2011",
+  "title": "The Unfinished Works of Sean Weathers",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7771456",
+    "imdb": "tt2099767",
+    "tmdb": 277756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

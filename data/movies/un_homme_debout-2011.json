@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_un_homme_debout_2011",
+  "title": "Un homme debout",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3548675",
+    "imdb": "tt3143436"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
