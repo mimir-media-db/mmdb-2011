@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_a_mile_in_my_pradas_2011",
+  "title": "Walk a Mile in My Pradas",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65051753",
+    "imdb": "tt1645187",
+    "tmdb": 85348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-15"
+}

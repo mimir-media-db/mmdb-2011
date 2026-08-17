@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warriors_heart_2011",
+  "title": "A Warrior's Heart",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3566419",
+    "imdb": "tt1341340",
+    "tmdb": 79699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-13",
+  "runtime_minutes": 86
+}

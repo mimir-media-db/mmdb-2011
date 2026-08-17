@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whale_2011",
+  "title": "The Whale",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18791566",
+    "imdb": "tt1708537",
+    "tmdb": 77880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

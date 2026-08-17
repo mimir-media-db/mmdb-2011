@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_in_the_fog_2011",
+  "title": "A Walk in the Fog",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5866897",
+    "imdb": "tt1857819",
+    "tmdb": 384568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-16",
+  "runtime_minutes": 79
+}

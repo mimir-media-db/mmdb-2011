@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_hungary_a_water_wonderland_2011",
+  "title": "Wild Hungary – A Water Wonderland",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23860324",
+    "imdb": "tt1980298",
+    "tmdb": 169506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-21",
+  "runtime_minutes": 52
+}

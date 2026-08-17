@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_winter_smells_2011",
+  "title": "Winter smells",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90691590",
+    "tmdb": 415504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-18"
+}

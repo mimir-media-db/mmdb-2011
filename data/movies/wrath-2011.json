@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wrath_2011",
+  "title": "Wrath",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18945374",
+    "imdb": "tt1754912",
+    "tmdb": 118952
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

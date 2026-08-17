@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whistleblower_2011",
+  "title": "The Whistleblower",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q701892",
+    "imdb": "tt0896872",
+    "tmdb": 65760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-05",
+  "runtime_minutes": 113
+}

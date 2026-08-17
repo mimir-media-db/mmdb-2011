@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_to_all_saints_2011",
+  "title": "Welcome to 'All Saints",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30242985",
+    "imdb": "tt1838452",
+    "tmdb": 75633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

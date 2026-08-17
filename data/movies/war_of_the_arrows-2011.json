@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_of_the_arrows_2011",
+  "title": "War of the Arrows",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q486956",
+    "imdb": "tt2025526",
+    "tmdb": 79224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-10",
+  "runtime_minutes": 122
+}

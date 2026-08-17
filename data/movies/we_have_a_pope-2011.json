@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_have_a_pope_2011",
+  "title": "We Have a Pope",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1235281",
+    "imdb": "tt1456472",
+    "tmdb": 61667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-15",
+  "runtime_minutes": 102
+}

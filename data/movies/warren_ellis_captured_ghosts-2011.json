@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warren_ellis_captured_ghosts_2011",
+  "title": "Warren Ellis: Captured Ghosts",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7970175",
+    "imdb": "tt1854592",
+    "tmdb": 137896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 79
+}

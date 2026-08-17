@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_way_of_the_morris_2011",
+  "title": "Way of the Morris",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18791559",
+    "imdb": "tt1702622",
+    "tmdb": 156601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 64
+}

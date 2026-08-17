@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weekender_2011",
+  "title": "Weekender",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17035050",
+    "imdb": "tt1706470",
+    "tmdb": 74608
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

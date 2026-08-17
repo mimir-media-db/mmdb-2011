@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_with_every_heartbeat_2011",
+  "title": "With Every Heartbeat",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8027984",
+    "imdb": "tt1859522",
+    "tmdb": 71325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-29",
+  "runtime_minutes": 105
+}

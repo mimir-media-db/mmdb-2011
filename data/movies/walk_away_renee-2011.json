@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_walk_away_renee_2011",
+  "title": "Walk Away Renee",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7962060",
+    "imdb": "tt1844822",
+    "tmdb": 97572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

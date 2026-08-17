@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wake_wood_2011",
+  "title": "Wake Wood",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2484315",
+    "imdb": "tt1296899",
+    "tmdb": 59726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-25",
+  "runtime_minutes": 91
+}

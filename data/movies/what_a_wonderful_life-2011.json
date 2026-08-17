@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_a_wonderful_life_2011",
+  "title": "What A Wonderful Life!!",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11351443",
+    "imdb": "tt1685686",
+    "tmdb": 456470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

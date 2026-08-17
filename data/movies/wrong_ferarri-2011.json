@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wrong_ferarri_2011",
+  "title": "The Wrong Ferarri",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7776349",
+    "imdb": "tt9452878",
+    "tmdb": 108925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-04"
+}
