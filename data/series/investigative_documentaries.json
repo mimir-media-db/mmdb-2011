@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_investigative_documentaries",
+  "title": "Investigative Documentaries",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6060697",
+    "imdb": "tt2027737",
+    "tmdb": 39675
+  },
+  "last_updated": "2026-08-17"
+}

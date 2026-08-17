@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_iss_pyaar_ko_kya_naam_doon",
+  "title": "Iss Pyaar Ko Kya Naam Doon?",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6087920",
+    "imdb": "tt2300165",
+    "tmdb": 39390
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 406
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_incredible_dr_pol",
+  "title": "The Incredible Dr. Pol",
+  "start_year": 2011,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q15995530",
+    "imdb": "tt2136396",
+    "tmdb": 49297
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 21,
+  "total_episodes": 200
+}

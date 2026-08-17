@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_its_all_about_amy",
+  "title": "It's All About Amy",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q16995188",
+    "imdb": "tt2126834"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

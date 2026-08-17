@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_i_am_a_singer",
+  "title": "I Am a Singer",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4300886",
+    "tmdb": 130999
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

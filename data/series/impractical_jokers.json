@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_impractical_jokers",
+  "title": "Impractical Jokers",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q2029180",
+    "imdb": "tt2100976",
+    "tmdb": 59186
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 12,
+  "total_episodes": 287
+}

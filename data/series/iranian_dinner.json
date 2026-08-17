@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_iranian_dinner",
+  "title": "Iranian Dinner",
+  "start_year": 2010,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q5958181",
+    "imdb": "tt4003350",
+    "tmdb": 274849
+  },
+  "last_updated": "2026-08-17"
+}
