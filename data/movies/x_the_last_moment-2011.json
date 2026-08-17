@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_x_the_last_moment_2011",
+  "title": "X - The Last Moment",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12524945",
+    "imdb": "tt2323717",
+    "tmdb": 324763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-08",
+  "runtime_minutes": 84
+}
