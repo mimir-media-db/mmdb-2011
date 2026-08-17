@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_witch_doctor_will_see_you_now",
+  "title": "The Witch Doctor Will See You Now",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q52161665",
+    "imdb": "tt2151488",
+    "tmdb": 51493
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_whos_still_standing",
+  "title": "Who's Still Standing?",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q25546629",
+    "imdb": "tt1864016",
+    "tmdb": 42378
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

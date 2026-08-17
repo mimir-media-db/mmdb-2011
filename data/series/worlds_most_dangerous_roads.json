@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_worlds_most_dangerous_roads",
+  "title": "World's Most Dangerous Roads",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q8035250",
+    "imdb": "tt2078521",
+    "tmdb": 63272
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 9
+}

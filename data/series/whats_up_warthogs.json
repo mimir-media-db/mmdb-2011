@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_whats_up_warthogs",
+  "title": "What's Up Warthogs!",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7990846",
+    "imdb": "tt1630619",
+    "tmdb": 38909
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

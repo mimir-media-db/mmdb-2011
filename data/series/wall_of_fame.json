@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wall_of_fame",
+  "title": "Wall of Fame",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7962649",
+    "imdb": "tt5987572"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

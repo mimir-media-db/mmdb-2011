@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_world_seen_from_the_train",
+  "title": "The World seen from the train",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1106528",
+    "tmdb": 322071
+  },
+  "last_updated": "2026-08-17"
+}

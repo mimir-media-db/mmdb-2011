@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_white_van_man",
+  "title": "White Van Man",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q2676021",
+    "imdb": "tt1711422",
+    "tmdb": 39005
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

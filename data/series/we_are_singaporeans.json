@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_we_are_singaporeans",
+  "title": "We Are Singaporeans",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q7977343",
+    "tmdb": 39586
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 73
+}

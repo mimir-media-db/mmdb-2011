@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_welcome_to_the_elpalacio",
+  "title": "Welcome to the El-Palacio",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q135267180",
+    "imdb": "tt1988348",
+    "tmdb": 128562
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

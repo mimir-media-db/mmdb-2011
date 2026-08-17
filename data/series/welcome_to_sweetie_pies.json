@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_welcome_to_sweetie_pies",
+  "title": "Welcome to Sweetie Pie's",
+  "start_year": 2011,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q7980749",
+    "imdb": "tt2117780",
+    "tmdb": 43916
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 73
+}

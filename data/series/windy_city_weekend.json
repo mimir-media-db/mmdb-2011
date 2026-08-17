@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_windy_city_weekend",
+  "title": "Windy City Weekend",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60744668",
+    "imdb": "tt2372876",
+    "tmdb": 67913
+  },
+  "last_updated": "2026-08-17"
+}

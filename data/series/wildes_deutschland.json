@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wildes_deutschland",
+  "title": "Wildes Deutschland",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q51371438",
+    "imdb": "tt1889351",
+    "tmdb": 51928
+  },
+  "last_updated": "2026-08-17"
+}
