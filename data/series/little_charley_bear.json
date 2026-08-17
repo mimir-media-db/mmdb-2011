@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_little_charley_bear",
+  "title": "Little Charley Bear",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6649520",
+    "imdb": "tt1313065",
+    "tmdb": 37778
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 52
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_living_in_style",
+  "title": "Living in Style",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6704750",
+    "imdb": "tt6286338",
+    "tmdb": 40537
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 51
+}

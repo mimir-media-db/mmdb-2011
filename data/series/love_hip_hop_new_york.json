@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_love_hip_hop_new_york",
+  "title": "Love & Hip Hop: New York",
+  "start_year": 2011,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q24037548",
+    "imdb": "tt1718437",
+    "tmdb": 38360
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 82
+}

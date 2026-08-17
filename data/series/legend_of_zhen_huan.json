@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_zhen_huan",
+  "title": "The Legend of Zhen Huan",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11070218",
+    "imdb": "tt2374683",
+    "tmdb": 50878
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 76
+}

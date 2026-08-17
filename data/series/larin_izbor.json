@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_larin_izbor",
+  "title": "Larin izbor",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q1247879",
+    "imdb": "tt2034403"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 347
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_and_adventures_of_mishka_yaponchik",
+  "title": "The Life and Adventures of Mishka Yaponchik",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q4180217",
+    "imdb": "tt2317835",
+    "tmdb": 68025
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}
