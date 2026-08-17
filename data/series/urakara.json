@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_urakara",
+  "title": "Urakara",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q705774",
+    "imdb": "tt1772722",
+    "tmdb": 35384
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

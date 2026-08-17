@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_una_familia_con_suerte",
+  "title": "Una familia con suerte",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q308242",
+    "imdb": "tt1853455",
+    "tmdb": 37652
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 264
+}

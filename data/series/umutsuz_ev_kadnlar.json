@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_umutsuz_ev_kadnlar",
+  "title": "Umutsuz Ev Kadınları",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2045001",
+    "imdb": "tt2051741",
+    "tmdb": 48037
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 154
+}

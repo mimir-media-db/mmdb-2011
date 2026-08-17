@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unique_sweets",
+  "title": "Unique Sweets",
+  "start_year": 2011,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18645278",
+    "imdb": "tt1918540",
+    "tmdb": 55291
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 94
+}

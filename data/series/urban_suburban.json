@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_urban_suburban",
+  "title": "Urban Suburban",
+  "start_year": 2010,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7900056",
+    "imdb": "tt2063535"
+  },
+  "last_updated": "2026-08-17"
+}
