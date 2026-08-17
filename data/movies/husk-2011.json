@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_husk_2011",
+  "title": "Husk",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2597321",
+    "imdb": "tt1504403",
+    "tmdb": 56906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-28",
+  "runtime_minutes": 80
+}

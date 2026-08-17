@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hare_rama_hare_krishna_2011",
+  "title": "Hare Rama Hare Krishna",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646472",
+    "imdb": "tt5218536",
+    "tmdb": 1746275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-01"
+}

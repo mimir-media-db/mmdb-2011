@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hop_2011",
+  "title": "Hop",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q753605",
+    "imdb": "tt1411704",
+    "tmdb": 50359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-30",
+  "runtime_minutes": 95
+}

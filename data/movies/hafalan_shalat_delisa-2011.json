@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hafalan_shalat_delisa_2011",
+  "title": "Hafalan Shalat Delisa",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16841434",
+    "imdb": "tt2285477",
+    "tmdb": 91581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

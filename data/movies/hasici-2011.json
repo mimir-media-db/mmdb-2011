@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hasici_2011",
+  "title": "Hasici",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104896056",
+    "imdb": "tt1848922",
+    "tmdb": 411317
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

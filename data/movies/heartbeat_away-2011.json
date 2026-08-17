@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heartbeat_away_2011",
+  "title": "A Heartbeat Away",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15039741",
+    "imdb": "tt1612793",
+    "tmdb": 74415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

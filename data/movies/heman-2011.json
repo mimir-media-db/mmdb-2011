@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heman_2011",
+  "title": "He-Man",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5688662",
+    "imdb": "tt1883397",
+    "tmdb": 73897
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-01",
+  "runtime_minutes": 86
+}

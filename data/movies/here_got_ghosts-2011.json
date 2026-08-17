@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_here_got_ghosts_2011",
+  "title": "Here Got Ghosts",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20463751",
+    "imdb": "tt1823746",
+    "tmdb": 58477
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

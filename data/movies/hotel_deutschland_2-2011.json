@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hotel_deutschland_2_2011",
+  "title": "Hotel Deutschland 2",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23016259",
+    "imdb": "tt2125523"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-27",
+  "runtime_minutes": 90
+}

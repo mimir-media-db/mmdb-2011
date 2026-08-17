@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hoffenheim_life_is_not_a_home_game_2011",
+  "title": "Hoffenheim - Life is Not a Home Game",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1623025",
+    "imdb": "tt1590049",
+    "tmdb": 383308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-05",
+  "runtime_minutes": 90
+}

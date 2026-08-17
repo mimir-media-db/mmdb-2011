@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_cross_buns_2011",
+  "title": "Hot Cross Buns",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48967117"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

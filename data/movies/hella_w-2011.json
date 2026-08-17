@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hella_w_2011",
+  "title": "Hella W",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11862062",
+    "imdb": "tt1382722",
+    "tmdb": 62614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-28",
+  "runtime_minutes": 82
+}
