@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ny_ink",
+  "title": "NY Ink",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q6956127",
+    "imdb": "tt1840051",
+    "tmdb": 39576
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

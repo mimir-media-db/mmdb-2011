@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_navraty_k_divocine",
+  "title": "Návraty k divocine",
+  "start_year": 2010,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q104906592",
+    "imdb": "tt4109052",
+    "tmdb": 77300
+  },
+  "last_updated": "2026-08-17"
+}

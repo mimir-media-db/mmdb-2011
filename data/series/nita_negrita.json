@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_nita_negrita",
+  "title": "Nita Negrita",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q7041201",
+    "imdb": "tt1933866",
+    "tmdb": 35356
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 83
+}

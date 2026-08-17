@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_new_girl",
+  "title": "New Girl",
+  "start_year": 2011,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q844059",
+    "imdb": "tt1826940",
+    "tmdb": 1420
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 146
+}
