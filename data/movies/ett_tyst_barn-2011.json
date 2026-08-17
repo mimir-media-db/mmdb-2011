@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ett_tyst_barn_2011",
+  "title": "Ett tyst barn",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10489431",
+    "imdb": "tt1661831",
+    "tmdb": 300927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-01",
+  "runtime_minutes": 12
+}

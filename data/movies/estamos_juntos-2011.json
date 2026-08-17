@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_estamos_juntos_2011",
+  "title": "Estamos Juntos",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10275481",
+    "imdb": "tt2139855",
+    "tmdb": 82745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 166
+}

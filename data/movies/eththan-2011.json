@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eththan_2011",
+  "title": "Eththan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15711567",
+    "imdb": "tt1961305",
+    "tmdb": 99132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

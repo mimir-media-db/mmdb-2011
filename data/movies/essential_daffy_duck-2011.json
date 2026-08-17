@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_essential_daffy_duck_2011",
+  "title": "The Essential Daffy Duck",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7732458"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-01"
+}

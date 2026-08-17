@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evil_bong_3d_the_wrath_of_bong_2011",
+  "title": "Evil Bong 3D: The Wrath of Bong",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12118607",
+    "imdb": "tt1791500",
+    "tmdb": 74943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 87
+}

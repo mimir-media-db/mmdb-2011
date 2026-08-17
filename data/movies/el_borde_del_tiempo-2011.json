@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_borde_del_tiempo_2011",
+  "title": "El borde del tiempo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106153786",
+    "imdb": "tt0425785",
+    "tmdb": 1091718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 99
+}

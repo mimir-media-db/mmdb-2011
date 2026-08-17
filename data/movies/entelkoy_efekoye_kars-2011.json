@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_entelkoy_efekoye_kars_2011",
+  "title": "Entelköy Efeköy'e Karşı",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135097040",
+    "imdb": "tt1886531",
+    "tmdb": 109146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-02"
+}

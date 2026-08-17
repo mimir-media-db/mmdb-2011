@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ekbatan_2011",
+  "title": "Ekbatan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14755389",
+    "imdb": "tt2168528",
+    "tmdb": 1744645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ezaat_hubb_2011",
+  "title": "Eza'at Hubb",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12182079",
+    "imdb": "tt2133220",
+    "tmdb": 270347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-28",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_medico_the_cubaton_story_2011",
+  "title": "El Medico: The Cubaton Story",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18288931",
+    "imdb": "tt1540868",
+    "tmdb": 147841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 85
+}

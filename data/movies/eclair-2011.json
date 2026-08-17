@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eclair_2011",
+  "title": "Eclair",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11289859",
+    "imdb": "tt1728175",
+    "tmdb": 378026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

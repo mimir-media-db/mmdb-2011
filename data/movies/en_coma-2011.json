@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_coma_2011",
+  "title": "En Coma",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q91104903",
+    "imdb": "tt11562724",
+    "tmdb": 449168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-06",
+  "runtime_minutes": 90
+}

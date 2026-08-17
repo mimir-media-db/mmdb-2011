@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_hombre_que_baila_2011",
+  "title": "El hombre que baila",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12164439",
+    "imdb": "tt1869398"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_destello_2011",
+  "title": "El destello",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137737715",
+    "imdb": "tt4569216",
+    "tmdb": 36088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_entanglement_2011",
+  "title": "Entanglement",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9367598",
+    "imdb": "tt1808641",
+    "tmdb": 75827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-03",
+  "runtime_minutes": 123
+}
