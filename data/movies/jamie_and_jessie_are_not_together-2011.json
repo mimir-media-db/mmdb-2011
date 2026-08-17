@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jamie_and_jessie_are_not_together_2011",
+  "title": "Jamie and Jessie are not together",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10297138",
+    "imdb": "tt1718807",
+    "tmdb": 212927
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

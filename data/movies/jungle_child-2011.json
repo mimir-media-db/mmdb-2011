@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jungle_child_2011",
+  "title": "Jungle Child",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1262179",
+    "imdb": "tt1242543",
+    "tmdb": 54517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-02-17",
+  "runtime_minutes": 131
+}

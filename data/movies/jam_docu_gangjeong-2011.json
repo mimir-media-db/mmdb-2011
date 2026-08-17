@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jam_docu_gangjeong_2011",
+  "title": "Jam Docu GangJeong",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117432127",
+    "imdb": "tt2087822",
+    "tmdb": 416313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-12-22"
+}

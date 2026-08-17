@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jiong_tan_jia_ren_2011",
+  "title": "Jiong Tan Jia Ren",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15929408",
+    "imdb": "tt1884331",
+    "tmdb": 624075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

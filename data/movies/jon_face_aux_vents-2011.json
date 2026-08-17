@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_jon_face_aux_vents_2011",
+  "title": "Jon face aux vents",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16646112",
+    "imdb": "tt2127298"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

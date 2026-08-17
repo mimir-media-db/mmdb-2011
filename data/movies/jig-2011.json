@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jig_2011",
+  "title": "Jig",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125239",
+    "imdb": "tt1748062",
+    "tmdb": 76112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

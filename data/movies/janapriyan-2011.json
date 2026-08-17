@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_janapriyan_2011",
+  "title": "Janapriyan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6150773",
+    "imdb": "tt1967534",
+    "tmdb": 215351
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-05-20"
+}
