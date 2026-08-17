@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_playing_house_2011",
+  "title": "Playing House",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7203399",
+    "imdb": "tt1529564",
+    "tmdb": 69854
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paparazzi_eye_in_the_dark_2011",
+  "title": "Paparazzi: Eye in the Dark",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7132489",
+    "imdb": "tt1836097",
+    "tmdb": 288012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

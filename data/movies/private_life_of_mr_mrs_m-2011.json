@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_private_life_of_mr_mrs_m_2011",
+  "title": "The Private Life of Mr. & Mrs. M",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5931827",
+    "imdb": "tt2334034",
+    "tmdb": 255489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

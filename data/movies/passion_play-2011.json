@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passion_play_2011",
+  "title": "Passion Play",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2699261",
+    "imdb": "tt1396221",
+    "tmdb": 38753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

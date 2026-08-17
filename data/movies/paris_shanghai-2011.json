@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_shanghai_2011",
+  "title": "Paris Shanghai",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3365290",
+    "imdb": "tt1825107",
+    "tmdb": 428177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pipi_room_2011",
+  "title": "Pipì Room",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3905553",
+    "imdb": "tt3754468",
+    "tmdb": 502868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

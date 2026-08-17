@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pained_2011",
+  "title": "Pained",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7124875",
+    "imdb": "tt2063842",
+    "tmdb": 86001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 104
+}

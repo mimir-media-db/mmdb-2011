@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_payyans_2011",
+  "title": "Payyans",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7156941",
+    "imdb": "tt2265493",
+    "tmdb": 214970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

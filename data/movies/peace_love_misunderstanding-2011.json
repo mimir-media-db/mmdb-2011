@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peace_love_misunderstanding_2011",
+  "title": "Peace, Love & Misunderstanding",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4549951",
+    "imdb": "tt1649780",
+    "tmdb": 98545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}

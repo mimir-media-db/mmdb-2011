@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pink_smoke_over_the_vatican_2011",
+  "title": "Pink Smoke over the Vatican",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q404122",
+    "imdb": "tt1664776",
+    "tmdb": 1184442
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passion_despair_2011",
+  "title": "Passion Despair",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118707",
+    "imdb": "tt1961458",
+    "tmdb": 280246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

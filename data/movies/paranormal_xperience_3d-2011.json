@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paranormal_xperience_3d_2011",
+  "title": "Paranormal Xperience 3D",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3895254",
+    "imdb": "tt1838618",
+    "tmdb": 85438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 90
+}

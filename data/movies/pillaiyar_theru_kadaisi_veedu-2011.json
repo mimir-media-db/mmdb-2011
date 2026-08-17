@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pillaiyar_theru_kadaisi_veedu_2011",
+  "title": "Pillaiyar Theru Kadaisi Veedu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7194117",
+    "imdb": "tt1982143",
+    "tmdb": 81136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

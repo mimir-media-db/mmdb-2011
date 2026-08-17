@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pigeons_on_the_roof_2011",
+  "title": "Pigeons on the Roof",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1215743",
+    "imdb": "tt1430631",
+    "tmdb": 79472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 96
+}

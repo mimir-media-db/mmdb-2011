@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_precious_knowledge_2011",
+  "title": "Precious Knowledge",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7239449",
+    "imdb": "tt1855315",
+    "tmdb": 413325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

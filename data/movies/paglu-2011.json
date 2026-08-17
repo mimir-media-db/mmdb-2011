@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_paglu_2011",
+  "title": "Paglu",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7124379",
+    "imdb": "tt2113735",
+    "tmdb": 245188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

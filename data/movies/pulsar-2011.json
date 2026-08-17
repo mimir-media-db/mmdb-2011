@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pulsar_2011",
+  "title": "Pulsar",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2573302",
+    "imdb": "tt1703919",
+    "tmdb": 74546
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 91
+}

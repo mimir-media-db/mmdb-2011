@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poolboy_drowning_out_the_fury_2011",
+  "title": "Poolboy: Drowning Out the Fury",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1805734",
+    "imdb": "tt1693843",
+    "tmdb": 70863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

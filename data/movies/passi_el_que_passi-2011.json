@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_passi_el_que_passi_2011",
+  "title": "Passi el que passi",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6065981",
+    "imdb": "tt1852874",
+    "tmdb": 80191
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polnische_ostern_2011",
+  "title": "Polnische Ostern",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1147066",
+    "imdb": "tt1702385",
+    "tmdb": 93874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_patiala_house_2011",
+  "title": "Patiala House",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7144913",
+    "imdb": "tt1535467",
+    "tmdb": 53299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 147
+}

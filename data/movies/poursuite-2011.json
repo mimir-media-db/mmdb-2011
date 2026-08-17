@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poursuite_2011",
+  "title": "Poursuite",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3400659",
+    "imdb": "tt1388776",
+    "tmdb": 60097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 92
+}
