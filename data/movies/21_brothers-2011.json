@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_21_brothers_2011",
+  "title": "21 Brothers",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125206161",
+    "imdb": "tt1949106",
+    "tmdb": 147485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-02",
+  "runtime_minutes": 96
+}
