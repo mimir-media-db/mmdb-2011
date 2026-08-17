@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_14_de_abril_la_republica",
+  "title": "14 de abril. La República",
+  "start_year": 2011,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q3877122",
+    "imdb": "tt1784167",
+    "tmdb": 65752
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

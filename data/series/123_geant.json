@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_123_geant",
+  "title": "1,2,3... géant!",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q2806561",
+    "imdb": "tt5969702",
+    "tmdb": 91666
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 195
+}
