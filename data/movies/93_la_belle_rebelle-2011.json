@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_93_la_belle_rebelle_2011",
+  "title": "93: La belle rebelle",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106519107",
+    "imdb": "tt1647444",
+    "tmdb": 474173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-26",
+  "runtime_minutes": 73
+}
