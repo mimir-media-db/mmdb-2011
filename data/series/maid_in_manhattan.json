@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maid_in_manhattan",
+  "title": "Maid in Manhattan",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q650822",
+    "imdb": "tt2087566",
+    "tmdb": 33169
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 163
+}

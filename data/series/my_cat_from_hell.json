@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_cat_from_hell",
+  "title": "My Cat from Hell",
+  "start_year": 2011,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q6945142",
+    "imdb": "tt1933073",
+    "tmdb": 59687
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 96
+}

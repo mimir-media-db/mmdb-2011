@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_indonesia",
+  "title": "MasterChef Indonesia",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3473201",
+    "imdb": "tt2277854",
+    "tmdb": 37690
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 166
+}

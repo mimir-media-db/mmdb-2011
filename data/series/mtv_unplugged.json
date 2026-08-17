@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_mtv_unplugged",
+  "title": "MTV Unplugged",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19833160"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5
+}

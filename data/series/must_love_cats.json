@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_must_love_cats",
+  "title": "Must Love Cats",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6943180",
+    "imdb": "tt1824580",
+    "tmdb": 37640
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

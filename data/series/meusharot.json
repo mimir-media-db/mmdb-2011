@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_meusharot",
+  "title": "Me'usharot",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7759595",
+    "imdb": "tt2955588",
+    "tmdb": 39067
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_magnificent_century",
+  "title": "Magnificent Century",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q176615",
+    "imdb": "tt1848220",
+    "tmdb": 34899
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 139
+}

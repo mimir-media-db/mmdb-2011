@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_maltratadas",
+  "title": "Maltratadas",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5990795",
+    "imdb": "tt2069434",
+    "tmdb": 56434
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

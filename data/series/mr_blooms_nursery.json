@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_blooms_nursery",
+  "title": "Mr Bloom's Nursery",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q16998215"
+  },
+  "last_updated": "2026-08-17"
+}

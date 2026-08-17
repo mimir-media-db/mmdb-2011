@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_magyarorszag_szeretlek",
+  "title": "Magyarország, szeretlek!",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1162745",
+    "imdb": "tt2076539"
+  },
+  "last_updated": "2026-08-17"
+}

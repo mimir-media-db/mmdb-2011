@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mob_wives_the_last_stand",
+  "title": "Mob Wives: The Last Stand",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q3317572",
+    "imdb": "tt1827163",
+    "tmdb": 39513
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 82
+}

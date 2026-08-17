@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mana_po",
+  "title": "Mana Po",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6746544",
+    "imdb": "tt1842798",
+    "tmdb": 37755
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mtv2s_guy_code",
+  "title": "MTV2's Guy Code",
+  "start_year": 2011,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6718568",
+    "imdb": "tt2212323",
+    "tmdb": 50210
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 57
+}

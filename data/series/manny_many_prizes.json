@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_manny_many_prizes",
+  "title": "Manny Many Prizes",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q6751014",
+    "imdb": "tt2032876",
+    "tmdb": 39929
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 74
+}

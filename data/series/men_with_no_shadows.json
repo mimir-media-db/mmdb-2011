@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_men_with_no_shadows",
+  "title": "Men with No Shadows",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q10868964",
+    "imdb": "tt6284108",
+    "tmdb": 35367
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

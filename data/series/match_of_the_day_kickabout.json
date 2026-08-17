@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_match_of_the_day_kickabout",
+  "title": "Match of the Day Kickabout",
+  "start_year": 2011,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q6786231"
+  },
+  "last_updated": "2026-08-17"
+}

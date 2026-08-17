@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_mata_ng_agila",
+  "title": "Mata ng Agila",
+  "start_year": 2011,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6785909",
+    "tmdb": 41903
+  },
+  "last_updated": "2026-08-17"
+}

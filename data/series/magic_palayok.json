@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_magic_palayok",
+  "title": "Magic Palayok",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q6730805",
+    "imdb": "tt1952738",
+    "tmdb": 37616
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 88
+}
