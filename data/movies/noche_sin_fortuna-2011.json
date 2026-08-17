@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_noche_sin_fortuna_2011",
+  "title": "Noche sin fortuna",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55205548",
+    "imdb": "tt1884373",
+    "tmdb": 159444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 86
+}

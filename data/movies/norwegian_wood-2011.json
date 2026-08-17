@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_norwegian_wood_2011",
+  "title": "Norwegian Wood",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1066749",
+    "imdb": "tt1270842",
+    "tmdb": 57703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-30",
+  "runtime_minutes": 133
+}

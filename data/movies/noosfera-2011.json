@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_noosfera_2011",
+  "title": "Noosfera",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44869709",
+    "imdb": "tt2256773",
+    "tmdb": 164138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

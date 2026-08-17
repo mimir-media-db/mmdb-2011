@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_never_let_me_go_2011",
+  "title": "Never Let Me Go",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q927826",
+    "imdb": "tt1334260",
+    "tmdb": 42188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-14",
+  "runtime_minutes": 103
+}

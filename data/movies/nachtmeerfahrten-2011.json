@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nachtmeerfahrten_2011",
+  "title": "Nachtmeerfahrten",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98805377",
+    "imdb": "tt2055689",
+    "tmdb": 164352
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-10-27"
+}

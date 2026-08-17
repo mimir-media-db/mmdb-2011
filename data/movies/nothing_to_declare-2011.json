@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nothing_to_declare_2011",
+  "title": "Nothing to Declare",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q250447",
+    "imdb": "tt1528313",
+    "tmdb": 52077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-26",
+  "runtime_minutes": 108
+}

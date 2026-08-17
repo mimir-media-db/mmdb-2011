@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_never_back_down_2_the_beatdown_2011",
+  "title": "Never Back Down 2: The Beatdown",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2640347",
+    "imdb": "tt1754264",
+    "tmdb": 70006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-04-08",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_not_in_my_backyard_2011",
+  "title": "Not in my Backyard",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106716356"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}

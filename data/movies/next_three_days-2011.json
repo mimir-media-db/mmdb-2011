@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_next_three_days_2011",
+  "title": "The Next Three Days",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q263930",
+    "imdb": "tt1458175",
+    "tmdb": 43539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-20",
+  "runtime_minutes": 133
+}

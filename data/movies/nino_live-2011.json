@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nino_live_2011",
+  "title": "Nino Live",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16958103",
+    "imdb": "tt3587946",
+    "tmdb": 459881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-11-02"
+}

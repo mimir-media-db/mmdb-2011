@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_market_hero_2011",
+  "title": "Night Market Hero",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15904094",
+    "imdb": "tt1887820",
+    "tmdb": 72441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01"
+}
