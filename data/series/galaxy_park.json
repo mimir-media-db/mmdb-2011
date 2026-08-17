@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_galaxy_park",
+  "title": "Galaxy Park",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2104839",
+    "imdb": "tt2163805",
+    "tmdb": 219625
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 156
+}

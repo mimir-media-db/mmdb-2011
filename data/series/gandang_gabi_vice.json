@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gandang_gabi_vice",
+  "title": "Gandang Gabi, Vice!",
+  "start_year": 2011,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q5520600",
+    "imdb": "tt1943249",
+    "tmdb": 39307
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 454
+}

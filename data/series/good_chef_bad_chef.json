@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_chef_bad_chef",
+  "title": "Good Chef Bad Chef",
+  "start_year": 2011,
+  "end_year": 2011,
+  "external_ids": {
+    "wikidata": "Q5582463",
+    "imdb": "tt1580495",
+    "tmdb": 40263
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 9,
+  "total_episodes": 456
+}

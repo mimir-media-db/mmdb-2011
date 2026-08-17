@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_glee_project",
+  "title": "The Glee Project",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q972947",
+    "imdb": "tt1816993",
+    "tmdb": 35268
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

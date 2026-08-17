@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_game_plan",
+  "title": "The Game Plan",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q7735711"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 40
+}

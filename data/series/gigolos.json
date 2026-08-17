@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gigolos",
+  "title": "Gigolos",
+  "start_year": 2011,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q5560354",
+    "imdb": "tt1898575",
+    "tmdb": 38953
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 49
+}
