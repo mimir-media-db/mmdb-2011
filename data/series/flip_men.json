@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_flip_men",
+  "title": "Flip Men",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q5459667",
+    "imdb": "tt2090864",
+    "tmdb": 59438
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

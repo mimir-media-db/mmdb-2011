@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_flying_wild_alaska",
+  "title": "Flying Wild Alaska",
+  "start_year": 2011,
+  "end_year": 2012,
+  "external_ids": {
+    "wikidata": "Q1990596",
+    "imdb": "tt1781092",
+    "tmdb": 35397
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 31
+}

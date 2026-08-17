@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_for_better_or_worse",
+  "title": "For Better or Worse",
+  "start_year": 2011,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q7860113",
+    "imdb": "tt1911883",
+    "tmdb": 42032
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 127
+}

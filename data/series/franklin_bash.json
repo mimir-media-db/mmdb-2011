@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_franklin_bash",
+  "title": "Franklin & Bash",
+  "start_year": 2011,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q2528793",
+    "imdb": "tt1600199",
+    "tmdb": 33301
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

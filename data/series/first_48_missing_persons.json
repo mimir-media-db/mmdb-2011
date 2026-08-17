@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_first_48_missing_persons",
+  "title": "The First 48: Missing Persons",
+  "start_year": 2011,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q7734070"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 15
+}

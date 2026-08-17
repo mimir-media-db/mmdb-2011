@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_flying_passion",
+  "title": "The Flying Passion",
+  "start_year": 2011,
+  "end_year": 2010,
+  "external_ids": {
+    "wikidata": "Q5949726",
+    "imdb": "tt3663032",
+    "tmdb": 231242
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}
