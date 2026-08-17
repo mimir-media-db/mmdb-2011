@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_own_oslo_2011",
+  "title": "Our Own Oslo",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7111127",
+    "imdb": "tt1930425",
+    "tmdb": 89088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 97
+}

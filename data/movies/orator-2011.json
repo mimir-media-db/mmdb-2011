@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_orator_2011",
+  "title": "The Orator",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7755266",
+    "imdb": "tt1846783",
+    "tmdb": 77322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 110
+}

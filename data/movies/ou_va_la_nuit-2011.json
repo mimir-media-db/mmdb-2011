@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ou_va_la_nuit_2011",
+  "title": "Où va la nuit",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q967170",
+    "imdb": "tt0825282",
+    "tmdb": 74106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 105
+}

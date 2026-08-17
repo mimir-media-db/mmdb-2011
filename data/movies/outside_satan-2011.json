@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_outside_satan_2011",
+  "title": "Outside Satan",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3140760",
+    "imdb": "tt1666168",
+    "tmdb": 89456
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 110
+}
