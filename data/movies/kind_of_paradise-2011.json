@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kind_of_paradise_2011",
+  "title": "A kind of paradise",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20493669",
+    "imdb": "tt4145006",
+    "tmdb": 813539
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 60
+}

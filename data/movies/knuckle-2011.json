@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knuckle_2011",
+  "title": "Knuckle",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12125420",
+    "imdb": "tt1606259",
+    "tmdb": 71771
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 97
+}

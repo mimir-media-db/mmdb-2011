@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_the_irishman_2011",
+  "title": "Kill the Irishman",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1004440",
+    "imdb": "tt1416801",
+    "tmdb": 51209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-03-11",
+  "runtime_minutes": 106
+}

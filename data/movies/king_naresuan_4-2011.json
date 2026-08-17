@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_naresuan_4_2011",
+  "title": "King Naresuan 4",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13015012",
+    "imdb": "tt1997402",
+    "tmdb": 119087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-11",
+  "runtime_minutes": 132
+}

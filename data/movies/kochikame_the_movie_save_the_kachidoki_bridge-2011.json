@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kochikame_the_movie_save_the_kachidoki_bridge_2011",
+  "title": "Kochikame The Movie Save The Kachidoki Bridge",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135012801",
+    "imdb": "tt1705877",
+    "tmdb": 253407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-08-06",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karen_cries_on_the_bus_2011",
+  "title": "Karen Cries on the Bus",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12155713",
+    "imdb": "tt1754003",
+    "tmdb": 88599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 98
+}

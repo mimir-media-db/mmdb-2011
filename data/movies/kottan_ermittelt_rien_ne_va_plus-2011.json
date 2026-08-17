@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kottan_ermittelt_rien_ne_va_plus_2011",
+  "title": "Kottan ermittelt: Rien ne va plus",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1785453",
+    "imdb": "tt1428448",
+    "tmdb": 63856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-02",
+  "runtime_minutes": 114
+}

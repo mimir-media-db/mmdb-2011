@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kepergok_pocong_2011",
+  "title": "Kepergok Pocong",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12490941",
+    "imdb": "tt2112178",
+    "tmdb": 964299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-14",
+  "runtime_minutes": 78
+}

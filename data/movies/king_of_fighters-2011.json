@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_fighters_2011",
+  "title": "The King of Fighters",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1046883",
+    "imdb": "tt1038685",
+    "tmdb": 44571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-07-16",
+  "runtime_minutes": 93
+}

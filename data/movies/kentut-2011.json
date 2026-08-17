@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kentut_2011",
+  "title": "Kentut",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12490895",
+    "imdb": "tt2062567",
+    "tmdb": 508849
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-06-01",
+  "runtime_minutes": 90
+}

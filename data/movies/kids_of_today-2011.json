@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kids_of_today_2011",
+  "title": "Kids of Töday",
+  "year": 2011,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111208382",
+    "imdb": "tt1954379",
+    "tmdb": 105779
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2011-01-01",
+  "runtime_minutes": 97
+}
